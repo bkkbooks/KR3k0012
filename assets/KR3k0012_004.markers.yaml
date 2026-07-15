@@ -25,6 +25,7 @@ markers:
   - {type: punctuation, offset: 5, content: 《, id: KR3k0012_CHANT_004-bkkpn1}
   - {type: variant, offset: 5, length: 1, content: 說, SBCK: 有黃氣君喜下有黄氣名永福又曰漢}
   - {type: variant, offset: 5, length: 1, content: 說, krp: 有黃氣君喜下有黄氣名永福又曰漢}
+  - {type: substitution, offset: 5, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 7, content: 》, id: KR3k0012_CHANT_004-bkkpn2}
   - {type: variant, offset: 7, length: 1, content: 云, SBCK: 帝時日中有王字徐整長曆曰泉湯之精上合爲日徑千里周圍三千里下於天七千里談藪曰魏文帝爲王時夢日墜地分爲三巳得一分而内懷中鄧析書曰君者當如冬日之陽夏日之隂萬物歸之莫之使也王充論衡曰日不入地也譬人把火夜行平地去人十里火光藏矣非滅也又曰夫日月不圎視之如圎者去人逺也夫日火精也在地火不圎在天火何故獨圎日月在天猶五星五星猶列星不圎何以明之春秋之時星隕宋都視之石也不圎是知日月五星亦不圎也又曰儒書言魯陽公與韓戰戰酣日暮援戈而麾之日爲之反三舎此言虚也凡人能以精誠感動天者專心一意委務積神通天天爲變動然尚未可謂然魯陽公志在於戰爲日暮一麾安能令日反使聖人麾日日終不反魯陽公何人而使日反又曰儒言日中有三足烏}
   - {type: page-break, offset: 7, content: '', id: KR3k0012_SBCK_004-1b}
@@ -488,6 +489,7 @@ markers:
   - {type: punctuation, offset: 413, content: ：, id: KR3k0012_CHANT_004-bkkpn195}
   - {type: 'tls:seg', offset: 413, content: '', id: KR3k0012_CHANT_004-13a.13}
   - {type: punctuation, offset: 413, content: 「, id: KR3k0012_CHANT_004-bkkpn196}
+  - {type: substitution, offset: 417, original: 气, replacement: 氣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16204}}
   - {type: punctuation, offset: 419, content: 。, id: KR3k0012_CHANT_004-bkkpn197}
   - {type: punctuation, offset: 419, content: 」, id: KR3k0012_CHANT_004-bkkpn198}
   - {type: 'tls:seg', offset: 419, content: '', id: KR3k0012_CHANT_004-13a.14}
@@ -499,6 +501,7 @@ markers:
   - {type: 'tls:seg', offset: 428, content: '', id: KR3k0012_CHANT_004-13a.17}
   - {type: punctuation, offset: 431, content: ，, id: KR3k0012_CHANT_004-bkkpn202}
   - {type: 'tls:seg', offset: 431, content: '', id: KR3k0012_CHANT_004-13a.18}
+  - {type: substitution, offset: 433, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 434, content: ，, id: KR3k0012_CHANT_004-bkkpn203}
   - {type: 'tls:seg', offset: 434, content: '', id: KR3k0012_CHANT_004-13a.19}
   - {type: punctuation, offset: 437, content: ，, id: KR3k0012_CHANT_004-bkkpn204}
@@ -523,6 +526,7 @@ markers:
   - {type: 'tls:seg', offset: 473, content: '', id: KR3k0012_CHANT_004-13a.29}
   - {type: punctuation, offset: 479, content: 。, id: KR3k0012_CHANT_004-bkkpn214}
   - {type: 'tls:seg', offset: 479, content: '', id: KR3k0012_CHANT_004-13a.30}
+  - {type: substitution, offset: 479, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 480, content: ，, id: KR3k0012_CHANT_004-bkkpn215}
   - {type: 'tls:seg', offset: 480, content: '', id: KR3k0012_CHANT_004-13a.31}
   - {type: punctuation, offset: 484, content: 。, id: KR3k0012_CHANT_004-bkkpn216}
@@ -660,6 +664,7 @@ markers:
   - {type: punctuation, offset: 600, content: 「, id: KR3k0012_CHANT_004-bkkpn262}
   - {type: variant, offset: 602, length: 25, content: 雲如眾赤烏夾日以飛三日楚子使問周太史曰其當王身若禜, SBCK: 五寸謂}
   - {type: variant, offset: 602, length: 25, content: 雲如眾赤烏夾日以飛三日楚子使問周太史曰其當王身若禜, krp: 五寸謂}
+  - {type: substitution, offset: 604, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 607, content: ，, id: KR3k0012_CHANT_004-bkkpn263}
   - {type: 'tls:seg', offset: 607, content: '', id: KR3k0012_CHANT_004-15a.4}
   - {type: variant, offset: 609, length: 3, content: 以飛三, WYG: 在圵景居南山海經曰長留之山其神白帝少昊居之是神也主司反景}
@@ -1171,6 +1176,7 @@ markers:
   - {type: punctuation, offset: 1082, content: 「, id: KR3k0012_CHANT_004-bkkpn445}
   - {type: punctuation, offset: 1084, content: ，, id: KR3k0012_CHANT_004-bkkpn446}
   - {type: 'tls:seg', offset: 1084, content: '', id: KR3k0012_CHANT_004-24a.7}
+  - {type: substitution, offset: 1084, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 1088, content: ，, id: KR3k0012_CHANT_004-bkkpn447}
   - {type: 'tls:seg', offset: 1088, content: '', id: KR3k0012_CHANT_004-24a.8}
   - {type: punctuation, offset: 1092, content: ，, id: KR3k0012_CHANT_004-bkkpn448}
@@ -1202,6 +1208,7 @@ markers:
   - {type: punctuation, offset: 1137, content: ：, id: KR3k0012_CHANT_004-bkkpn461}
   - {type: 'tls:seg', offset: 1137, content: '', id: KR3k0012_CHANT_004-25a.3}
   - {type: punctuation, offset: 1137, content: 「, id: KR3k0012_CHANT_004-bkkpn462}
+  - {type: substitution, offset: 1153, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 1158, content: 。, id: KR3k0012_CHANT_004-bkkpn463}
   - {type: 'tls:seg', offset: 1158, content: '', id: KR3k0012_CHANT_004-25a.4}
   - {type: punctuation, offset: 1160, content: ：, id: KR3k0012_CHANT_004-bkkpn464}
@@ -1210,6 +1217,7 @@ markers:
   - {type: 'tls:seg', offset: 1167, content: '', id: KR3k0012_CHANT_004-25a.6}
   - {type: punctuation, offset: 1174, content: ，, id: KR3k0012_CHANT_004-bkkpn466}
   - {type: 'tls:seg', offset: 1174, content: '', id: KR3k0012_CHANT_004-25a.7}
+  - {type: substitution, offset: 1176, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17195}}
   - {type: punctuation, offset: 1178, content: 。, id: KR3k0012_CHANT_004-bkkpn467}
   - {type: 'tls:seg', offset: 1178, content: '', id: KR3k0012_CHANT_004-25a.8}
   - {type: variant, offset: 1183, length: 5, content: 象君父夫兄, WYG: 使也積隂}
@@ -1282,6 +1290,7 @@ markers:
   - {type: punctuation, offset: 1306, content: ？, id: KR3k0012_CHANT_004-bkkpn500}
   - {type: punctuation, offset: 1306, content: 』, id: KR3k0012_CHANT_004-bkkpn501}
   - {type: 'tls:seg', offset: 1306, content: '', id: KR3k0012_CHANT_004-26a.18}
+  - {type: substitution, offset: 1306, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 1308, content: ：, id: KR3k0012_CHANT_004-bkkpn502}
   - {type: 'tls:seg', offset: 1308, content: '', id: KR3k0012_CHANT_004-26a.19}
   - {type: punctuation, offset: 1308, content: 『, id: KR3k0012_CHANT_004-bkkpn503}
@@ -1298,6 +1307,8 @@ markers:
   - {type: 'tls:seg', offset: 1330, content: '', id: KR3k0012_CHANT_004-26a.24}
   - {type: punctuation, offset: 1335, content: ，, id: KR3k0012_CHANT_004-bkkpn510}
   - {type: 'tls:seg', offset: 1335, content: '', id: KR3k0012_CHANT_004-26a.25}
+  - {type: substitution, offset: 1335, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
+  - {type: substitution, offset: 1338, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 1339, content: ，, id: KR3k0012_CHANT_004-bkkpn511}
   - {type: 'tls:seg', offset: 1339, content: '', id: KR3k0012_CHANT_004-26a.26}
   - {type: punctuation, offset: 1346, content: 。, id: KR3k0012_CHANT_004-bkkpn512}
@@ -1308,6 +1319,7 @@ markers:
   - {type: punctuation, offset: 1357, content: ？, id: KR3k0012_CHANT_004-bkkpn515}
   - {type: punctuation, offset: 1357, content: 』, id: KR3k0012_CHANT_004-bkkpn516}
   - {type: 'tls:seg', offset: 1357, content: '', id: KR3k0012_CHANT_004-26a.29}
+  - {type: substitution, offset: 1357, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: punctuation, offset: 1359, content: ：, id: KR3k0012_CHANT_004-bkkpn517}
   - {type: 'tls:seg', offset: 1359, content: '', id: KR3k0012_CHANT_004-26a.30}
   - {type: punctuation, offset: 1359, content: 『, id: KR3k0012_CHANT_004-bkkpn518}
@@ -1563,6 +1575,7 @@ markers:
   - {type: 'tls:seg', offset: 1683, content: '', id: KR3k0012_CHANT_004-30a.44}
   - {type: punctuation, offset: 1687, content: 。, id: KR3k0012_CHANT_004-bkkpn623}
   - {type: 'tls:seg', offset: 1687, content: '', id: KR3k0012_CHANT_004-30a.45}
+  - {type: substitution, offset: 1687, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 1691, content: ，, id: KR3k0012_CHANT_004-bkkpn624}
   - {type: 'tls:seg', offset: 1691, content: '', id: KR3k0012_CHANT_004-30a.46}
   - {type: punctuation, offset: 1693, content: ，, id: KR3k0012_CHANT_004-bkkpn625}
@@ -1603,6 +1616,7 @@ markers:
   - {type: 'tls:seg', offset: 1767, content: '', id: KR3k0012_CHANT_004-30a.63}
   - {type: punctuation, offset: 1771, content: ，, id: KR3k0012_CHANT_004-bkkpn642}
   - {type: 'tls:seg', offset: 1771, content: '', id: KR3k0012_CHANT_004-30a.64}
+  - {type: substitution, offset: 1772, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 1775, content: ，, id: KR3k0012_CHANT_004-bkkpn643}
   - {type: 'tls:seg', offset: 1775, content: '', id: KR3k0012_CHANT_004-30a.65}
   - {type: punctuation, offset: 1779, content: 。, id: KR3k0012_CHANT_004-bkkpn644}
@@ -1802,6 +1816,7 @@ markers:
   - {type: variant, offset: 2036, length: 10, content: 孔子晨遊見兩小兒爭辯, SBCK: 月之光可以逺望}
   - {type: punctuation, offset: 2040, content: ，, id: KR3k0012_CHANT_004-bkkpn735}
   - {type: 'tls:seg', offset: 2040, content: '', id: KR3k0012_CHANT_004-35a.9}
+  - {type: substitution, offset: 2045, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: variant, offset: 2047, length: 204, content: 鬥孔丘問其故一兒曰我以日始出時去人近日中時去人遠一兒曰我以為日初出時遠而日中時近曰爾何以知曰日初出大如車輪及中纔如盤蓋此不為遠者小而近者大乎一兒曰日初出滄滄涼涼及其中如探湯此不為近者熱而遠者涼乎孔子不能決兩兒笑曰丘孰謂汝多知乎文子曰日出於地萬物蕃息尸子曰日五色至陽之精象君德也五色照耀君秉土而王又曰少昊金天氏邑於窮桑日五色互照窮桑又曰聖人以日圓光盈尺光滿天下聖人居室而所燭彌綸六合又曰火在井中不能燭遠目在足下, SBCK: ''}
   - {type: punctuation, offset: 2048, content: 。, id: KR3k0012_CHANT_004-bkkpn736}
   - {type: 'tls:seg', offset: 2048, content: '', id: KR3k0012_CHANT_004-35a.10}
@@ -1839,6 +1854,7 @@ markers:
   - {type: 'tls:seg', offset: 2100, content: '', id: KR3k0012_CHANT_004-35a.22}
   - {type: punctuation, offset: 2102, content: ，, id: KR3k0012_CHANT_004-bkkpn756}
   - {type: 'tls:seg', offset: 2102, content: '', id: KR3k0012_CHANT_004-35a.23}
+  - {type: substitution, offset: 2102, original: 纔, replacement: 才, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19563}}
   - {type: punctuation, offset: 2106, content: 。, id: KR3k0012_CHANT_004-bkkpn757}
   - {type: 'tls:seg', offset: 2106, content: '', id: KR3k0012_CHANT_004-35a.24}
   - {type: variant, offset: 2108, length: 50, content: 為遠者小而近者大乎一兒曰日初出滄滄涼涼及其中如探湯此不為近者熱而遠者涼乎孔子不能決兩兒笑曰丘孰謂汝多, WYG: ''}
@@ -2664,6 +2680,7 @@ markers:
   - {type: 'tls:seg', offset: 3175, content: '', id: KR3k0012_CHANT_004-53a.1}
   - {type: 'tls:seg', offset: 3175, content: '', id: KR3k0012_CHANT_004-53a.2}
   - {type: punctuation, offset: 3175, content: 《, id: KR3k0012_CHANT_004-bkkpn1100}
+  - {type: substitution, offset: 3175, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 3177, content: 》, id: KR3k0012_CHANT_004-bkkpn1101}
   - {type: punctuation, offset: 3178, content: ：, id: KR3k0012_CHANT_004-bkkpn1102}
   - {type: 'tls:seg', offset: 3178, content: '', id: KR3k0012_CHANT_004-53a.3}
@@ -2693,4 +2710,4 @@ markers:
   - {type: page-break, offset: 3212, content: '', id: KR3k0012_SBCK_004-13a}
   - {type: page-break, offset: 3212, content: '', id: KR3k0012_SBCK_004-13b}
   back: []
-hash: sha256:a4cc3352408f4efe87d9e82375890130f26c75c461c990a6767e62184cf8141f
+hash: sha256:7105a8af9f3bcc31c1748191cecad3197dc4bb60d2bbcc0b1a67c44f1b56829d

@@ -253,6 +253,7 @@ markers:
   - {type: xml-element, offset: 242, content: '', id: KR3k0012_CHANT_163-bkkxmlele15}
   - {type: 'tls:seg', offset: 242, content: '', id: KR3k0012_CHANT_163-5a.1}
   - {type: 'tls:seg', offset: 242, content: '', id: KR3k0012_CHANT_163-5a.2}
+  - {type: substitution, offset: 242, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: xml-element, offset: 244, content: '', id: KR3k0012_CHANT_163-bkkxmlele16}
   - {type: xml-element, offset: 244, content: '', id: KR3k0012_CHANT_163-bkkxmlele17}
   - {type: 'tls:seg', offset: 244, content: '', id: KR3k0012_CHANT_163-5a.3}
@@ -264,11 +265,13 @@ markers:
   - {type: variant, offset: 250, length: 1, content: 愽, SBCK: 絳}
   - {type: variant, offset: 250, length: 1, content: 愽, WYG: 絳}
   - {type: variant, offset: 250, length: 1, content: 愽, krp: 絳}
+  - {type: substitution, offset: 250, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: punctuation, offset: 252, content: ，, id: KR3k0012_CHANT_163-bkkpn91}
   - {type: 'tls:seg', offset: 252, content: '', id: KR3k0012_CHANT_163-5a.5}
   - {type: variant, offset: 252, length: 1417, content: 愽平郡禹貢兗州之域春秋時齊之西界聊攝地也戰國時為齊地秦漢為東郡地左傳齊晏子對景公曰聊攝以東其為人也多矣史記曰齊田單攻聊城歲餘士卒多死而聊不下魯仲連為書約之矢以遺城中燕將得魯連書泣三日猶與不能決乃自殺史記曰齊威王伐晉至愽陵徐廣注曰東郡之愽平也莫州十道志曰莫州大安郡其地歷代所屬與瀛州同唐景雲二年分瀛州置漢志曰鄚縣屬涿郡王莽曰言符郡國志曰鄚縣有易京城後漢末公孫瓚築京以自固圍壍十重以鐵為門諸將家家作樓以千計並高五六丈為袁紹所攻城樓皆陷沒圖經曰清苑縣本漢樂鄉縣也漢志曰樂鄉屬信都王莽曰樂丘史記曰漢高祖過趙問樂毅有後乎對曰有樂臣叔遂封樂叔於此後漢書曰獻帝初公孫瓚據幽州先是有童謠曰燕南垂趙北際中間不合大如礪唯有此中可避世瓚以易地當之乃築京以自固也深州元和郡縣圖曰深州饒陽郡禹貢冀州之域七國時為趙地秦為鉅鹿郡地漢為饒陽縣隋置深州以州西故深城為名也漢志曰饒陽屬涿郡在饒河之陽故名之又曰安平屬涿郡王莽曰廣望亭漢書高帝六年封鄂千秋為安平侯後漢書曰王郎起光武自薊東南馳晨夜草舍舍上宿也至饒陽無蔞力朱切亭時天寒烈眾皆飢疲馮異上豆粥明旦光武謂諸將曰昨作公孫豆粥飢寒俱解公孫異字易州十道志曰易州上谷郡禹貢冀州之域虞舜分冀州立并州則為并州之地春秋時燕趙之分秦併天下為上谷郡地漢置涿郡今州即涿郡之故安地也又曰易縣本漢故安縣也漢志曰故安屬涿郡漢書曰文帝封申屠嘉為故安侯九州記曰易縣西南三十里有送荊陘即荊軻入秦之路也河北記曰易縣前有五公城王潭不從王莽潭子興生五子避隱於此世祖並封為侯十道志曰淶水縣本漢遒縣也漢志曰遒屬涿郡莽曰遒屏漢書年表曰景帝封匈奴降王隱強為遒侯又曰容城屬涿郡莽曰深澤十道志曰遂城戰國時武遂縣漢之北新城史記曰趙悼襄王二年李牧將攻燕拔武遂漢志曰北新城屬中山國莽曰朔平土地十三州志曰河間有新城故此加北幽州十道志曰幽州范陽郡禹貢冀州之域虞舜十二州為幽州夏殷省併冀周復置幽州秦為漁陽上谷等五郡漢高分上谷置涿郡武帝開東夷又置玄莬樂浪二郡釋名曰幽州北幽昧之地故曰幽州晉地道記曰幽州因幽都以為名山海經曰北荒有幽都之山爾雅曰北方之美者幽都之筋角焉晉地道記曰舜以冀州南北廣大分燕北地為幽州漢志曰漁陽郡屬幽州莽曰通路史記曰顓頊都於帝丘其地北至幽陵又曰周武王之滅紂封召公於北燕世本曰居北燕宋忠曰有南燕故曰北郡國志曰箕星散為幽州分為燕國其氣躁急通齊趙渤海之間一都會也史記曰燕秦千樹栗與封侯等士馬所生有魚鹽桑棗之利後漢書曰公孫瓚破劉虞盡有幽州之地三國典略曰東魏薛琡嘗夢山上掛絲以告所善張亮曰山上絲幽字也君必為幽州後果如之禮記曰武王克商封黃帝之後於薊史記曰鄒子之燕昭王擁彗前驅請為弟子受業築碣石宮以處鄒子親往師之又曰昭王謂郭隗曰願得賢士以身事之隗曰王必欲致士先從隗始況賢於隗者豈遠千里哉於是昭王為隗改築宮而師事之樂毅自魏往鄒衍自齊往劇辛自趙往士爭歸燕漢志曰安次縣屬渤海郡又續漢志曰安次屬漁陽郡圖經曰武清縣本漢之雍奴縣也酈元注水經曰雍奴藪澤之名四面有水曰雍不流曰奴魏志曰張郃傳曰從擊譚於渤海別將圍雍奴大破之順州方輿志曰順州順義郡在范陽郡唐天寶初置又改為順義歸化二郡亦曰思順州歸順州方輿志曰歸順州其地乃燕之北境燕太子丹使荊軻獻地圖即謂此也即元順州之北境唐天寶初以置歸化順義二郡同領懷柔一縣復又立歸順州以理焉涿州圖經曰涿州涿郡古涿鹿之地舜十二州為幽州地禹貢為冀州之域春秋戰國為燕國之涿邑漢高帝置涿郡史記曰黃帝與蚩尤戰於涿鹿之野漢志曰涿郡高帝置莽曰垣輸屬幽州領縣二十九薊州圖經曰薊州漁陽, SBCK: 絳}
   - {type: variant, offset: 252, length: 1417, content: 愽平郡禹貢兗州之域春秋時齊之西界聊攝地也戰國時為齊地秦漢為東郡地左傳齊晏子對景公曰聊攝以東其為人也多矣史記曰齊田單攻聊城歲餘士卒多死而聊不下魯仲連為書約之矢以遺城中燕將得魯連書泣三日猶與不能決乃自殺史記曰齊威王伐晉至愽陵徐廣注曰東郡之愽平也莫州十道志曰莫州大安郡其地歷代所屬與瀛州同唐景雲二年分瀛州置漢志曰鄚縣屬涿郡王莽曰言符郡國志曰鄚縣有易京城後漢末公孫瓚築京以自固圍壍十重以鐵為門諸將家家作樓以千計並高五六丈為袁紹所攻城樓皆陷沒圖經曰清苑縣本漢樂鄉縣也漢志曰樂鄉屬信都王莽曰樂丘史記曰漢高祖過趙問樂毅有後乎對曰有樂臣叔遂封樂叔於此後漢書曰獻帝初公孫瓚據幽州先是有童謠曰燕南垂趙北際中間不合大如礪唯有此中可避世瓚以易地當之乃築京以自固也深州元和郡縣圖曰深州饒陽郡禹貢冀州之域七國時為趙地秦為鉅鹿郡地漢為饒陽縣隋置深州以州西故深城為名也漢志曰饒陽屬涿郡在饒河之陽故名之又曰安平屬涿郡王莽曰廣望亭漢書高帝六年封鄂千秋為安平侯後漢書曰王郎起光武自薊東南馳晨夜草舍舍上宿也至饒陽無蔞力朱切亭時天寒烈眾皆飢疲馮異上豆粥明旦光武謂諸將曰昨作公孫豆粥飢寒俱解公孫異字易州十道志曰易州上谷郡禹貢冀州之域虞舜分冀州立并州則為并州之地春秋時燕趙之分秦併天下為上谷郡地漢置涿郡今州即涿郡之故安地也又曰易縣本漢故安縣也漢志曰故安屬涿郡漢書曰文帝封申屠嘉為故安侯九州記曰易縣西南三十里有送荊陘即荊軻入秦之路也河北記曰易縣前有五公城王潭不從王莽潭子興生五子避隱於此世祖並封為侯十道志曰淶水縣本漢遒縣也漢志曰遒屬涿郡莽曰遒屏漢書年表曰景帝封匈奴降王隱強為遒侯又曰容城屬涿郡莽曰深澤十道志曰遂城戰國時武遂縣漢之北新城史記曰趙悼襄王二年李牧將攻燕拔武遂漢志曰北新城屬中山國莽曰朔平土地十三州志曰河間有新城故此加北幽州十道志曰幽州范陽郡禹貢冀州之域虞舜十二州為幽州夏殷省併冀周復置幽州秦為漁陽上谷等五郡漢高分上谷置涿郡武帝開東夷又置玄莬樂浪二郡釋名曰幽州北幽昧之地故曰幽州晉地道記曰幽州因幽都以為名山海經曰北荒有幽都之山爾雅曰北方之美者幽都之筋角焉晉地道記曰舜以冀州南北廣大分燕北地為幽州漢志曰漁陽郡屬幽州莽曰通路史記曰顓頊都於帝丘其地北至幽陵又曰周武王之滅紂封召公於北燕世本曰居北燕宋忠曰有南燕故曰北郡國志曰箕星散為幽州分為燕國其氣躁急通齊趙渤海之間一都會也史記曰燕秦千樹栗與封侯等士馬所生有魚鹽桑棗之利後漢書曰公孫瓚破劉虞盡有幽州之地三國典略曰東魏薛琡嘗夢山上掛絲以告所善張亮曰山上絲幽字也君必為幽州後果如之禮記曰武王克商封黃帝之後於薊史記曰鄒子之燕昭王擁彗前驅請為弟子受業築碣石宮以處鄒子親往師之又曰昭王謂郭隗曰願得賢士以身事之隗曰王必欲致士先從隗始況賢於隗者豈遠千里哉於是昭王為隗改築宮而師事之樂毅自魏往鄒衍自齊往劇辛自趙往士爭歸燕漢志曰安次縣屬渤海郡又續漢志曰安次屬漁陽郡圖經曰武清縣本漢之雍奴縣也酈元注水經曰雍奴藪澤之名四面有水曰雍不流曰奴魏志曰張郃傳曰從擊譚於渤海別將圍雍奴大破之順州方輿志曰順州順義郡在范陽郡唐天寶初置又改為順義歸化二郡亦曰思順州歸順州方輿志曰歸順州其地乃燕之北境燕太子丹使荊軻獻地圖即謂此也即元順州之北境唐天寶初以置歸化順義二郡同領懷柔一縣復又立歸順州以理焉涿州圖經曰涿州涿郡古涿鹿之地舜十二州為幽州地禹貢為冀州之域春秋戰國為燕國之涿邑漢高帝置涿郡史記曰黃帝與蚩尤戰於涿鹿之野漢志曰涿郡高帝置莽曰垣輸屬幽州領縣二十九薊州圖經曰薊州漁陽, WYG: 絳}
   - {type: variant, offset: 252, length: 1417, content: 愽平郡禹貢兗州之域春秋時齊之西界聊攝地也戰國時為齊地秦漢為東郡地左傳齊晏子對景公曰聊攝以東其為人也多矣史記曰齊田單攻聊城歲餘士卒多死而聊不下魯仲連為書約之矢以遺城中燕將得魯連書泣三日猶與不能決乃自殺史記曰齊威王伐晉至愽陵徐廣注曰東郡之愽平也莫州十道志曰莫州大安郡其地歷代所屬與瀛州同唐景雲二年分瀛州置漢志曰鄚縣屬涿郡王莽曰言符郡國志曰鄚縣有易京城後漢末公孫瓚築京以自固圍壍十重以鐵為門諸將家家作樓以千計並高五六丈為袁紹所攻城樓皆陷沒圖經曰清苑縣本漢樂鄉縣也漢志曰樂鄉屬信都王莽曰樂丘史記曰漢高祖過趙問樂毅有後乎對曰有樂臣叔遂封樂叔於此後漢書曰獻帝初公孫瓚據幽州先是有童謠曰燕南垂趙北際中間不合大如礪唯有此中可避世瓚以易地當之乃築京以自固也深州元和郡縣圖曰深州饒陽郡禹貢冀州之域七國時為趙地秦為鉅鹿郡地漢為饒陽縣隋置深州以州西故深城為名也漢志曰饒陽屬涿郡在饒河之陽故名之又曰安平屬涿郡王莽曰廣望亭漢書高帝六年封鄂千秋為安平侯後漢書曰王郎起光武自薊東南馳晨夜草舍舍上宿也至饒陽無蔞力朱切亭時天寒烈眾皆飢疲馮異上豆粥明旦光武謂諸將曰昨作公孫豆粥飢寒俱解公孫異字易州十道志曰易州上谷郡禹貢冀州之域虞舜分冀州立并州則為并州之地春秋時燕趙之分秦併天下為上谷郡地漢置涿郡今州即涿郡之故安地也又曰易縣本漢故安縣也漢志曰故安屬涿郡漢書曰文帝封申屠嘉為故安侯九州記曰易縣西南三十里有送荊陘即荊軻入秦之路也河北記曰易縣前有五公城王潭不從王莽潭子興生五子避隱於此世祖並封為侯十道志曰淶水縣本漢遒縣也漢志曰遒屬涿郡莽曰遒屏漢書年表曰景帝封匈奴降王隱強為遒侯又曰容城屬涿郡莽曰深澤十道志曰遂城戰國時武遂縣漢之北新城史記曰趙悼襄王二年李牧將攻燕拔武遂漢志曰北新城屬中山國莽曰朔平土地十三州志曰河間有新城故此加北幽州十道志曰幽州范陽郡禹貢冀州之域虞舜十二州為幽州夏殷省併冀周復置幽州秦為漁陽上谷等五郡漢高分上谷置涿郡武帝開東夷又置玄莬樂浪二郡釋名曰幽州北幽昧之地故曰幽州晉地道記曰幽州因幽都以為名山海經曰北荒有幽都之山爾雅曰北方之美者幽都之筋角焉晉地道記曰舜以冀州南北廣大分燕北地為幽州漢志曰漁陽郡屬幽州莽曰通路史記曰顓頊都於帝丘其地北至幽陵又曰周武王之滅紂封召公於北燕世本曰居北燕宋忠曰有南燕故曰北郡國志曰箕星散為幽州分為燕國其氣躁急通齊趙渤海之間一都會也史記曰燕秦千樹栗與封侯等士馬所生有魚鹽桑棗之利後漢書曰公孫瓚破劉虞盡有幽州之地三國典略曰東魏薛琡嘗夢山上掛絲以告所善張亮曰山上絲幽字也君必為幽州後果如之禮記曰武王克商封黃帝之後於薊史記曰鄒子之燕昭王擁彗前驅請為弟子受業築碣石宮以處鄒子親往師之又曰昭王謂郭隗曰願得賢士以身事之隗曰王必欲致士先從隗始況賢於隗者豈遠千里哉於是昭王為隗改築宮而師事之樂毅自魏往鄒衍自齊往劇辛自趙往士爭歸燕漢志曰安次縣屬渤海郡又續漢志曰安次屬漁陽郡圖經曰武清縣本漢之雍奴縣也酈元注水經曰雍奴藪澤之名四面有水曰雍不流曰奴魏志曰張郃傳曰從擊譚於渤海別將圍雍奴大破之順州方輿志曰順州順義郡在范陽郡唐天寶初置又改為順義歸化二郡亦曰思順州歸順州方輿志曰歸順州其地乃燕之北境燕太子丹使荊軻獻地圖即謂此也即元順州之北境唐天寶初以置歸化順義二郡同領懷柔一縣復又立歸順州以理焉涿州圖經曰涿州涿郡古涿鹿之地舜十二州為幽州地禹貢為冀州之域春秋戰國為燕國之涿邑漢高帝置涿郡史記曰黃帝與蚩尤戰於涿鹿之野漢志曰涿郡高帝置莽曰垣輸屬幽州領縣二十九薊州圖經曰薊州漁陽, krp: 絳}
+  - {type: substitution, offset: 252, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: punctuation, offset: 255, content: 。, id: KR3k0012_CHANT_163-bkkpn92}
   - {type: 'tls:seg', offset: 255, content: '', id: KR3k0012_CHANT_163-5a.6}
   - {type: punctuation, offset: 255, content: 《, id: KR3k0012_CHANT_163-bkkpn93}
@@ -334,12 +337,14 @@ markers:
   - {type: punctuation, offset: 354, content: 「, id: KR3k0012_CHANT_163-bkkpn127}
   - {type: punctuation, offset: 359, content: ，, id: KR3k0012_CHANT_163-bkkpn128}
   - {type: 'tls:seg', offset: 359, content: '', id: KR3k0012_CHANT_163-7a.4}
+  - {type: substitution, offset: 360, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: punctuation, offset: 362, content: 。, id: KR3k0012_CHANT_163-bkkpn129}
   - {type: punctuation, offset: 362, content: 」, id: KR3k0012_CHANT_163-bkkpn130}
   - {type: 'tls:seg', offset: 362, content: '', id: KR3k0012_CHANT_163-7a.5}
   - {type: punctuation, offset: 366, content: ：, id: KR3k0012_CHANT_163-bkkpn131}
   - {type: 'tls:seg', offset: 366, content: '', id: KR3k0012_CHANT_163-7a.6}
   - {type: punctuation, offset: 366, content: 「, id: KR3k0012_CHANT_163-bkkpn132}
+  - {type: substitution, offset: 369, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: punctuation, offset: 372, content: 。, id: KR3k0012_CHANT_163-bkkpn133}
   - {type: punctuation, offset: 372, content: 」, id: KR3k0012_CHANT_163-bkkpn134}
   - {type: xml-element, offset: 372, content: '', id: KR3k0012_CHANT_163-bkkxmlele24}
@@ -390,6 +395,7 @@ markers:
   - {type: 'tls:seg', offset: 425, content: '', id: KR3k0012_CHANT_163-8a.8}
   - {type: punctuation, offset: 436, content: 。, id: KR3k0012_CHANT_163-bkkpn158}
   - {type: 'tls:seg', offset: 436, content: '', id: KR3k0012_CHANT_163-8a.9}
+  - {type: substitution, offset: 437, original: 壍, replacement: 塹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19501}}
   - {type: punctuation, offset: 440, content: ，, id: KR3k0012_CHANT_163-bkkpn159}
   - {type: 'tls:seg', offset: 440, content: '', id: KR3k0012_CHANT_163-8a.10}
   - {type: punctuation, offset: 444, content: ，, id: KR3k0012_CHANT_163-bkkpn160}
@@ -506,6 +512,7 @@ markers:
   - {type: 'tls:seg', offset: 590, content: '', id: KR3k0012_CHANT_163-11a.7}
   - {type: punctuation, offset: 596, content: 。, id: KR3k0012_CHANT_163-bkkpn222}
   - {type: 'tls:seg', offset: 596, content: '', id: KR3k0012_CHANT_163-11a.8}
+  - {type: substitution, offset: 598, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 602, content: 。, id: KR3k0012_CHANT_163-bkkpn223}
   - {type: 'tls:seg', offset: 602, content: '', id: KR3k0012_CHANT_163-11a.9}
   - {type: punctuation, offset: 607, content: 。, id: KR3k0012_CHANT_163-bkkpn224}
@@ -577,6 +584,7 @@ markers:
   - {type: 'tls:seg', offset: 693, content: '', id: KR3k0012_CHANT_163-13a.10}
   - {type: punctuation, offset: 698, content: ，, id: KR3k0012_CHANT_163-bkkpn260}
   - {type: 'tls:seg', offset: 698, content: '', id: KR3k0012_CHANT_163-13a.11}
+  - {type: substitution, offset: 698, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 702, content: ，, id: KR3k0012_CHANT_163-bkkpn261}
   - {type: 'tls:seg', offset: 702, content: '', id: KR3k0012_CHANT_163-13a.12}
   - {type: punctuation, offset: 707, content: 。, id: KR3k0012_CHANT_163-bkkpn262}
@@ -728,6 +736,7 @@ markers:
   - {type: punctuation, offset: 905, content: ：, id: KR3k0012_CHANT_163-bkkpn341}
   - {type: 'tls:seg', offset: 905, content: '', id: KR3k0012_CHANT_163-18a.3}
   - {type: punctuation, offset: 905, content: 「, id: KR3k0012_CHANT_163-bkkpn342}
+  - {type: substitution, offset: 908, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20162}}
   - {type: punctuation, offset: 917, content: 。, id: KR3k0012_CHANT_163-bkkpn343}
   - {type: punctuation, offset: 917, content: 」, id: KR3k0012_CHANT_163-bkkpn344}
   - {type: xml-element, offset: 917, content: '', id: KR3k0012_CHANT_163-bkkxmlele70}
@@ -1003,6 +1012,7 @@ markers:
   - {type: punctuation, offset: 1259, content: ：, id: KR3k0012_CHANT_163-bkkpn497}
   - {type: 'tls:seg', offset: 1259, content: '', id: KR3k0012_CHANT_163-25a.6}
   - {type: punctuation, offset: 1259, content: 「, id: KR3k0012_CHANT_163-bkkpn498}
+  - {type: substitution, offset: 1267, original: 掛, replacement: 挂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16851}}
   - {type: punctuation, offset: 1269, content: ，, id: KR3k0012_CHANT_163-bkkpn499}
   - {type: 'tls:seg', offset: 1269, content: '', id: KR3k0012_CHANT_163-25a.7}
   - {type: punctuation, offset: 1275, content: ，, id: KR3k0012_CHANT_163-bkkpn500}
@@ -1152,6 +1162,7 @@ markers:
   - {type: punctuation, offset: 1468, content: ：, id: KR3k0012_CHANT_163-bkkpn582}
   - {type: 'tls:seg', offset: 1468, content: '', id: KR3k0012_CHANT_163-29a.9}
   - {type: punctuation, offset: 1468, content: 『, id: KR3k0012_CHANT_163-bkkpn583}
+  - {type: substitution, offset: 1470, original: 譚, replacement: 談, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20152}}
   - {type: punctuation, offset: 1474, content: ，, id: KR3k0012_CHANT_163-bkkpn584}
   - {type: 'tls:seg', offset: 1474, content: '', id: KR3k0012_CHANT_163-29a.10}
   - {type: punctuation, offset: 1479, content: ，, id: KR3k0012_CHANT_163-bkkpn585}
@@ -1419,6 +1430,7 @@ markers:
   - {type: 'tls:seg', offset: 1779, content: '', id: KR3k0012_CHANT_163-37a.1}
   - {type: 'tls:seg', offset: 1779, content: '', id: KR3k0012_CHANT_163-37a.2}
   - {type: punctuation, offset: 1779, content: 《, id: KR3k0012_CHANT_163-bkkpn695}
+  - {type: substitution, offset: 1781, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 1784, content: 》, id: KR3k0012_CHANT_163-bkkpn696}
   - {type: punctuation, offset: 1785, content: ：, id: KR3k0012_CHANT_163-bkkpn697}
   - {type: 'tls:seg', offset: 1785, content: '', id: KR3k0012_CHANT_163-37a.3}
@@ -1439,6 +1451,7 @@ markers:
   - {type: punctuation, offset: 1803, content: ：, id: KR3k0012_CHANT_163-bkkpn706}
   - {type: 'tls:seg', offset: 1803, content: '', id: KR3k0012_CHANT_163-37a.8}
   - {type: punctuation, offset: 1803, content: 「, id: KR3k0012_CHANT_163-bkkpn707}
+  - {type: substitution, offset: 1805, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 1810, content: ：, id: KR3k0012_CHANT_163-bkkpn708}
   - {type: 'tls:seg', offset: 1810, content: '', id: KR3k0012_CHANT_163-37a.9}
   - {type: punctuation, offset: 1810, content: 『, id: KR3k0012_CHANT_163-bkkpn709}
@@ -1764,6 +1777,7 @@ markers:
   - {type: punctuation, offset: 2098, content: 「, id: KR3k0012_CHANT_163-bkkpn828}
   - {type: punctuation, offset: 2100, content: ，, id: KR3k0012_CHANT_163-bkkpn829}
   - {type: 'tls:seg', offset: 2100, content: '', id: KR3k0012_CHANT_163-43a.10}
+  - {type: substitution, offset: 2103, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16283}}
   - {type: punctuation, offset: 2105, content: 。, id: KR3k0012_CHANT_163-bkkpn830}
   - {type: punctuation, offset: 2105, content: 」, id: KR3k0012_CHANT_163-bkkpn831}
   - {type: xml-element, offset: 2105, content: '', id: KR3k0012_CHANT_163-bkkxmlele184}
@@ -1803,6 +1817,7 @@ markers:
   - {type: punctuation, offset: 2131, content: 「, id: KR3k0012_CHANT_163-bkkpn848}
   - {type: punctuation, offset: 2139, content: ，, id: KR3k0012_CHANT_163-bkkpn849}
   - {type: 'tls:seg', offset: 2139, content: '', id: KR3k0012_CHANT_163-44a.9}
+  - {type: substitution, offset: 2141, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 2145, content: 。, id: KR3k0012_CHANT_163-bkkpn850}
   - {type: 'tls:seg', offset: 2145, content: '', id: KR3k0012_CHANT_163-44a.10}
   - {type: punctuation, offset: 2148, content: 。, id: KR3k0012_CHANT_163-bkkpn851}
@@ -2120,12 +2135,14 @@ markers:
   - {type: variant, offset: 2464, length: 21, content: 遼西郡即烏丸鮮卑蹋頓所居十六國春秋慕容皝傳, krp: 陽曲屬太原應劭}
   - {type: punctuation, offset: 2467, content: ，, id: KR3k0012_CHANT_163-bkkpn962}
   - {type: 'tls:seg', offset: 2467, content: '', id: KR3k0012_CHANT_163-50a.4}
+  - {type: substitution, offset: 2472, original: 蹋, replacement: 踏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20179}}
   - {type: punctuation, offset: 2476, content: 。, id: KR3k0012_CHANT_163-bkkpn963}
   - {type: punctuation, offset: 2476, content: 」, id: KR3k0012_CHANT_163-bkkpn964}
   - {type: 'tls:seg', offset: 2476, content: '', id: KR3k0012_CHANT_163-50a.5}
   - {type: punctuation, offset: 2476, content: ○, id: KR3k0012_CHANT_163-bkkpn965}
   - {type: punctuation, offset: 2476, content: 《, id: KR3k0012_CHANT_163-bkkpn966}
   - {type: punctuation, offset: 2481, content: ‧, id: KR3k0012_CHANT_163-bkkpn967}
+  - {type: substitution, offset: 2483, original: 皝, replacement: 皓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19998}}
   - {type: punctuation, offset: 2485, content: 》, id: KR3k0012_CHANT_163-bkkpn968}
   - {type: punctuation, offset: 2486, content: ：, id: KR3k0012_CHANT_163-bkkpn969}
   - {type: 'tls:seg', offset: 2486, content: '', id: KR3k0012_CHANT_163-50a.6}
@@ -2276,12 +2293,14 @@ markers:
   - {type: punctuation, offset: 2645, content: ：, id: KR3k0012_CHANT_163-bkkpn1024}
   - {type: 'tls:seg', offset: 2645, content: '', id: KR3k0012_CHANT_163-53a.3}
   - {type: punctuation, offset: 2645, content: 「, id: KR3k0012_CHANT_163-bkkpn1025}
+  - {type: substitution, offset: 2645, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 2647, content: ，, id: KR3k0012_CHANT_163-bkkpn1026}
   - {type: 'tls:seg', offset: 2647, content: '', id: KR3k0012_CHANT_163-53a.4}
   - {type: punctuation, offset: 2650, content: 。, id: KR3k0012_CHANT_163-bkkpn1027}
   - {type: 'tls:seg', offset: 2650, content: '', id: KR3k0012_CHANT_163-53a.5}
   - {type: variant, offset: 2650, length: 38, content: 莽曰脩治元和郡縣志曰安德縣有鬲津枯河禹貢九河之一漢志曰鬲縣屬平原王莽曰河平棣, SBCK: 尉嵐}
   - {type: variant, offset: 2650, length: 38, content: 莽曰脩治元和郡縣志曰安德縣有鬲津枯河禹貢九河之一漢志曰鬲縣屬平原王莽曰河平棣, krp: 尉嵐}
+  - {type: substitution, offset: 2652, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 2654, content: 。, id: KR3k0012_CHANT_163-bkkpn1028}
   - {type: punctuation, offset: 2654, content: 」, id: KR3k0012_CHANT_163-bkkpn1029}
   - {type: xml-element, offset: 2654, content: '', id: KR3k0012_CHANT_163-bkkxmlele224}
@@ -2610,8 +2629,10 @@ markers:
   - {type: variant, offset: 2934, length: 29, content: 齊地置齊郡以趙地置鉅鹿郡漢高帝分鉅鹿置渤海郡分齊郡置平原郡, krp: 爲塞}
   - {type: punctuation, offset: 2939, content: ，, id: KR3k0012_CHANT_163-bkkpn1156}
   - {type: 'tls:seg', offset: 2939, content: '', id: KR3k0012_CHANT_163-59a.18}
+  - {type: substitution, offset: 2943, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 2946, content: 。, id: KR3k0012_CHANT_163-bkkpn1157}
   - {type: 'tls:seg', offset: 2946, content: '', id: KR3k0012_CHANT_163-59a.19}
+  - {type: substitution, offset: 2950, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 2956, content: ，, id: KR3k0012_CHANT_163-bkkpn1158}
   - {type: 'tls:seg', offset: 2956, content: '', id: KR3k0012_CHANT_163-59a.20}
   - {type: punctuation, offset: 2963, content: 。, id: KR3k0012_CHANT_163-bkkpn1159}
@@ -2677,12 +2698,15 @@ markers:
   - {type: variant, offset: 3004, length: 1, content: 分, krp: 襄子與代王㑹於夏屋以銅斗擊殺代王而取其}
   - {type: variant, offset: 3006, length: 45, content: 薄人眾丈夫相遇游戲悲歌慷慨起則椎剽掘塚作姦巧多弄物為倡優十三州志曰渤海風俗鷙戾高氣力輕姦兇, SBCK: ''}
   - {type: variant, offset: 3006, length: 45, content: 薄人眾丈夫相遇游戲悲歌慷慨起則椎剽掘塚作姦巧多弄物為倡優十三州志曰渤海風俗鷙戾高氣力輕姦兇, krp: ''}
+  - {type: substitution, offset: 3008, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 3009, content: ，, id: KR3k0012_CHANT_163-bkkpn1183}
   - {type: 'tls:seg', offset: 3009, content: '', id: KR3k0012_CHANT_163-61a.4}
+  - {type: substitution, offset: 3013, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 3015, content: ，, id: KR3k0012_CHANT_163-bkkpn1184}
   - {type: 'tls:seg', offset: 3015, content: '', id: KR3k0012_CHANT_163-61a.5}
   - {type: punctuation, offset: 3019, content: ，, id: KR3k0012_CHANT_163-bkkpn1185}
   - {type: 'tls:seg', offset: 3019, content: '', id: KR3k0012_CHANT_163-61a.6}
+  - {type: substitution, offset: 3024, original: 塚, replacement: 冢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18268}}
   - {type: punctuation, offset: 3025, content: ，, id: KR3k0012_CHANT_163-bkkpn1186}
   - {type: 'tls:seg', offset: 3025, content: '', id: KR3k0012_CHANT_163-61a.7}
   - {type: punctuation, offset: 3028, content: ，, id: KR3k0012_CHANT_163-bkkpn1187}
@@ -2703,6 +2727,7 @@ markers:
   - {type: 'tls:seg', offset: 3045, content: '', id: KR3k0012_CHANT_163-61a.12}
   - {type: punctuation, offset: 3048, content: ，, id: KR3k0012_CHANT_163-bkkpn1196}
   - {type: 'tls:seg', offset: 3048, content: '', id: KR3k0012_CHANT_163-61a.13}
+  - {type: substitution, offset: 3050, original: 兇, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16214}}
   - {type: punctuation, offset: 3051, content: 。, id: KR3k0012_CHANT_163-bkkpn1197}
   - {type: punctuation, offset: 3051, content: 」, id: KR3k0012_CHANT_163-bkkpn1198}
   - {type: xml-element, offset: 3051, content: '', id: KR3k0012_CHANT_163-bkkxmlele262}
@@ -2905,6 +2930,7 @@ markers:
   - {type: punctuation, offset: 3185, content: ，, id: KR3k0012_CHANT_163-bkkpn1258}
   - {type: 'tls:seg', offset: 3185, content: '', id: KR3k0012_CHANT_163-65a.10}
   - {type: variant, offset: 3187, length: 3, content: 鉅鹿郡, WYG: 塞}
+  - {type: substitution, offset: 3187, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 3190, content: 。, id: KR3k0012_CHANT_163-bkkpn1259}
   - {type: 'tls:seg', offset: 3190, content: '', id: KR3k0012_CHANT_163-65a.11}
   - {type: variant, offset: 3190, length: 0, content: '', SBCK: 地今州即}
@@ -3120,4 +3146,4 @@ markers:
   - {type: xml-element, offset: 3363, content: '', id: KR3k0012_CHANT_163-bkkxmlele298}
   - {type: page-break, offset: 3363, content: '', id: KR3k0012_SBCK_163-11b}
   back: []
-hash: sha256:521845a3fbe00910828f8acfd82f110ba694304c0aa7b9764f3e1c56e98f5cc7
+hash: sha256:38cd16204dc2672c11aaac76d7de0111a709e238c8a6ea227d20d5d6ac83db5a

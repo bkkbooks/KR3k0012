@@ -26,6 +26,7 @@ markers:
   - {type: variant, offset: 6, length: 10, content: 說文曰袞天子享先王卷, SBCK: 中衣曲領方領附袿䙱圭屬二}
   - {type: variant, offset: 6, length: 10, content: 說文曰袞天子享先王卷, WYG: 中衣曲領方領附袿䙱圭属二}
   - {type: variant, offset: 6, length: 10, content: 說文曰袞天子享先王卷, krp: 中衣曲領方領附袿䙱圭屬二}
+  - {type: substitution, offset: 6, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 8, content: 》, id: KR3k0012_CHANT_691-bkkpn2}
   - {type: punctuation, offset: 9, content: ：, id: KR3k0012_CHANT_691-bkkpn3}
   - {type: 'tls:seg', offset: 9, content: '', id: KR3k0012_CHANT_691-1a.4}
@@ -93,6 +94,7 @@ markers:
   - {type: punctuation, offset: 45, content: 『, id: KR3k0012_CHANT_691-bkkpn24}
   - {type: variant, offset: 45, length: 1, content: 予, SBCK: 邊}
   - {type: variant, offset: 45, length: 1, content: 予, krp: 邊}
+  - {type: substitution, offset: 45, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: variant, offset: 46, length: 1, content: 欲, SBCK: 讓}
   - {type: variant, offset: 46, length: 1, content: 欲, krp: 讓}
   - {type: variant, offset: 47, length: 1, content: 觀, SBCK: 爲}
@@ -234,12 +236,15 @@ markers:
   - {type: punctuation, offset: 242, content: 「, id: KR3k0012_CHANT_691-bkkpn81}
   - {type: punctuation, offset: 246, content: ，, id: KR3k0012_CHANT_691-bkkpn82}
   - {type: 'tls:seg', offset: 246, content: '', id: KR3k0012_CHANT_691-4a.4}
+  - {type: substitution, offset: 248, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 250, content: ？, id: KR3k0012_CHANT_691-bkkpn83}
   - {type: 'tls:seg', offset: 250, content: '', id: KR3k0012_CHANT_691-4a.5}
+  - {type: substitution, offset: 252, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 254, content: ，, id: KR3k0012_CHANT_691-bkkpn84}
   - {type: 'tls:seg', offset: 254, content: '', id: KR3k0012_CHANT_691-4a.6}
   - {type: punctuation, offset: 258, content: 。, id: KR3k0012_CHANT_691-bkkpn85}
   - {type: 'tls:seg', offset: 258, content: '', id: KR3k0012_CHANT_691-4a.7}
+  - {type: substitution, offset: 260, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 262, content: ？, id: KR3k0012_CHANT_691-bkkpn86}
   - {type: 'tls:seg', offset: 262, content: '', id: KR3k0012_CHANT_691-4a.8}
   - {type: punctuation, offset: 266, content: 。, id: KR3k0012_CHANT_691-bkkpn87}
@@ -447,6 +452,7 @@ markers:
   - {type: variant, offset: 484, length: 6, content: 朱黻四牡龍旂, WYG: 短令離地躬按行司卒廬室}
   - {type: punctuation, offset: 486, content: ，, id: KR3k0012_CHANT_691-bkkpn181}
   - {type: 'tls:seg', offset: 486, content: '', id: KR3k0012_CHANT_691-8a.9}
+  - {type: substitution, offset: 489, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 490, content: 。, id: KR3k0012_CHANT_691-bkkpn182}
   - {type: punctuation, offset: 490, content: 』, id: KR3k0012_CHANT_691-bkkpn183}
   - {type: punctuation, offset: 490, content: 」, id: KR3k0012_CHANT_691-bkkpn184}
@@ -508,6 +514,7 @@ markers:
   - {type: 'tls:seg', offset: 576, content: '', id: KR3k0012_CHANT_691-9a.18}
   - {type: punctuation, offset: 583, content: 。, id: KR3k0012_CHANT_691-bkkpn211}
   - {type: 'tls:seg', offset: 583, content: '', id: KR3k0012_CHANT_691-9a.19}
+  - {type: substitution, offset: 588, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 591, content: ，, id: KR3k0012_CHANT_691-bkkpn212}
   - {type: 'tls:seg', offset: 591, content: '', id: KR3k0012_CHANT_691-9a.20}
   - {type: variant, offset: 595, length: 8, content: 盛典革近代之制唐, WYG: 隠晋}
@@ -575,6 +582,7 @@ markers:
   - {type: 'tls:seg', offset: 661, content: '', id: KR3k0012_CHANT_691-10a.13}
   - {type: variant, offset: 661, length: 157, content: 乃染帛以効之始作五采成以為服黃帝堯舜垂衣裳蓋取諸乾坤有文故上衣玄而下裳黃秦以戰國即天子位滅去禮學郊祀之服皆以初玄漢承掌故至顯宗初服冕旒衣章以祀天地養三老五更於三雍三公九卿郊祀天地明堂皆冠冕垂旒衣裳玄上纁下乘輿備文日月辰星十二章三公諸侯用山龍九章九卿以下用華蟲七章皆五采衣裳乘輿剌史公候九卿已下皆織成陳留襄邑獻之續漢, SBCK: 徐廣}
   - {type: variant, offset: 661, length: 157, content: 乃染帛以効之始作五采成以為服黃帝堯舜垂衣裳蓋取諸乾坤有文故上衣玄而下裳黃秦以戰國即天子位滅去禮學郊祀之服皆以初玄漢承掌故至顯宗初服冕旒衣章以祀天地養三老五更於三雍三公九卿郊祀天地明堂皆冠冕垂旒衣裳玄上纁下乘輿備文日月辰星十二章三公諸侯用山龍九章九卿以下用華蟲七章皆五采衣裳乘輿剌史公候九卿已下皆織成陳留襄邑獻之續漢, krp: 徐廣}
+  - {type: substitution, offset: 665, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17195}}
   - {type: punctuation, offset: 667, content: ，, id: KR3k0012_CHANT_691-bkkpn238}
   - {type: 'tls:seg', offset: 667, content: '', id: KR3k0012_CHANT_691-10a.14}
   - {type: punctuation, offset: 671, content: ，, id: KR3k0012_CHANT_691-bkkpn239}
@@ -639,6 +647,7 @@ markers:
   - {type: punctuation, offset: 822, content: 「, id: KR3k0012_CHANT_691-bkkpn267}
   - {type: punctuation, offset: 828, content: ，, id: KR3k0012_CHANT_691-bkkpn268}
   - {type: 'tls:seg', offset: 828, content: '', id: KR3k0012_CHANT_691-11a.4}
+  - {type: substitution, offset: 831, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: punctuation, offset: 833, content: ，, id: KR3k0012_CHANT_691-bkkpn269}
   - {type: 'tls:seg', offset: 833, content: '', id: KR3k0012_CHANT_691-11a.5}
   - {type: punctuation, offset: 838, content: ，, id: KR3k0012_CHANT_691-bkkpn270}
@@ -803,6 +812,7 @@ markers:
   - {type: variant, offset: 1017, length: 16, content: 昔帝堯王天下黼衣絓履不獘盡不更為, krp: 韠君朱大夫索士爵韋韠以言蔽}
   - {type: punctuation, offset: 1023, content: ，, id: KR3k0012_CHANT_691-bkkpn325}
   - {type: 'tls:seg', offset: 1023, content: '', id: KR3k0012_CHANT_691-14a.9}
+  - {type: substitution, offset: 1028, original: 獘, replacement: 斃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17115}}
   - {type: punctuation, offset: 1034, content: 。, id: KR3k0012_CHANT_691-bkkpn326}
   - {type: punctuation, offset: 1034, content: 」, id: KR3k0012_CHANT_691-bkkpn327}
   - {type: xml-element, offset: 1034, content: '', id: KR3k0012_CHANT_691-bkkxmlele48}
@@ -1118,6 +1128,7 @@ markers:
   - {type: 'tls:seg', offset: 1437, content: '', id: KR3k0012_CHANT_691-22a.9}
   - {type: punctuation, offset: 1442, content: ，, id: KR3k0012_CHANT_691-bkkpn474}
   - {type: 'tls:seg', offset: 1442, content: '', id: KR3k0012_CHANT_691-22a.10}
+  - {type: substitution, offset: 1443, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: variant, offset: 1445, length: 214, content: 改為兮緇衣黑色上卿聽朝之正服也周禮春官上司服曰王之吉服祭群小祀玄冕鄭玄曰群小祀林澤墳衍四方百物之屬也玄者衣無文裳剌黻而己凡冕服玄衣纁衣也禮玉藻曰天子玄端而朝日於東門之外鄭玄曰端當為冕字之誤朝日春分時也魏臺訪議曰禮天子大夫玄冕而執鴈今秩中二千石六百石者可使玄冕而執鴈禕衣釋名曰王后之上服曰禕衣畫翬雉之文於衣也伊洛而西雉青質五色備曰翬也周禮天官下內司服曰內司服掌王后之六服禕衣王后之服刻繒為翬之形而采畫之綴於衣從王祭先王則服褘衣也禮, SBCK: ''}
   - {type: variant, offset: 1445, length: 214, content: 改為兮緇衣黑色上卿聽朝之正服也周禮春官上司服曰王之吉服祭群小祀玄冕鄭玄曰群小祀林澤墳衍四方百物之屬也玄者衣無文裳剌黻而己凡冕服玄衣纁衣也禮玉藻曰天子玄端而朝日於東門之外鄭玄曰端當為冕字之誤朝日春分時也魏臺訪議曰禮天子大夫玄冕而執鴈今秩中二千石六百石者可使玄冕而執鴈禕衣釋名曰王后之上服曰禕衣畫翬雉之文於衣也伊洛而西雉青質五色備曰翬也周禮天官下內司服曰內司服掌王后之六服禕衣王后之服刻繒為翬之形而采畫之綴於衣從王祭先王則服褘衣也禮, krp: ''}
   - {type: punctuation, offset: 1448, content: 。, id: KR3k0012_CHANT_691-bkkpn475}
@@ -1761,6 +1772,7 @@ markers:
   - {type: punctuation, offset: 2316, content: ：, id: KR3k0012_CHANT_691-bkkpn775}
   - {type: 'tls:seg', offset: 2316, content: '', id: KR3k0012_CHANT_691-36a.7}
   - {type: punctuation, offset: 2316, content: 「, id: KR3k0012_CHANT_691-bkkpn776}
+  - {type: substitution, offset: 2316, original: 襢, replacement: 袒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18270}}
   - {type: punctuation, offset: 2317, content: ，, id: KR3k0012_CHANT_691-bkkpn777}
   - {type: 'tls:seg', offset: 2317, content: '', id: KR3k0012_CHANT_691-36a.8}
   - {type: punctuation, offset: 2322, content: 。, id: KR3k0012_CHANT_691-bkkpn778}
@@ -1821,6 +1833,7 @@ markers:
   - {type: 'tls:seg', offset: 2390, content: '', id: KR3k0012_CHANT_691-37a.18}
   - {type: punctuation, offset: 2394, content: 。, id: KR3k0012_CHANT_691-bkkpn807}
   - {type: 'tls:seg', offset: 2394, content: '', id: KR3k0012_CHANT_691-37a.19}
+  - {type: substitution, offset: 2394, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 2403, content: ，, id: KR3k0012_CHANT_691-bkkpn808}
   - {type: 'tls:seg', offset: 2403, content: '', id: KR3k0012_CHANT_691-37a.20}
   - {type: punctuation, offset: 2406, content: ，, id: KR3k0012_CHANT_691-bkkpn809}
@@ -1987,6 +2000,7 @@ markers:
   - {type: punctuation, offset: 2655, content: ：, id: KR3k0012_CHANT_691-bkkpn893}
   - {type: 'tls:seg', offset: 2655, content: '', id: KR3k0012_CHANT_691-41a.8}
   - {type: punctuation, offset: 2655, content: 「, id: KR3k0012_CHANT_691-bkkpn894}
+  - {type: substitution, offset: 2662, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 2669, content: ，, id: KR3k0012_CHANT_691-bkkpn895}
   - {type: 'tls:seg', offset: 2669, content: '', id: KR3k0012_CHANT_691-41a.9}
   - {type: punctuation, offset: 2684, content: ，, id: KR3k0012_CHANT_691-bkkpn896}
@@ -1995,6 +2009,7 @@ markers:
   - {type: 'tls:seg', offset: 2687, content: '', id: KR3k0012_CHANT_691-41a.11}
   - {type: punctuation, offset: 2692, content: ，, id: KR3k0012_CHANT_691-bkkpn898}
   - {type: 'tls:seg', offset: 2692, content: '', id: KR3k0012_CHANT_691-41a.12}
+  - {type: substitution, offset: 2692, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 2697, content: ，, id: KR3k0012_CHANT_691-bkkpn899}
   - {type: 'tls:seg', offset: 2697, content: '', id: KR3k0012_CHANT_691-41a.13}
   - {type: variant, offset: 2698, length: 63, content: 騰之著單衣在朱衣上於禮有虧請免所居官詔可齊書曰呂安國為右衛將軍加給事中後改封湘鄉侯武帝即位累遷光祿大夫加散騎常侍安國欣有文授謂, WYG: 繡}
@@ -2029,6 +2044,7 @@ markers:
   - {type: 'tls:seg', offset: 2739, content: '', id: KR3k0012_CHANT_691-42a.6}
   - {type: punctuation, offset: 2743, content: ，, id: KR3k0012_CHANT_691-bkkpn914}
   - {type: 'tls:seg', offset: 2743, content: '', id: KR3k0012_CHANT_691-42a.7}
+  - {type: substitution, offset: 2743, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 2749, content: ，, id: KR3k0012_CHANT_691-bkkpn915}
   - {type: 'tls:seg', offset: 2749, content: '', id: KR3k0012_CHANT_691-42a.8}
   - {type: punctuation, offset: 2754, content: 。, id: KR3k0012_CHANT_691-bkkpn916}
@@ -2067,6 +2083,7 @@ markers:
   - {type: 'tls:seg', offset: 2812, content: '', id: KR3k0012_CHANT_691-43a.7}
   - {type: punctuation, offset: 2816, content: ，, id: KR3k0012_CHANT_691-bkkpn933}
   - {type: 'tls:seg', offset: 2816, content: '', id: KR3k0012_CHANT_691-43a.8}
+  - {type: substitution, offset: 2822, original: 皃, replacement: 貌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19950}}
   - {type: punctuation, offset: 2824, content: ，, id: KR3k0012_CHANT_691-bkkpn934}
   - {type: 'tls:seg', offset: 2824, content: '', id: KR3k0012_CHANT_691-43a.9}
   - {type: punctuation, offset: 2827, content: ，, id: KR3k0012_CHANT_691-bkkpn935}
@@ -2094,6 +2111,7 @@ markers:
   - {type: punctuation, offset: 2846, content: ：, id: KR3k0012_CHANT_691-bkkpn947}
   - {type: 'tls:seg', offset: 2846, content: '', id: KR3k0012_CHANT_691-44a.5}
   - {type: punctuation, offset: 2846, content: 「, id: KR3k0012_CHANT_691-bkkpn948}
+  - {type: substitution, offset: 2850, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 2852, content: 。, id: KR3k0012_CHANT_691-bkkpn949}
   - {type: 'tls:seg', offset: 2852, content: '', id: KR3k0012_CHANT_691-44a.6}
   - {type: punctuation, offset: 2859, content: ，, id: KR3k0012_CHANT_691-bkkpn950}
@@ -2140,6 +2158,7 @@ markers:
   - {type: variant, offset: 2914, length: 1, content: 牋, SBCK: 貢}
   - {type: variant, offset: 2914, length: 1, content: 牋, WYG: 貢}
   - {type: variant, offset: 2914, length: 1, content: 牋, krp: 貢}
+  - {type: substitution, offset: 2914, original: 牋, replacement: 箋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18359}}
   - {type: punctuation, offset: 2915, content: 》, id: KR3k0012_CHANT_691-bkkpn966}
   - {type: punctuation, offset: 2916, content: ：, id: KR3k0012_CHANT_691-bkkpn967}
   - {type: 'tls:seg', offset: 2916, content: '', id: KR3k0012_CHANT_691-45a.5}
@@ -2150,6 +2169,7 @@ markers:
   - {type: variant, offset: 2916, length: 9, content: 將軍哀憐賜固手跡告, krp: 遺仲叔虎頭旁囊金銀鈎謝承與歩騭書曰所在近北無它異物裁奉織成虎頭綬囊可}
   - {type: punctuation, offset: 2920, content: ，, id: KR3k0012_CHANT_691-bkkpn969}
   - {type: 'tls:seg', offset: 2920, content: '', id: KR3k0012_CHANT_691-45a.6}
+  - {type: substitution, offset: 2923, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
   - {type: punctuation, offset: 2924, content: 。, id: KR3k0012_CHANT_691-bkkpn970}
   - {type: 'tls:seg', offset: 2924, content: '', id: KR3k0012_CHANT_691-45a.7}
   - {type: variant, offset: 2926, length: 15, content: 中軍宜鮮明乃賜以瑇瑁簪絳紗單衣, SBCK: 服之孔珠與王佐長史書朝不着鞶囊不知爲何不荅曰㝷此鞶囊是内則施鞶之遺象此爲箴線之屬非朝服所冝著太平御覽卷第六百九十一}
@@ -2159,10 +2179,11 @@ markers:
   - {type: page-break, offset: 2929, content: '', id: KR3k0012_WYG_691-12b, image: WYG0899/WYG0899-0199d.png}
   - {type: punctuation, offset: 2931, content: ，, id: KR3k0012_CHANT_691-bkkpn971}
   - {type: 'tls:seg', offset: 2931, content: '', id: KR3k0012_CHANT_691-45a.8}
+  - {type: substitution, offset: 2934, original: 瑇, replacement: 玳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18040}}
   - {type: punctuation, offset: 2937, content: ，, id: KR3k0012_CHANT_691-bkkpn972}
   - {type: 'tls:seg', offset: 2937, content: '', id: KR3k0012_CHANT_691-45a.9}
   - {type: punctuation, offset: 2941, content: 。, id: KR3k0012_CHANT_691-bkkpn973}
   - {type: punctuation, offset: 2941, content: 」, id: KR3k0012_CHANT_691-bkkpn974}
   - {type: xml-element, offset: 2941, content: '', id: KR3k0012_CHANT_691-bkkxmlele168}
   back: []
-hash: sha256:bb1081a2bfa74cfdb6e8cb9bbe008e4555f41d158e60c47a0daba50f1582ffba
+hash: sha256:bab6264693b92a2be20f60b7b828421a35382b457d14c201951464c7bf52a69c

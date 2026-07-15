@@ -47,6 +47,7 @@ markers:
   - {type: page-break, offset: 41, content: '', id: KR3k0012_SBCK_678-2b}
   - {type: variant, offset: 41, length: 1, content: 眾, WYG: 若道士得秘聖之經皆當杜秘於一人之口者即}
   - {type: variant, offset: 41, length: 8, content: 眾真宴禮大帝屈節, krp: 若道士得祕聖之經皆當杜祕}
+  - {type: substitution, offset: 41, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: variant, offset: 43, length: 6, content: 宴禮大帝屈節, WYG: 靈之文將墜}
   - {type: punctuation, offset: 47, content: ，, id: KR3k0012_CHANT_678-bkkpn14}
   - {type: 'tls:seg', offset: 47, content: '', id: KR3k0012_CHANT_678-1a.10}
@@ -245,6 +246,7 @@ markers:
   - {type: 'tls:seg', offset: 240, content: '', id: KR3k0012_CHANT_678-5a.5}
   - {type: variant, offset: 242, length: 13, content: 眾真也洞神經曰拂拭几案置經, WYG: ''}
   - {type: variant, offset: 242, length: 13, content: 眾真也洞神經曰拂拭几案置經, krp: ''}
+  - {type: substitution, offset: 242, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 245, content: 。, id: KR3k0012_CHANT_678-bkkpn78}
   - {type: punctuation, offset: 245, content: 」, id: KR3k0012_CHANT_678-bkkpn79}
   - {type: xml-element, offset: 245, content: '', id: KR3k0012_CHANT_678-bkkxmlele22}
@@ -272,6 +274,7 @@ markers:
   - {type: punctuation, offset: 262, content: 「, id: KR3k0012_CHANT_678-bkkpn90}
   - {type: punctuation, offset: 274, content: ，, id: KR3k0012_CHANT_678-bkkpn91}
   - {type: 'tls:seg', offset: 274, content: '', id: KR3k0012_CHANT_678-6a.4}
+  - {type: substitution, offset: 275, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 280, content: 。, id: KR3k0012_CHANT_678-bkkpn92}
   - {type: punctuation, offset: 280, content: 」, id: KR3k0012_CHANT_678-bkkpn93}
   - {type: xml-element, offset: 280, content: '', id: KR3k0012_CHANT_678-bkkxmlele26}
@@ -290,6 +293,7 @@ markers:
   - {type: xml-element, offset: 297, content: '', id: KR3k0012_CHANT_678-bkkxmlele29}
   - {type: 'tls:seg', offset: 297, content: '', id: KR3k0012_CHANT_678-6a.8}
   - {type: punctuation, offset: 297, content: 《, id: KR3k0012_CHANT_678-bkkpn101}
+  - {type: substitution, offset: 297, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 300, content: 》, id: KR3k0012_CHANT_678-bkkpn102}
   - {type: punctuation, offset: 301, content: ：, id: KR3k0012_CHANT_678-bkkpn103}
   - {type: 'tls:seg', offset: 301, content: '', id: KR3k0012_CHANT_678-6a.9}
@@ -355,6 +359,7 @@ markers:
   - {type: variant, offset: 355, length: 11, content: 大洞真經雌一奇文者恒置, WYG: 此}
   - {type: punctuation, offset: 364, content: ，, id: KR3k0012_CHANT_678-bkkpn124}
   - {type: 'tls:seg', offset: 364, content: '', id: KR3k0012_CHANT_678-7a.7}
+  - {type: substitution, offset: 364, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: variant, offset: 368, length: 6, content: 几格潔靜之處, WYG: 皇上真人}
   - {type: variant, offset: 368, length: 30, content: 几格潔靜之處九幽經曰帝尊在九清妙境三元宮中御三氣之華寶雲玉座, krp: 鳯臺南軒非}
   - {type: punctuation, offset: 374, content: 。, id: KR3k0012_CHANT_678-bkkpn125}
@@ -589,6 +594,7 @@ markers:
   - {type: 'tls:seg', offset: 682, content: '', id: KR3k0012_CHANT_678-13a.7}
   - {type: punctuation, offset: 687, content: 。, id: KR3k0012_CHANT_678-bkkpn229}
   - {type: 'tls:seg', offset: 687, content: '', id: KR3k0012_CHANT_678-13a.8}
+  - {type: substitution, offset: 688, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: page-break, offset: 689, content: '', id: KR3k0012_WYG_678-5b, image: WYG0899/WYG0899-0103d.png}
   - {type: variant, offset: 691, length: 0, content: '', WYG: 撫背告之曰汝道雖成所聞未足我有所授汝乃遣侍女郭宻香與上元夫人相聞云但不相見四千餘年天事勞我致以愆靣可暫來否當此相待上元夫人遣一侍女荅曰阿環再拜上問起居逺隔絳河擾以官事遂違顔色近五千年仰戀光潤情係無違宻香至奉信承降尊於茅固處聞命之際即當飾駕先被太帝君𠡠使詣希林校定三元之脉正爾暫徃如是當還還便束帶願暫少留茅固回問王母不審上元夫人何真也曰三天真皇之母上元之髙真統領十方玉女之名籙者也及上元夫人來聞雲中簫鼓聲龍馬嘶鳴既至從者甚衆皆女子齊年十六七容色明逸多服青綾之衣光彩奪目上元年未笄天姿絶艶服赤霜之袍被青錦裘}
   - {type: page-break, offset: 691, content: '', id: KR3k0012_WYG_678-6a, image: WYG0899/WYG0899-0104a.png}
@@ -670,6 +676,7 @@ markers:
   - {type: punctuation, offset: 791, content: ：, id: KR3k0012_CHANT_678-bkkpn263}
   - {type: 'tls:seg', offset: 791, content: '', id: KR3k0012_CHANT_678-15a.3}
   - {type: punctuation, offset: 791, content: 「, id: KR3k0012_CHANT_678-bkkpn264}
+  - {type: substitution, offset: 794, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: variant, offset: 796, length: 72, content: 天帝王七聖几下飛行羽經曰修存三一道法坐金床玉几金爐玉匕太真人詩曰太微啟玉案列仙傳曰太室山中有地仙邛䟽臥床几案真誥曰鹿跡山中有絕洞洞中自有石床石榻, SBCK: 轉丹用}
   - {type: punctuation, offset: 803, content: 。, id: KR3k0012_CHANT_678-bkkpn265}
   - {type: punctuation, offset: 803, content: 」, id: KR3k0012_CHANT_678-bkkpn266}
@@ -695,6 +702,7 @@ markers:
   - {type: punctuation, offset: 828, content: ：, id: KR3k0012_CHANT_678-bkkpn277}
   - {type: 'tls:seg', offset: 828, content: '', id: KR3k0012_CHANT_678-15a.9}
   - {type: punctuation, offset: 828, content: 「, id: KR3k0012_CHANT_678-bkkpn278}
+  - {type: substitution, offset: 830, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 833, content: 。, id: KR3k0012_CHANT_678-bkkpn279}
   - {type: punctuation, offset: 833, content: 」, id: KR3k0012_CHANT_678-bkkpn280}
   - {type: xml-element, offset: 833, content: '', id: KR3k0012_CHANT_678-bkkxmlele72}
@@ -708,6 +716,7 @@ markers:
   - {type: punctuation, offset: 837, content: 「, id: KR3k0012_CHANT_678-bkkpn284}
   - {type: punctuation, offset: 841, content: ，, id: KR3k0012_CHANT_678-bkkpn285}
   - {type: 'tls:seg', offset: 841, content: '', id: KR3k0012_CHANT_678-16a.4}
+  - {type: substitution, offset: 845, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: punctuation, offset: 850, content: 。, id: KR3k0012_CHANT_678-bkkpn286}
   - {type: punctuation, offset: 850, content: 」, id: KR3k0012_CHANT_678-bkkpn287}
   - {type: xml-element, offset: 850, content: '', id: KR3k0012_CHANT_678-bkkxmlele74}
@@ -718,6 +727,8 @@ markers:
   - {type: punctuation, offset: 853, content: ：, id: KR3k0012_CHANT_678-bkkpn290}
   - {type: 'tls:seg', offset: 853, content: '', id: KR3k0012_CHANT_678-16a.6}
   - {type: punctuation, offset: 853, content: 「, id: KR3k0012_CHANT_678-bkkpn291}
+  - {type: substitution, offset: 854, original: 跡, replacement: 迹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16987}}
+  - {type: substitution, offset: 858, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 860, content: ，, id: KR3k0012_CHANT_678-bkkpn292}
   - {type: 'tls:seg', offset: 860, content: '', id: KR3k0012_CHANT_678-16a.7}
   - {type: punctuation, offset: 866, content: 、, id: KR3k0012_CHANT_678-bkkpn293}
@@ -753,6 +764,7 @@ markers:
   - {type: variant, offset: 925, length: 106, content: 二玉輪六師啟路飛龍翼轅行上清之道出則五帝侍衛建紫毛之節駕飛雲丹車位准上清左右仙卿行太清之道出則五帝侍衛建五色之節駕龍輿白虬啟道太極參軒又曰王惣真為茅盈召朱冠使者二人乘流景之輿蒼虵把綠節仗瓊竿羽旄橫曰朱雲翳景使者並, SBCK: 着}
   - {type: punctuation, offset: 928, content: ，, id: KR3k0012_CHANT_678-bkkpn308}
   - {type: 'tls:seg', offset: 928, content: '', id: KR3k0012_CHANT_678-17a.11}
+  - {type: substitution, offset: 930, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 932, content: ，, id: KR3k0012_CHANT_678-bkkpn309}
   - {type: 'tls:seg', offset: 932, content: '', id: KR3k0012_CHANT_678-17a.12}
   - {type: punctuation, offset: 936, content: ，, id: KR3k0012_CHANT_678-bkkpn310}
@@ -765,6 +777,7 @@ markers:
   - {type: 'tls:seg', offset: 952, content: '', id: KR3k0012_CHANT_678-17a.16}
   - {type: punctuation, offset: 957, content: ，, id: KR3k0012_CHANT_678-bkkpn314}
   - {type: 'tls:seg', offset: 957, content: '', id: KR3k0012_CHANT_678-17a.17}
+  - {type: substitution, offset: 958, original: 准, replacement: 準, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17193}}
   - {type: punctuation, offset: 961, content: ，, id: KR3k0012_CHANT_678-bkkpn315}
   - {type: 'tls:seg', offset: 961, content: '', id: KR3k0012_CHANT_678-17a.18}
   - {type: punctuation, offset: 965, content: ，, id: KR3k0012_CHANT_678-bkkpn316}
@@ -777,6 +790,7 @@ markers:
   - {type: 'tls:seg', offset: 981, content: '', id: KR3k0012_CHANT_678-17a.22}
   - {type: punctuation, offset: 984, content: ，, id: KR3k0012_CHANT_678-bkkpn320}
   - {type: 'tls:seg', offset: 984, content: '', id: KR3k0012_CHANT_678-17a.23}
+  - {type: substitution, offset: 986, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 988, content: ，, id: KR3k0012_CHANT_678-bkkpn321}
   - {type: 'tls:seg', offset: 988, content: '', id: KR3k0012_CHANT_678-17a.24}
   - {type: punctuation, offset: 992, content: 。, id: KR3k0012_CHANT_678-bkkpn322}
@@ -792,6 +806,8 @@ markers:
   - {type: 'tls:seg', offset: 1007, content: '', id: KR3k0012_CHANT_678-18a.4}
   - {type: punctuation, offset: 1012, content: 。, id: KR3k0012_CHANT_678-bkkpn327}
   - {type: 'tls:seg', offset: 1012, content: '', id: KR3k0012_CHANT_678-18a.5}
+  - {type: substitution, offset: 1013, original: 虵, replacement: 蛇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17300}}
+  - {type: substitution, offset: 1015, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1017, content: ，, id: KR3k0012_CHANT_678-bkkpn328}
   - {type: 'tls:seg', offset: 1017, content: '', id: KR3k0012_CHANT_678-18a.6}
   - {type: punctuation, offset: 1020, content: ，, id: KR3k0012_CHANT_678-bkkpn329}
@@ -830,6 +846,7 @@ markers:
   - {type: 'tls:seg', offset: 1077, content: '', id: KR3k0012_CHANT_678-18a.15}
   - {type: punctuation, offset: 1083, content: ，, id: KR3k0012_CHANT_678-bkkpn339}
   - {type: 'tls:seg', offset: 1083, content: '', id: KR3k0012_CHANT_678-18a.16}
+  - {type: substitution, offset: 1084, original: 莅, replacement: 蒞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20811}}
   - {type: punctuation, offset: 1089, content: ，, id: KR3k0012_CHANT_678-bkkpn340}
   - {type: 'tls:seg', offset: 1089, content: '', id: KR3k0012_CHANT_678-18a.17}
   - {type: punctuation, offset: 1100, content: 。, id: KR3k0012_CHANT_678-bkkpn341}
@@ -852,6 +869,7 @@ markers:
   - {type: variant, offset: 1112, length: 1, content: 岳, SBCK: 極}
   - {type: variant, offset: 1112, length: 1, content: 岳, WYG: 茅}
   - {type: variant, offset: 1112, length: 1, content: 岳, krp: 茅}
+  - {type: substitution, offset: 1112, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: variant, offset: 1113, length: 1, content: 真, SBCK: 夫}
   - {type: variant, offset: 1113, length: 1, content: 真, krp: 眞}
   - {type: punctuation, offset: 1115, content: 、, id: KR3k0012_CHANT_678-bkkpn343}
@@ -862,6 +880,7 @@ markers:
   - {type: page-break, offset: 1119, content: '', id: KR3k0012_SBCK_678-6a}
   - {type: variant, offset: 1121, length: 125, content: 王母方諸青童君並乘綠景之輿駕神虎之軿同造茅盈於句曲之山金璮之陰又曰飛仙祕道招五辰之晨常能行之十五年則南極老人丹陵上真迎以綠雲之輦西極老人素靈子期迎以黃颷之車北極老人玄上仙皇迎以玄景之龍東極老人扶陽公子迎以青軿之輦中元老人上玄子迎以曲晨之蓋五老會合俱升, SBCK: 詣}
   - {type: punctuation, offset: 1123, content: 、, id: KR3k0012_CHANT_678-bkkpn345}
+  - {type: substitution, offset: 1130, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1134, content: ，, id: KR3k0012_CHANT_678-bkkpn346}
   - {type: 'tls:seg', offset: 1134, content: '', id: KR3k0012_CHANT_678-18a.20}
   - {type: punctuation, offset: 1139, content: ，, id: KR3k0012_CHANT_678-bkkpn347}
@@ -898,6 +917,7 @@ markers:
   - {type: 'tls:seg', offset: 1167, content: '', id: KR3k0012_CHANT_678-19a.6}
   - {type: variant, offset: 1168, length: 10, content: 五年則南極老人丹陵上, WYG: 八日十二月二日東卿司命茅君當是日請惣}
   - {type: variant, offset: 1179, length: 68, content: 迎以綠雲之輦西極老人素靈子期迎以黃颷之車北極老人玄上仙皇迎以玄景之龍東極老人扶陽公子迎以青軿之輦中元老人上玄子迎以曲晨之蓋五老會合俱升紫, WYG: 玉君太}
+  - {type: substitution, offset: 1181, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1185, content: ，, id: KR3k0012_CHANT_678-bkkpn356}
   - {type: 'tls:seg', offset: 1185, content: '', id: KR3k0012_CHANT_678-19a.7}
   - {type: punctuation, offset: 1199, content: ，, id: KR3k0012_CHANT_678-bkkpn357}
@@ -940,6 +960,7 @@ markers:
   - {type: 'tls:seg', offset: 1298, content: '', id: KR3k0012_CHANT_678-20a.5}
   - {type: punctuation, offset: 1302, content: ，, id: KR3k0012_CHANT_678-bkkpn373}
   - {type: 'tls:seg', offset: 1302, content: '', id: KR3k0012_CHANT_678-20a.6}
+  - {type: substitution, offset: 1302, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 1306, content: ，, id: KR3k0012_CHANT_678-bkkpn374}
   - {type: 'tls:seg', offset: 1306, content: '', id: KR3k0012_CHANT_678-20a.7}
   - {type: punctuation, offset: 1310, content: ，, id: KR3k0012_CHANT_678-bkkpn375}
@@ -956,6 +977,7 @@ markers:
   - {type: variant, offset: 1332, length: 14, content: 靜眄廻轡三元高皇秉節靈童攀轅, SBCK: ''}
   - {type: punctuation, offset: 1334, content: ，, id: KR3k0012_CHANT_678-bkkpn380}
   - {type: 'tls:seg', offset: 1334, content: '', id: KR3k0012_CHANT_678-20a.13}
+  - {type: substitution, offset: 1334, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 1338, content: ，, id: KR3k0012_CHANT_678-bkkpn381}
   - {type: 'tls:seg', offset: 1338, content: '', id: KR3k0012_CHANT_678-20a.14}
   - {type: punctuation, offset: 1342, content: ，, id: KR3k0012_CHANT_678-bkkpn382}
@@ -984,6 +1006,7 @@ markers:
   - {type: 'tls:seg', offset: 1392, content: '', id: KR3k0012_CHANT_678-20a.25}
   - {type: punctuation, offset: 1400, content: 。, id: KR3k0012_CHANT_678-bkkpn394}
   - {type: 'tls:seg', offset: 1400, content: '', id: KR3k0012_CHANT_678-20a.26}
+  - {type: substitution, offset: 1402, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1406, content: ，, id: KR3k0012_CHANT_678-bkkpn395}
   - {type: 'tls:seg', offset: 1406, content: '', id: KR3k0012_CHANT_678-20a.27}
   - {type: variant, offset: 1411, length: 1, content: 三, SBCK: 受}
@@ -1035,6 +1058,7 @@ markers:
   - {type: punctuation, offset: 1519, content: 。, id: KR3k0012_CHANT_678-bkkpn412}
   - {type: 'tls:seg', offset: 1519, content: '', id: KR3k0012_CHANT_678-20a.42}
   - {type: variant, offset: 1529, length: 120, content: 乘玄景綠輿上詣紫微宮四道祕言曰以甲戍上旬戊寅巳卯之日清旦東南望有赤白青雲者是為扶桑太帝君三素雲也其時扶桑太帝君乘光明八道之輦上詣紫微宮五道祕言曰以甲申上旬戊子巳丑之日清旦正西望見白赤紫雲者是為太素上真白帝君三素雲也其時太素上真人白帝君乘脩條, SBCK: 治}
+  - {type: substitution, offset: 1532, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1539, content: 。, id: KR3k0012_CHANT_678-bkkpn413}
   - {type: 'tls:seg', offset: 1539, content: '', id: KR3k0012_CHANT_678-20a.43}
   - {type: punctuation, offset: 1539, content: ○, id: KR3k0012_CHANT_678-bkkpn414}
@@ -1062,6 +1086,7 @@ markers:
   - {type: 'tls:seg', offset: 1623, content: '', id: KR3k0012_CHANT_678-20a.53}
   - {type: punctuation, offset: 1636, content: 。, id: KR3k0012_CHANT_678-bkkpn427}
   - {type: 'tls:seg', offset: 1636, content: '', id: KR3k0012_CHANT_678-20a.54}
+  - {type: substitution, offset: 1647, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: variant, offset: 1650, length: 179, content: 輦上詣玉天玄皇高真也六道祕言曰甲午上旬戊戍巳亥之日清旦正南望有青赤黃雲者是為南極上真赤帝君其時乘絳琳碧輦上詣閬風臺七道祕言曰以甲辰上旬戊申巳酉之日清旦西南望見綠紫青雲者是為上清真人時乘玄景八光丹輦上詣高上天帝八道祕言曰以甲寅上旬戊午巳未之日清旦正東望有朱碧黃雲者是太虛上真人其時乘徘徊玉輿上詣大帝君八節日見三素雲者紫雲在上綠雲次之白雲在下共相沓也子謹視之移度, SBCK: 屋山主領寳}
   - {type: punctuation, offset: 1651, content: ，, id: KR3k0012_CHANT_678-bkkpn428}
   - {type: 'tls:seg', offset: 1651, content: '', id: KR3k0012_CHANT_678-20a.55}
@@ -1083,6 +1108,7 @@ markers:
   - {type: 'tls:seg', offset: 1712, content: '', id: KR3k0012_CHANT_678-20a.62}
   - {type: punctuation, offset: 1728, content: ，, id: KR3k0012_CHANT_678-bkkpn438}
   - {type: 'tls:seg', offset: 1728, content: '', id: KR3k0012_CHANT_678-20a.63}
+  - {type: substitution, offset: 1729, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1734, content: ，, id: KR3k0012_CHANT_678-bkkpn439}
   - {type: 'tls:seg', offset: 1734, content: '', id: KR3k0012_CHANT_678-20a.64}
   - {type: punctuation, offset: 1740, content: 。, id: KR3k0012_CHANT_678-bkkpn440}
@@ -1106,6 +1132,7 @@ markers:
   - {type: 'tls:seg', offset: 1807, content: '', id: KR3k0012_CHANT_678-20a.73}
   - {type: punctuation, offset: 1811, content: ，, id: KR3k0012_CHANT_678-bkkpn450}
   - {type: 'tls:seg', offset: 1811, content: '', id: KR3k0012_CHANT_678-20a.74}
+  - {type: substitution, offset: 1811, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1815, content: ，, id: KR3k0012_CHANT_678-bkkpn451}
   - {type: 'tls:seg', offset: 1815, content: '', id: KR3k0012_CHANT_678-20a.75}
   - {type: punctuation, offset: 1819, content: ，, id: KR3k0012_CHANT_678-bkkpn452}
@@ -1128,6 +1155,7 @@ markers:
   - {type: 'tls:seg', offset: 1837, content: '', id: KR3k0012_CHANT_678-21a.4}
   - {type: punctuation, offset: 1841, content: ，, id: KR3k0012_CHANT_678-bkkpn461}
   - {type: 'tls:seg', offset: 1841, content: '', id: KR3k0012_CHANT_678-21a.5}
+  - {type: substitution, offset: 1843, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 1845, content: ，, id: KR3k0012_CHANT_678-bkkpn462}
   - {type: 'tls:seg', offset: 1845, content: '', id: KR3k0012_CHANT_678-21a.6}
   - {type: punctuation, offset: 1849, content: 。, id: KR3k0012_CHANT_678-bkkpn463}
@@ -1165,6 +1193,7 @@ markers:
   - {type: punctuation, offset: 1890, content: 「, id: KR3k0012_CHANT_678-bkkpn481}
   - {type: punctuation, offset: 1897, content: ，, id: KR3k0012_CHANT_678-bkkpn482}
   - {type: 'tls:seg', offset: 1897, content: '', id: KR3k0012_CHANT_678-22a.7}
+  - {type: substitution, offset: 1897, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 1901, content: 。, id: KR3k0012_CHANT_678-bkkpn483}
   - {type: punctuation, offset: 1901, content: 」, id: KR3k0012_CHANT_678-bkkpn484}
   - {type: xml-element, offset: 1901, content: '', id: KR3k0012_CHANT_678-bkkxmlele92}
@@ -1410,6 +1439,7 @@ markers:
   - {type: punctuation, offset: 2256, content: 「, id: KR3k0012_CHANT_678-bkkpn609}
   - {type: punctuation, offset: 2265, content: ，, id: KR3k0012_CHANT_678-bkkpn610}
   - {type: 'tls:seg', offset: 2265, content: '', id: KR3k0012_CHANT_678-29a.6}
+  - {type: substitution, offset: 2269, original: 轝, replacement: 輿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19611}}
   - {type: punctuation, offset: 2270, content: ，, id: KR3k0012_CHANT_678-bkkpn611}
   - {type: 'tls:seg', offset: 2270, content: '', id: KR3k0012_CHANT_678-29a.7}
   - {type: variant, offset: 2272, length: 15, content: 之軿曲晨寶蓋又曰太素真君乘虎旗, SBCK: 斾}
@@ -1488,6 +1518,7 @@ markers:
   - {type: punctuation, offset: 2384, content: ：, id: KR3k0012_CHANT_678-bkkpn647}
   - {type: 'tls:seg', offset: 2384, content: '', id: KR3k0012_CHANT_678-32a.3}
   - {type: punctuation, offset: 2384, content: 「, id: KR3k0012_CHANT_678-bkkpn648}
+  - {type: substitution, offset: 2386, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: punctuation, offset: 2389, content: ，, id: KR3k0012_CHANT_678-bkkpn649}
   - {type: 'tls:seg', offset: 2389, content: '', id: KR3k0012_CHANT_678-32a.4}
   - {type: punctuation, offset: 2394, content: 。, id: KR3k0012_CHANT_678-bkkpn650}
@@ -1502,6 +1533,7 @@ markers:
   - {type: punctuation, offset: 2399, content: 「, id: KR3k0012_CHANT_678-bkkpn655}
   - {type: punctuation, offset: 2406, content: ，, id: KR3k0012_CHANT_678-bkkpn656}
   - {type: 'tls:seg', offset: 2406, content: '', id: KR3k0012_CHANT_678-32a.7}
+  - {type: substitution, offset: 2407, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 2409, content: 。, id: KR3k0012_CHANT_678-bkkpn657}
   - {type: punctuation, offset: 2409, content: 」, id: KR3k0012_CHANT_678-bkkpn658}
   - {type: xml-element, offset: 2409, content: '', id: KR3k0012_CHANT_678-bkkxmlele146}
@@ -1537,6 +1569,7 @@ markers:
   - {type: 'tls:seg', offset: 2446, content: '', id: KR3k0012_CHANT_678-33a.5}
   - {type: punctuation, offset: 2450, content: ，, id: KR3k0012_CHANT_678-bkkpn675}
   - {type: 'tls:seg', offset: 2450, content: '', id: KR3k0012_CHANT_678-33a.6}
+  - {type: substitution, offset: 2452, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: punctuation, offset: 2454, content: 。, id: KR3k0012_CHANT_678-bkkpn676}
   - {type: punctuation, offset: 2454, content: 」, id: KR3k0012_CHANT_678-bkkpn677}
   - {type: xml-element, offset: 2454, content: '', id: KR3k0012_CHANT_678-bkkxmlele150}
@@ -1644,6 +1677,7 @@ markers:
   - {type: punctuation, offset: 2627, content: ：, id: KR3k0012_CHANT_678-bkkpn733}
   - {type: 'tls:seg', offset: 2627, content: '', id: KR3k0012_CHANT_678-36a.5}
   - {type: punctuation, offset: 2627, content: 「, id: KR3k0012_CHANT_678-bkkpn734}
+  - {type: substitution, offset: 2630, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 2633, content: 。, id: KR3k0012_CHANT_678-bkkpn735}
   - {type: punctuation, offset: 2633, content: 」, id: KR3k0012_CHANT_678-bkkpn736}
   - {type: xml-element, offset: 2633, content: '', id: KR3k0012_CHANT_678-bkkxmlele166}
@@ -1760,6 +1794,7 @@ markers:
   - {type: punctuation, offset: 2829, content: ：, id: KR3k0012_CHANT_678-bkkpn795}
   - {type: 'tls:seg', offset: 2829, content: '', id: KR3k0012_CHANT_678-40a.3}
   - {type: punctuation, offset: 2829, content: 「, id: KR3k0012_CHANT_678-bkkpn796}
+  - {type: substitution, offset: 2839, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: punctuation, offset: 2844, content: ，, id: KR3k0012_CHANT_678-bkkpn797}
   - {type: 'tls:seg', offset: 2844, content: '', id: KR3k0012_CHANT_678-40a.4}
   - {type: punctuation, offset: 2857, content: ，, id: KR3k0012_CHANT_678-bkkpn798}
@@ -1792,6 +1827,7 @@ markers:
   - {type: 'tls:seg', offset: 2900, content: '', id: KR3k0012_CHANT_678-41a.2}
   - {type: punctuation, offset: 2900, content: 《, id: KR3k0012_CHANT_678-bkkpn812}
   - {type: variant, offset: 2900, length: 0, content: '', SBCK: 寢宴太極}
+  - {type: substitution, offset: 2901, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: variant, offset: 2905, length: 0, content: '', SBCK: 師之撰傳顯於丗南岳魏夫人内}
   - {type: punctuation, offset: 2906, content: 》, id: KR3k0012_CHANT_678-bkkpn813}
   - {type: punctuation, offset: 2907, content: ：, id: KR3k0012_CHANT_678-bkkpn814}
@@ -1812,6 +1848,7 @@ markers:
   - {type: 'tls:seg', offset: 2921, content: '', id: KR3k0012_CHANT_678-41a.5}
   - {type: punctuation, offset: 2921, content: 「, id: KR3k0012_CHANT_678-bkkpn821}
   - {type: variant, offset: 2921, length: 0, content: '', SBCK: 此清虚真人者爾之師也當受業焉景林真曰爾應爲紫虚元君上真司命封}
+  - {type: substitution, offset: 2922, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: variant, offset: 2925, length: 0, content: '', SBCK: 也夫人謝曰此是婢子有幸賜以性命自陳畢東華小童指而􅀏曰丹心苦哉於是清虚真人王君乃命侍女華散條李明瓮䓁川披雲藴開玉笈出太上寳文八經隱書大洞真經靈書八道紫度炎光石精玉馬神真虎文髙仙羽玄三十一卷即手授夫人也王君昔學道在陽洛山遇南極夫人西城王君授此三十一卷經行之成真人今所授者是南極西城之夲經也陽洛山有洞臺是清虚之别宫也王君當授魏夫人經之時起立北向而誓曰太上三玄九皇髙真太帝太帝使教子魏華存於是景林真又授夫人黄庭内景經一名太上琴心一名大帝金書一名東華玉篇令晝夜誦之王君又告曰子􅀂不在山中隱身齋戒則大洞眞經不可妄讀也至于虎經龍書八素隱文之屬竒祕玄奥􅀂不齋戒絶丗不可施行子今且可誦黄庭内經歩躡七元存五星之神而巳人間行之亦足感通變化欲成際㑹我有以相迎矣方諸青童怡然小留四眞吟唱乃命北寒玉女宋聮㳙彈九氣之璈東華玉女煙景珠擊西盈之鐘雲林玉女賈屈庭吹鳯戾之簫飛玄玉女鮮于靈金拊九合玉節王君乃語夫人曰訣諸要訖乃別去夫人守静日進在丗八十三年以晉成帝咸和九年王君與東華青童來降時歳在甲午二眞人與夫人藥題曰隠遷白醫川神散石精金光化形靈丸使稱疾忽行尅期有定俱㑹陽洛宮言畢二眞人去夫人即服藥因稱脚疾閉目寢息飲而不食到七日其夜半之後太一玄仙遣飈車來迎}
   - {type: page-break, offset: 2925, content: '', id: KR3k0012_SBCK_678-7a}
   - {type: page-break, offset: 2925, content: '', id: KR3k0012_SBCK_678-7b}
@@ -1895,6 +1932,7 @@ markers:
   - {type: punctuation, offset: 3014, content: ，, id: KR3k0012_CHANT_678-bkkpn852}
   - {type: 'tls:seg', offset: 3014, content: '', id: KR3k0012_CHANT_678-43a.5}
   - {type: variant, offset: 3016, length: 40, content: 眾真之所處靈書紫文上經曰有太空瓊臺丹玕之殿靈寶赤書曰妙行真人詣元始受赤書五篇真文, SBCK: 金石發響}
+  - {type: substitution, offset: 3016, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 3021, content: 。, id: KR3k0012_CHANT_678-bkkpn853}
   - {type: punctuation, offset: 3021, content: 」, id: KR3k0012_CHANT_678-bkkpn854}
   - {type: xml-element, offset: 3021, content: '', id: KR3k0012_CHANT_678-bkkxmlele204}
@@ -1922,6 +1960,7 @@ markers:
   - {type: variant, offset: 3058, length: 2, content: 元始, SBCK: 西母徘徊起立折􅆎俯唱曰哀此去留㑹刼盡天地傾嘉㑹絳阿内相與樂未央􅁔畢湏􅁷司}
   - {type: variant, offset: 3061, length: 1, content: 眾, SBCK: 神仙諸􅈻屬及南岳神靈迎官並至西母等與夫人同去詣天台霍山臺登}
   - {type: page-break, offset: 3061, content: '', id: KR3k0012_SBCK_678-8b}
+  - {type: substitution, offset: 3061, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: variant, offset: 3063, length: 1, content: 入, SBCK: 隠訣曰}
   - {type: variant, offset: 3065, length: 1, content: 定, SBCK: 微天帝}
   - {type: variant, offset: 3067, length: 47, content: 臺玉寶之殿九光華房紫書金根經曰有黃金殿玄妙內篇曰有七寶殿堂太洞玉經曰有羽景之堂在太無之庭玉容者, SBCK: 虎符}
@@ -2140,10 +2179,12 @@ markers:
   - {type: xml-element, offset: 3371, content: '', id: KR3k0012_CHANT_678-bkkxmlele239}
   - {type: 'tls:seg', offset: 3371, content: '', id: KR3k0012_CHANT_678-49a.9}
   - {type: punctuation, offset: 3371, content: 《, id: KR3k0012_CHANT_678-bkkpn976}
+  - {type: substitution, offset: 3371, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 3374, content: 》, id: KR3k0012_CHANT_678-bkkpn977}
   - {type: punctuation, offset: 3375, content: ：, id: KR3k0012_CHANT_678-bkkpn978}
   - {type: 'tls:seg', offset: 3375, content: '', id: KR3k0012_CHANT_678-49a.10}
   - {type: punctuation, offset: 3375, content: 「, id: KR3k0012_CHANT_678-bkkpn979}
+  - {type: substitution, offset: 3378, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 3388, content: 。, id: KR3k0012_CHANT_678-bkkpn980}
   - {type: punctuation, offset: 3388, content: 」, id: KR3k0012_CHANT_678-bkkpn981}
   - {type: xml-element, offset: 3388, content: '', id: KR3k0012_CHANT_678-bkkxmlele240}
@@ -2206,6 +2247,7 @@ markers:
   - {type: punctuation, offset: 3477, content: ：, id: KR3k0012_CHANT_678-bkkpn1012}
   - {type: 'tls:seg', offset: 3477, content: '', id: KR3k0012_CHANT_678-51a.7}
   - {type: punctuation, offset: 3477, content: 「, id: KR3k0012_CHANT_678-bkkpn1013}
+  - {type: substitution, offset: 3485, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: punctuation, offset: 3489, content: ，, id: KR3k0012_CHANT_678-bkkpn1014}
   - {type: 'tls:seg', offset: 3489, content: '', id: KR3k0012_CHANT_678-51a.8}
   - {type: punctuation, offset: 3493, content: 。, id: KR3k0012_CHANT_678-bkkpn1015}
@@ -2449,6 +2491,7 @@ markers:
   - {type: punctuation, offset: 3844, content: 、, id: KR3k0012_CHANT_678-bkkpn1121}
   - {type: punctuation, offset: 3848, content: ，, id: KR3k0012_CHANT_678-bkkpn1122}
   - {type: 'tls:seg', offset: 3848, content: '', id: KR3k0012_CHANT_678-58a.13}
+  - {type: substitution, offset: 3849, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 3853, content: 。, id: KR3k0012_CHANT_678-bkkpn1123}
   - {type: punctuation, offset: 3853, content: 」, id: KR3k0012_CHANT_678-bkkpn1124}
   - {type: xml-element, offset: 3853, content: '', id: KR3k0012_CHANT_678-bkkxmlele284}
@@ -2486,6 +2529,7 @@ markers:
   - {type: variant, offset: 3889, length: 19, content: 皇文此文不與天下眾文同百萬人中未有一人, SBCK: 元六周甲子少年從何而}
   - {type: punctuation, offset: 3891, content: 。, id: KR3k0012_CHANT_678-bkkpn1137}
   - {type: 'tls:seg', offset: 3891, content: '', id: KR3k0012_CHANT_678-59a.9}
+  - {type: substitution, offset: 3897, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 3900, content: ，, id: KR3k0012_CHANT_678-bkkpn1138}
   - {type: 'tls:seg', offset: 3900, content: '', id: KR3k0012_CHANT_678-59a.10}
   - {type: variant, offset: 3909, length: 15, content: 者龜山元籙曰有瓊瑤之室外國放品, SBCK: 知筌稽首再拜具告得}
@@ -2655,6 +2699,7 @@ markers:
   - {type: xml-element, offset: 4136, content: '', id: KR3k0012_CHANT_678-bkkxmlele317}
   - {type: 'tls:seg', offset: 4136, content: '', id: KR3k0012_CHANT_678-64a.1}
   - {type: 'tls:seg', offset: 4136, content: '', id: KR3k0012_CHANT_678-64a.2}
+  - {type: substitution, offset: 4136, original: 䆫, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19377}}
   - {type: xml-element, offset: 4137, content: '', id: KR3k0012_CHANT_678-bkkxmlele318}
   - {type: xml-element, offset: 4137, content: '', id: KR3k0012_CHANT_678-bkkxmlele319}
   - {type: 'tls:seg', offset: 4137, content: '', id: KR3k0012_CHANT_678-64a.3}
@@ -2663,6 +2708,7 @@ markers:
   - {type: punctuation, offset: 4143, content: ：, id: KR3k0012_CHANT_678-bkkpn1224}
   - {type: 'tls:seg', offset: 4143, content: '', id: KR3k0012_CHANT_678-64a.4}
   - {type: punctuation, offset: 4143, content: 「, id: KR3k0012_CHANT_678-bkkpn1225}
+  - {type: substitution, offset: 4151, original: 䆫, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19377}}
   - {type: punctuation, offset: 4152, content: 。, id: KR3k0012_CHANT_678-bkkpn1226}
   - {type: punctuation, offset: 4152, content: 」, id: KR3k0012_CHANT_678-bkkpn1227}
   - {type: xml-element, offset: 4152, content: '', id: KR3k0012_CHANT_678-bkkxmlele320}
@@ -2674,6 +2720,7 @@ markers:
   - {type: variant, offset: 4154, length: 0, content: '', krp: 西極揔真君者茅司命之師也生於啇末服青精䭀飯九轉丹用曲晨劒解之道治西城山宫年三十着繡衣芙蓉冠把鈴帶劒一漢元帝時降陽洛山授玉清虚上經三十一卷晉時又降魏夫人於陽洛臺毎以三月十二月亦同來句曲推校學仙别有傳未顯於丗神仙傳云降蔡經家者是此君也又曰清虗王真人揔真王君弟子南岳魏夫人師漢元帝時辭家人華隂山九年太極真人降授二法後入地胏山終南山一名地胏又登陽洛山平帝時}
   - {type: variant, offset: 4156, length: 0, content: '', krp: 夫人西城王君同降授上經三十一卷王君共詣}
   - {type: variant, offset: 4157, length: 1, content: 䆫, krp: 洲請書真名乃還西城修行道成於是乗飛飊車遊行天下後登白空山詣紫清太素三元君受流金火鈴豁落七元八景飛晨神筞玉璽畢又還西城太上遣賜繡羽晨盖雙珠月明素羽瓊干丹紱錦旌太素又遣賫成命之書以爲太素清虗真人治玉屋山}
+  - {type: substitution, offset: 4157, original: 䆫, replacement: 窗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19377}}
   - {type: punctuation, offset: 4158, content: ，, id: KR3k0012_CHANT_678-bkkpn1230}
   - {type: 'tls:seg', offset: 4158, content: '', id: KR3k0012_CHANT_678-64a.7}
   - {type: variant, offset: 4159, length: 3, content: 諸得道, krp: 領寳經乗虎斾虎輦金盖玉輪八景飛輿杖九色節出入上清受事太素寢宴太極南岳魏夫}
@@ -2753,6 +2800,7 @@ markers:
   - {type: variant, offset: 4265, length: 5, content: 門門內周廻, WYG: 竒授九色之節雙珠月明神虎之符錦旂虎旂旌使位主羣神以威六天太素}
   - {type: punctuation, offset: 4266, content: ，, id: KR3k0012_CHANT_678-bkkpn1258}
   - {type: 'tls:seg', offset: 4266, content: '', id: KR3k0012_CHANT_678-66a.4}
+  - {type: substitution, offset: 4269, original: 廻, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16348}}
   - {type: variant, offset: 4271, length: 3, content: 千里東, WYG: 元君遣使禁仙都衷文堅右嬪元姬趙約羅授夫人西華玉女三百八景飛輿𤣥景九龍使侍衞執巾上詣三清扶桑太常君遣八𤣥仙伯柯元首五方天帝君簡肅正等授夫人玉扎金文位爲紫虛元君領上真司命使主諸學道死生圖籍攝御之官闗校罪考金闗後聖君命仙伯牙叔平授夫人青瓊之板丹緑爲文位爲南岳夫人此秩仙公給曲晨飛盖以遊九宫使治天台大霍山洞臺之中主下訓奉道教授當爲真仙者令一月再登玉清三登登太素四謁玉晨宫宴扶桑之高臺於是夫人授王母之命且還王屋山小}
   - {type: page-break, offset: 4271, content: '', id: KR3k0012_WYG_678-13a, image: WYG0899/WYG0899-0107c.png}
   - {type: variant, offset: 4271, length: 3, content: 千里東, krp: 月九微元君龜山王母西城眞人王方平太虚眞人赤松子桐栢眞人王子喬並降小}
@@ -2897,4 +2945,4 @@ markers:
   - {type: xml-element, offset: 4437, content: '', id: KR3k0012_CHANT_678-bkkxmlele348}
   - {type: page-break, offset: 4437, content: '', id: KR3k0012_SBCK_678-9b}
   back: []
-hash: sha256:21cb37870d645946c49b1e491a4cfe56be8288c9865af3bb8b6d71e7abe3a3da
+hash: sha256:f627563ff31d83858c90a9a9a3216b0034d801d79f69210932c346763b1e5425

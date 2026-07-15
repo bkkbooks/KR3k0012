@@ -329,6 +329,7 @@ markers:
   - {type: variant, offset: 277, length: 4, content: 紫巾詳荅, krp: 啓聞鬱林勑}
   - {type: punctuation, offset: 279, content: ，, id: KR3k0012_CHANT_717-bkkpn86}
   - {type: 'tls:seg', offset: 279, content: '', id: KR3k0012_CHANT_717-4a.19}
+  - {type: substitution, offset: 280, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19777}}
   - {type: variant, offset: 282, length: 9, content: 白布手巾神仙服食經, SBCK: 賜之鏗}
   - {type: variant, offset: 282, length: 9, content: 白布手巾神仙服食經, WYG: 賜之鏗}
   - {type: variant, offset: 282, length: 9, content: 白布手巾神仙服食經, krp: 賜之鏗}
@@ -386,6 +387,7 @@ markers:
   - {type: variant, offset: 326, length: 46, content: 皇后親蚕絲絮織室作祭服皇后得以作絮巾魏略曰趙歧避難至北海著絮巾市賣餅鄴中記曰石虎皇后出以女騎, SBCK: 按行視曹公器物嚴器方六七寸髙四寸太平御覽卷第七百}
   - {type: variant, offset: 326, length: 58, content: 皇后親蚕絲絮織室作祭服皇后得以作絮巾魏略曰趙歧避難至北海著絮巾市賣餅鄴中記曰石虎皇后出以女騎一千為鹵簿冬月皆絮綸巾博, WYG: 按行視曹公器}
   - {type: variant, offset: 326, length: 46, content: 皇后親蚕絲絮織室作祭服皇后得以作絮巾魏略曰趙歧避難至北海著絮巾市賣餅鄴中記曰石虎皇后出以女騎, krp: 按行視曹公器物嚴器方六七寸髙四寸太平御覽卷第七百}
+  - {type: substitution, offset: 329, original: 蚕, replacement: 蠶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17069}}
   - {type: punctuation, offset: 332, content: ，, id: KR3k0012_CHANT_717-bkkpn107}
   - {type: 'tls:seg', offset: 332, content: '', id: KR3k0012_CHANT_717-6a.4}
   - {type: punctuation, offset: 337, content: ，, id: KR3k0012_CHANT_717-bkkpn108}
@@ -437,4 +439,4 @@ markers:
   - {type: punctuation, offset: 395, content: 」, id: KR3k0012_CHANT_717-bkkpn132}
   - {type: xml-element, offset: 395, content: '', id: KR3k0012_CHANT_717-bkkxmlele30}
   back: []
-hash: sha256:6f4812690211c0303ef98a83aa14ac2b1f32323c90e8340cb378d285e7793bbd
+hash: sha256:f73151603baa55e9dcf7d8d6fa37339964bf1ab2571bb7d5c5c6c120babebec7
