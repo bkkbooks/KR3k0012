@@ -39,6 +39,7 @@ markers:
   - {type: variant, offset: 38, length: 2, content: 未濟, WYG: ''}
   - {type: variant, offset: 43, length: 1, content: 于, WYG: 於}
   - {type: punctuation, offset: 55, content: (, id: KR3k0012_krp_497-bkkpn1}
+  - {type: voice, offset: 55, length: 48, name: note, id: n1}
   - {type: punctuation, offset: 59, content: /, id: KR3k0012_krp_497-bkkpn2}
   - {type: punctuation, offset: 63, content: ), id: KR3k0012_krp_497-bkkpn3}
   - {type: 'kr:newline', offset: 63, content: '
@@ -824,6 +825,7 @@ markers:
   - {type: line-break, offset: 2408, content: '', id: KR3k0012_SBCK_497-5b11}
   - {type: variant, offset: 2424, length: 1, content: 輙, WYG: 輒}
   - {type: punctuation, offset: 2427, content: (, id: KR3k0012_krp_497-bkkpn7}
+  - {type: voice, offset: 2427, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2428, content: /, id: KR3k0012_krp_497-bkkpn8}
   - {type: variant, offset: 2428, length: 1, content: 䜛, WYG: 纔}
   - {type: punctuation, offset: 2429, content: ), id: KR3k0012_krp_497-bkkpn9}
@@ -862,6 +864,7 @@ markers:
   - {type: line-break, offset: 2522, content: '', id: KR3k0012_SBCK_497-6a04}
   - {type: variant, offset: 2527, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 2542, content: (, id: KR3k0012_krp_497-bkkpn10}
+  - {type: voice, offset: 2542, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2543, content: /, id: KR3k0012_krp_497-bkkpn11}
   - {type: punctuation, offset: 2544, content: ), id: KR3k0012_krp_497-bkkpn12}
   - {type: 'kr:newline', offset: 2545, content: '
@@ -871,6 +874,7 @@ markers:
   - {type: variant, offset: 2557, length: 1, content: 笑, SBCK: 􅀏}
   - {type: punctuation, offset: 2559, content: (, id: KR3k0012_krp_497-bkkpn13}
   - {type: variant, offset: 2559, length: 4, content: 踒於卧反, WYG: ''}
+  - {type: voice, offset: 2559, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 2561, content: /, id: KR3k0012_krp_497-bkkpn14}
   - {type: punctuation, offset: 2563, content: ), id: KR3k0012_krp_497-bkkpn15}
   - {type: 'kr:newline', offset: 2563, content: '
@@ -1311,4 +1315,4 @@ markers:
 
       ', id: KR3k0012_krp_497-bkkkrnewl223}
   back: []
-hash: sha256:d4a23a1e46ccb52d1e9764788a43a0eb62ff58c45a8ad701cbfeac384ecfeac0
+hash: sha256:cae3f0bf7a69471a1cb43dfb78e2f5d9dea54fa57f00fbac53b9481055768a70

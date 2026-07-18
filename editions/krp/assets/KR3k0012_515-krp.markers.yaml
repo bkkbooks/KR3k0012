@@ -201,6 +201,7 @@ markers:
   - {type: line-break, offset: 560, content: '', id: KR3k0012_SBCK_515-2a07}
   - {type: variant, offset: 562, length: 1, content: 丗, WYG: 世}
   - {type: punctuation, offset: 565, content: (, id: KR3k0012_krp_515-bkkpn1}
+  - {type: voice, offset: 565, length: 3, name: note, id: n1}
   - {type: variant, offset: 566, length: 1, content: 呌, WYG: 斗}
   - {type: punctuation, offset: 567, content: /, id: KR3k0012_krp_515-bkkpn2}
   - {type: punctuation, offset: 568, content: ), id: KR3k0012_krp_515-bkkpn3}
@@ -589,6 +590,7 @@ markers:
   - {type: variant, offset: 1707, length: 1, content: 霸, WYG: 覇}
   - {type: punctuation, offset: 1711, content: (, id: KR3k0012_krp_515-bkkpn4}
   - {type: variant, offset: 1711, length: 5, content: 爲鉅鹿太守, WYG: ''}
+  - {type: voice, offset: 1711, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 1716, content: /, id: KR3k0012_krp_515-bkkpn5}
   - {type: punctuation, offset: 1721, content: ), id: KR3k0012_krp_515-bkkpn6}
   - {type: variant, offset: 1721, length: 1, content: 舎, WYG: 舍}
@@ -623,6 +625,7 @@ markers:
   - {type: page-break, offset: 1828, content: '', id: KR3k0012_WYG_515-7b, image: WYG0897/WYG0897-0603b.png}
   - {type: punctuation, offset: 1829, content: (, id: KR3k0012_krp_515-bkkpn7}
   - {type: variant, offset: 1829, length: 1, content: 翕, WYG: ''}
+  - {type: voice, offset: 1829, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1830, content: /, id: KR3k0012_krp_515-bkkpn8}
   - {type: punctuation, offset: 1831, content: ), id: KR3k0012_krp_515-bkkpn9}
   - {type: 'kr:newline', offset: 1831, content: '
@@ -723,6 +726,7 @@ markers:
   - {type: page-break, offset: 2104, content: '', id: KR3k0012_WYG_515-8b, image: WYG0897/WYG0897-0603d.png}
   - {type: punctuation, offset: 2110, content: (, id: KR3k0012_krp_515-bkkpn10}
   - {type: variant, offset: 2110, length: 9, content: 尚太祖女清河公主楙, WYG: ''}
+  - {type: voice, offset: 2110, length: 18, name: note, id: n4}
   - {type: punctuation, offset: 2119, content: /, id: KR3k0012_krp_515-bkkpn11}
   - {type: variant, offset: 2124, length: 1, content: 畜, WYG: 蓄}
   - {type: punctuation, offset: 2128, content: ), id: KR3k0012_krp_515-bkkpn12}
@@ -732,6 +736,7 @@ markers:
   - {type: line-break, offset: 2135, content: '', id: KR3k0012_SBCK_515-5a11}
   - {type: variant, offset: 2137, length: 1, content: 群, WYG: 羣}
   - {type: punctuation, offset: 2146, content: (, id: KR3k0012_krp_515-bkkpn13}
+  - {type: voice, offset: 2146, length: 18, name: note, id: n5}
   - {type: variant, offset: 2153, length: 1, content: 構, WYG: 搆}
   - {type: punctuation, offset: 2155, content: /, id: KR3k0012_krp_515-bkkpn14}
   - {type: variant, offset: 2155, length: 9, content: 令公主奏之有詔収楙, WYG: 帝}
@@ -1023,4 +1028,4 @@ markers:
 
       ', id: KR3k0012_krp_515-bkkkrnewl171}
   back: []
-hash: sha256:b23ce22df3196712e77ed211b777fce79a5bb07f2236828832f821ffd0252b97
+hash: sha256:20bc2a305c6fcc93f863ce4c6e03989e6a8bc82f06240cbde4825e1506594226

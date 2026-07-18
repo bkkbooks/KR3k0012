@@ -58,6 +58,7 @@ markers:
   - {type: variant, offset: 32, length: 1, content: 瘍, WYG: 􅅑}
   - {type: variant, offset: 34, length: 1, content: 瘍, WYG: 􅅑}
   - {type: punctuation, offset: 39, content: (, id: KR3k0012_krp_742-bkkpn1}
+  - {type: voice, offset: 39, length: 10, name: note, id: n1}
   - {type: variant, offset: 41, length: 1, content: 如, WYG: 為}
   - {type: punctuation, offset: 42, content: /, id: KR3k0012_krp_742-bkkpn2}
   - {type: punctuation, offset: 45, content: ), id: KR3k0012_krp_742-bkkpn3}
@@ -140,6 +141,7 @@ markers:
   - {type: line-break, offset: 243, content: '', id: KR3k0012_SBCK_742-1b08}
   - {type: variant, offset: 253, length: 1, content: 毎, WYG: 每}
   - {type: punctuation, offset: 255, content: (, id: KR3k0012_krp_742-bkkpn7}
+  - {type: voice, offset: 255, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 261, content: /, id: KR3k0012_krp_742-bkkpn8}
   - {type: variant, offset: 261, length: 6, content: 以爲味似鰒魚, WYG: ''}
   - {type: punctuation, offset: 267, content: ), id: KR3k0012_krp_742-bkkpn9}
@@ -359,6 +361,7 @@ markers:
       ', id: KR3k0012_krp_742-bkkkrnewl56}
   - {type: line-break, offset: 813, content: '', id: KR3k0012_SBCK_742-3a01}
   - {type: punctuation, offset: 817, content: (, id: KR3k0012_krp_742-bkkpn10}
+  - {type: voice, offset: 817, length: 5, name: note, id: n3}
   - {type: variant, offset: 818, length: 1, content: 具, WYG: 其}
   - {type: punctuation, offset: 820, content: /, id: KR3k0012_krp_742-bkkpn11}
   - {type: punctuation, offset: 822, content: ), id: KR3k0012_krp_742-bkkpn12}
@@ -579,6 +582,7 @@ markers:
   - {type: variant, offset: 1352, length: 1, content: 瘍, WYG: 􅅑}
   - {type: punctuation, offset: 1355, content: (, id: KR3k0012_krp_742-bkkpn13}
   - {type: variant, offset: 1355, length: 4, content: 癉疽惡瘡, WYG: ''}
+  - {type: voice, offset: 1355, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 1357, content: /, id: KR3k0012_krp_742-bkkpn14}
   - {type: punctuation, offset: 1359, content: ), id: KR3k0012_krp_742-bkkpn15}
   - {type: 'kr:newline', offset: 1362, content: '
@@ -813,6 +817,7 @@ markers:
   - {type: line-break, offset: 1984, content: '', id: KR3k0012_SBCK_742-5b08}
   - {type: variant, offset: 1998, length: 1, content: 巳, WYG: 已}
   - {type: punctuation, offset: 2000, content: (, id: KR3k0012_krp_742-bkkpn16}
+  - {type: voice, offset: 2000, length: 7, name: note, id: n5}
   - {type: punctuation, offset: 2004, content: /, id: KR3k0012_krp_742-bkkpn17}
   - {type: punctuation, offset: 2007, content: ), id: KR3k0012_krp_742-bkkpn18}
   - {type: 'kr:newline', offset: 2007, content: '
@@ -835,6 +840,7 @@ markers:
       ', id: KR3k0012_krp_742-bkkkrnewl137}
   - {type: line-break, offset: 2041, content: '', id: KR3k0012_SBCK_742-5b11}
   - {type: punctuation, offset: 2053, content: (, id: KR3k0012_krp_742-bkkpn19}
+  - {type: voice, offset: 2053, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 2055, content: /, id: KR3k0012_krp_742-bkkpn20}
   - {type: punctuation, offset: 2057, content: ), id: KR3k0012_krp_742-bkkpn21}
   - {type: 'kr:newline', offset: 2057, content: '
@@ -892,6 +898,7 @@ markers:
   - {type: variant, offset: 2139, length: 1, content: 瘃, SBCK: 􅏿}
   - {type: variant, offset: 2139, length: 1, content: 瘃, WYG: 皸􅏿}
   - {type: punctuation, offset: 2144, content: (, id: KR3k0012_krp_742-bkkpn22}
+  - {type: voice, offset: 2144, length: 8, name: note, id: n7}
   - {type: variant, offset: 2145, length: 1, content: 坼, WYG: 拆}
   - {type: punctuation, offset: 2148, content: /, id: KR3k0012_krp_742-bkkpn23}
   - {type: variant, offset: 2148, length: 1, content: 瘃, SBCK: 􅏿}
@@ -996,6 +1003,7 @@ markers:
       ', id: KR3k0012_krp_742-bkkkrnewl165}
   - {type: line-break, offset: 2356, content: '', id: KR3k0012_SBCK_742-6b11}
   - {type: punctuation, offset: 2377, content: (, id: KR3k0012_krp_742-bkkpn25}
+  - {type: voice, offset: 2377, length: 29, name: note, id: n8}
   - {type: punctuation, offset: 2378, content: /, id: KR3k0012_krp_742-bkkpn26}
   - {type: punctuation, offset: 2379, content: ), id: KR3k0012_krp_742-bkkpn27}
   - {type: 'kr:newline', offset: 2379, content: '
@@ -1014,6 +1022,7 @@ markers:
       ', id: KR3k0012_krp_742-bkkkrnewl167}
   - {type: line-break, offset: 2406, content: '', id: KR3k0012_SBCK_742-6b13}
   - {type: punctuation, offset: 2423, content: (, id: KR3k0012_krp_742-bkkpn31}
+  - {type: voice, offset: 2423, length: 10, name: note, id: n9}
   - {type: punctuation, offset: 2428, content: /, id: KR3k0012_krp_742-bkkpn32}
   - {type: punctuation, offset: 2433, content: ), id: KR3k0012_krp_742-bkkpn33}
   - {type: 'kr:newline', offset: 2433, content: '
@@ -1258,4 +1267,4 @@ markers:
       ', id: KR3k0012_krp_742-bkkkrnewl212}
   - {type: variant, offset: 3089, length: 0, content: '', WYG: 隂陽失位寒暑錯時是故生疫而愚民懸符厭之亦可笑也太平御覽卷七百四十二}
   back: []
-hash: sha256:4dc8fc6d327ef3b440116a47f509847dcae348c4a46d330e6eee8e7b1105f604
+hash: sha256:13a27616acfb0d090cab9f8d47fd841e39ea341093b22a4c3461caf09c21d7b2

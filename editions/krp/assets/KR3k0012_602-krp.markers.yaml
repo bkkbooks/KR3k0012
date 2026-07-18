@@ -851,6 +851,7 @@ markers:
   - {type: line-break, offset: 2446, content: '', id: KR3k0012_SBCK_602-5b09}
   - {type: punctuation, offset: 2461, content: (, id: KR3k0012_krp_602-bkkpn1}
   - {type: variant, offset: 2461, length: 5, content: 亦出思疾門, WYG: ''}
+  - {type: voice, offset: 2461, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 2464, content: /, id: KR3k0012_krp_602-bkkpn2}
   - {type: punctuation, offset: 2466, content: ), id: KR3k0012_krp_602-bkkpn3}
   - {type: 'kr:newline', offset: 2466, content: '
@@ -901,6 +902,7 @@ markers:
   - {type: line-break, offset: 2568, content: '', id: KR3k0012_SBCK_602-6a03}
   - {type: punctuation, offset: 2569, content: (, id: KR3k0012_krp_602-bkkpn4}
   - {type: variant, offset: 2569, length: 0, content: '', WYG: 云}
+  - {type: voice, offset: 2569, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 2572, content: /, id: KR3k0012_krp_602-bkkpn5}
   - {type: variant, offset: 2573, length: 1, content: 周, WYG: ''}
   - {type: punctuation, offset: 2574, content: ), id: KR3k0012_krp_602-bkkpn6}
@@ -1266,4 +1268,4 @@ markers:
 
       ', id: KR3k0012_krp_602-bkkkrnewl205}
   back: []
-hash: sha256:68920cf2b9795088abbb5fd2eb817966ff4b81876acc605bc4f1c960ad353edf
+hash: sha256:a46b4d55c2df68acbd614d729058b9acf907c770af55c383097781bf0fe0c3f5

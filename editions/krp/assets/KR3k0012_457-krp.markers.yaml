@@ -43,6 +43,7 @@ markers:
   - {type: page-break, offset: 50, content: '', id: KR3k0012_WYG_457-1b, image: WYG0897/WYG0897-0188b.png}
   - {type: punctuation, offset: 63, content: (, id: KR3k0012_krp_457-bkkpn1}
   - {type: variant, offset: 63, length: 3, content: 故不得, WYG: ''}
+  - {type: voice, offset: 63, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 67, content: /, id: KR3k0012_krp_457-bkkpn2}
   - {type: variant, offset: 67, length: 2, content: 諍父, WYG: 及}
   - {type: variant, offset: 70, length: 1, content: 力, WYG: ''}
@@ -136,6 +137,7 @@ markers:
   - {type: variant, offset: 374, length: 1, content: 虫, WYG: 蟲}
   - {type: punctuation, offset: 376, content: (, id: KR3k0012_krp_457-bkkpn4}
   - {type: variant, offset: 376, length: 1, content: 所, WYG: ''}
+  - {type: voice, offset: 376, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 378, content: /, id: KR3k0012_krp_457-bkkpn5}
   - {type: page-break, offset: 379, content: '', id: KR3k0012_WYG_457-2b, image: WYG0897/WYG0897-0189b.png}
   - {type: punctuation, offset: 380, content: ), id: KR3k0012_krp_457-bkkpn6}
@@ -213,6 +215,7 @@ markers:
   - {type: line-break, offset: 603, content: '', id: KR3k0012_SBCK_457-2a07}
   - {type: variant, offset: 608, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 616, content: (, id: KR3k0012_krp_457-bkkpn7}
+  - {type: voice, offset: 616, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 619, content: /, id: KR3k0012_krp_457-bkkpn8}
   - {type: punctuation, offset: 622, content: ), id: KR3k0012_krp_457-bkkpn9}
   - {type: 'kr:newline', offset: 622, content: '
@@ -379,6 +382,7 @@ markers:
       ', id: KR3k0012_krp_457-bkkkrnewl61}
   - {type: line-break, offset: 1148, content: '', id: KR3k0012_SBCK_457-3a06}
   - {type: punctuation, offset: 1157, content: (, id: KR3k0012_krp_457-bkkpn10}
+  - {type: voice, offset: 1157, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1158, content: /, id: KR3k0012_krp_457-bkkpn11}
   - {type: variant, offset: 1158, length: 1, content: 地, WYG: ''}
   - {type: punctuation, offset: 1159, content: ), id: KR3k0012_krp_457-bkkpn12}
@@ -1265,4 +1269,4 @@ markers:
 
       ', id: KR3k0012_krp_457-bkkkrnewl216}
   back: []
-hash: sha256:2a80aed469cffa88c5f6641a91fcf6c5e13b61ca91f1445accdefaf21aab36a8
+hash: sha256:47c47bc0330dbf47be98c949bee612b18eec069f826090fd876c347fd43d81f7

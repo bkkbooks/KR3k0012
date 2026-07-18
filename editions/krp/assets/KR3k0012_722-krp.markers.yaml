@@ -202,6 +202,7 @@ markers:
   - {type: variant, offset: 502, length: 1, content: 爲, WYG: 為}
   - {type: variant, offset: 509, length: 25, content: 微腠理皮膚之間也韓子曰扁鵲見晉桓侯曰君有病在腠理也, WYG: 㣲}
   - {type: punctuation, offset: 510, content: (, id: KR3k0012_krp_722-bkkpn1}
+  - {type: voice, offset: 510, length: 24, name: note, id: n1}
   - {type: punctuation, offset: 521, content: /, id: KR3k0012_krp_722-bkkpn2}
   - {type: punctuation, offset: 532, content: ), id: KR3k0012_krp_722-bkkpn3}
   - {type: 'kr:newline', offset: 532, content: '
@@ -234,6 +235,7 @@ markers:
       ', id: KR3k0012_krp_722-bkkkrnewl35}
   - {type: line-break, offset: 621, content: '', id: KR3k0012_SBCK_722-2a08}
   - {type: punctuation, offset: 629, content: (, id: KR3k0012_krp_722-bkkpn7}
+  - {type: voice, offset: 629, length: 14, name: note, id: n2}
   - {type: variant, offset: 632, length: 1, content: 深, SBCK: 􅀷}
   - {type: punctuation, offset: 636, content: /, id: KR3k0012_krp_722-bkkpn8}
   - {type: variant, offset: 637, length: 1, content: 曰, WYG: 日}
@@ -370,6 +372,7 @@ markers:
   - {type: variant, offset: 1014, length: 1, content: 門, WYG: ''}
   - {type: variant, offset: 1026, length: 5, content: 貰音賖長也, WYG: 貫}
   - {type: punctuation, offset: 1027, content: (, id: KR3k0012_krp_722-bkkpn10}
+  - {type: voice, offset: 1027, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1028, content: /, id: KR3k0012_krp_722-bkkpn11}
   - {type: punctuation, offset: 1029, content: ), id: KR3k0012_krp_722-bkkpn12}
   - {type: 'kr:newline', offset: 1036, content: '
@@ -823,6 +826,7 @@ markers:
   - {type: variant, offset: 2291, length: 0, content: '', WYG: 無}
   - {type: punctuation, offset: 2293, content: (, id: KR3k0012_krp_722-bkkpn13}
   - {type: variant, offset: 2293, length: 3, content: 祛舉切, WYG: 藥古語以}
+  - {type: voice, offset: 2293, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 2295, content: /, id: KR3k0012_krp_722-bkkpn14}
   - {type: punctuation, offset: 2296, content: ), id: KR3k0012_krp_722-bkkpn15}
   - {type: variant, offset: 2297, length: 1, content: 藥, WYG: 為去}
@@ -1454,4 +1458,4 @@ markers:
 
       ', id: KR3k0012_krp_722-bkkkrnewl223}
   back: []
-hash: sha256:a8e10bb991b4c05d8f0560e5fd19751ef37fba4325464b794ecd18a080c8736b
+hash: sha256:28adba2c9efee94aae62539ef0ba1ea34781e14253353befe61f9e3c76f257dc

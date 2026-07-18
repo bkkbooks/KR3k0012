@@ -466,6 +466,7 @@ markers:
   - {type: line-break, offset: 1336, content: '', id: KR3k0012_SBCK_586-3b02}
   - {type: variant, offset: 1338, length: 1, content: 恊, WYG: 協}
   - {type: punctuation, offset: 1339, content: (, id: KR3k0012_krp_586-bkkpn1}
+  - {type: voice, offset: 1339, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1341, content: /, id: KR3k0012_krp_586-bkkpn2}
   - {type: punctuation, offset: 1342, content: ), id: KR3k0012_krp_586-bkkpn3}
   - {type: variant, offset: 1352, length: 1, content: 静, WYG: 浄}
@@ -529,9 +530,11 @@ markers:
       ', id: KR3k0012_krp_586-bkkkrnewl81}
   - {type: line-break, offset: 1552, content: '', id: KR3k0012_SBCK_586-3b12}
   - {type: punctuation, offset: 1553, content: (, id: KR3k0012_krp_586-bkkpn4}
+  - {type: voice, offset: 1553, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 1560, content: /, id: KR3k0012_krp_586-bkkpn5}
   - {type: punctuation, offset: 1567, content: ), id: KR3k0012_krp_586-bkkpn6}
   - {type: punctuation, offset: 1570, content: (, id: KR3k0012_krp_586-bkkpn7}
+  - {type: voice, offset: 1570, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 1575, content: /, id: KR3k0012_krp_586-bkkpn8}
   - {type: punctuation, offset: 1579, content: ), id: KR3k0012_krp_586-bkkpn9}
   - {type: 'kr:newline', offset: 1585, content: '
@@ -700,6 +703,7 @@ markers:
       ', id: KR3k0012_krp_586-bkkkrnewl106}
   - {type: line-break, offset: 2001, content: '', id: KR3k0012_SBCK_586-4b09}
   - {type: punctuation, offset: 2001, content: (, id: KR3k0012_krp_586-bkkpn10}
+  - {type: voice, offset: 2001, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 2003, content: /, id: KR3k0012_krp_586-bkkpn11}
   - {type: punctuation, offset: 2004, content: ), id: KR3k0012_krp_586-bkkpn12}
   - {type: variant, offset: 2004, length: 1, content: 柱, WYG: 杜}
@@ -1234,4 +1238,4 @@ markers:
 
       ', id: KR3k0012_krp_586-bkkkrnewl189}
   back: []
-hash: sha256:02219fba6d58eb3bd8d001da2fac2ed6e1e94334149cb419496e6744d2666317
+hash: sha256:4ceb173e41bd851f067e2f35ed17244fde210b2f2f3e75e6d69426c5517127d4

@@ -38,6 +38,7 @@ markers:
   - {type: variant, offset: 45, length: 1, content: 獺, SBCK: 􅆩}
   - {type: variant, offset: 47, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 48, content: (, id: KR3k0012_krp_526-bkkpn1}
+  - {type: voice, offset: 48, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 51, content: /, id: KR3k0012_krp_526-bkkpn2}
   - {type: variant, offset: 51, length: 1, content: 今, WYG: ''}
   - {type: punctuation, offset: 54, content: ), id: KR3k0012_krp_526-bkkpn3}
@@ -79,6 +80,7 @@ markers:
   - {type: variant, offset: 131, length: 1, content: 黄, WYG: ''}
   - {type: variant, offset: 141, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 144, content: (, id: KR3k0012_krp_526-bkkpn7}
+  - {type: voice, offset: 144, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 145, content: /, id: KR3k0012_krp_526-bkkpn8}
   - {type: punctuation, offset: 146, content: ), id: KR3k0012_krp_526-bkkpn9}
   - {type: 'kr:newline', offset: 146, content: '
@@ -104,6 +106,7 @@ markers:
   - {type: line-break, offset: 192, content: '', id: KR3k0012_SBCK_526-1a12}
   - {type: variant, offset: 193, length: 1, content: 畤, WYG: 祠}
   - {type: punctuation, offset: 194, content: (, id: KR3k0012_krp_526-bkkpn13}
+  - {type: voice, offset: 194, length: 9, name: note, id: n3}
   - {type: variant, offset: 197, length: 1, content: 於, WYG: 雍}
   - {type: punctuation, offset: 199, content: /, id: KR3k0012_krp_526-bkkpn14}
   - {type: punctuation, offset: 203, content: ), id: KR3k0012_krp_526-bkkpn15}
@@ -140,6 +143,7 @@ markers:
   - {type: variant, offset: 306, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 312, content: (, id: KR3k0012_krp_526-bkkpn16}
   - {type: variant, offset: 312, length: 1, content: 蘇, SBCK: 􅂫}
+  - {type: voice, offset: 312, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 316, content: /, id: KR3k0012_krp_526-bkkpn17}
   - {type: variant, offset: 317, length: 0, content: '', WYG: 下之中故}
   - {type: punctuation, offset: 320, content: ), id: KR3k0012_krp_526-bkkpn18}
@@ -162,6 +166,7 @@ markers:
   - {type: variant, offset: 380, length: 1, content: 舎, WYG: 舍}
   - {type: punctuation, offset: 388, content: (, id: KR3k0012_krp_526-bkkpn19}
   - {type: variant, offset: 388, length: 3, content: 張晏曰, WYG: ''}
+  - {type: voice, offset: 388, length: 23, name: note, id: n5}
   - {type: punctuation, offset: 393, content: /, id: KR3k0012_krp_526-bkkpn20}
   - {type: punctuation, offset: 398, content: ), id: KR3k0012_krp_526-bkkpn21}
   - {type: 'kr:newline', offset: 398, content: '
@@ -185,6 +190,7 @@ markers:
       ', id: KR3k0012_krp_526-bkkkrnewl22}
   - {type: line-break, offset: 426, content: '', id: KR3k0012_SBCK_526-1b09}
   - {type: punctuation, offset: 433, content: (, id: KR3k0012_krp_526-bkkpn25}
+  - {type: voice, offset: 433, length: 17, name: note, id: n6}
   - {type: punctuation, offset: 442, content: /, id: KR3k0012_krp_526-bkkpn26}
   - {type: variant, offset: 445, length: 1, content: 複, SBCK: 􅃨}
   - {type: variant, offset: 445, length: 1, content: 複, WYG: 復}
@@ -236,6 +242,7 @@ markers:
   - {type: line-break, offset: 566, content: '', id: KR3k0012_SBCK_526-2a02}
   - {type: variant, offset: 566, length: 13, content: 壇孟康曰直植也值其立処以位, WYG: ''}
   - {type: punctuation, offset: 567, content: (, id: KR3k0012_krp_526-bkkpn28}
+  - {type: voice, offset: 567, length: 13, name: note, id: n7}
   - {type: punctuation, offset: 574, content: /, id: KR3k0012_krp_526-bkkpn29}
   - {type: punctuation, offset: 580, content: ), id: KR3k0012_krp_526-bkkpn30}
   - {type: 'kr:newline', offset: 584, content: '
@@ -1460,4 +1467,4 @@ markers:
 
       ', id: KR3k0012_krp_526-bkkkrnewl218}
   back: []
-hash: sha256:4a0c1a2a94489ba30a1c070d2d971da2a29e36014e7ac40fc576f0557dcf2773
+hash: sha256:5c7ea121c636501432341c9cc5d8383ce4e7da6e5ad435186431e47643b80d39

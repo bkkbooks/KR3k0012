@@ -90,6 +90,7 @@ markers:
   - {type: line-break, offset: 159, content: '', id: KR3k0012_SBCK_194-1b01}
   - {type: page-break, offset: 159, content: '', id: KR3k0012_WYG_194-2a, image: WYG0894/WYG0894-0707c.png}
   - {type: punctuation, offset: 161, content: (, id: KR3k0012_krp_194-bkkpn1}
+  - {type: voice, offset: 161, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 162, content: /, id: KR3k0012_krp_194-bkkpn2}
   - {type: punctuation, offset: 163, content: ), id: KR3k0012_krp_194-bkkpn3}
   - {type: 'kr:newline', offset: 163, content: '
@@ -304,6 +305,7 @@ markers:
       ', id: KR3k0012_krp_194-bkkkrnewl53}
   - {type: line-break, offset: 766, content: '', id: KR3k0012_SBCK_194-2b12}
   - {type: punctuation, offset: 767, content: (, id: KR3k0012_krp_194-bkkpn4}
+  - {type: voice, offset: 767, length: 4, name: note, id: n2}
   - {type: variant, offset: 768, length: 1, content: 觀, SBCK: 􅀚}
   - {type: punctuation, offset: 769, content: /, id: KR3k0012_krp_194-bkkpn5}
   - {type: variant, offset: 769, length: 2, content: 卑庳, WYG: ''}
@@ -731,6 +733,7 @@ markers:
   - {type: line-break, offset: 2003, content: '', id: KR3k0012_SBCK_194-5b05}
   - {type: variant, offset: 2004, length: 1, content: 婕, WYG: 􅀈}
   - {type: punctuation, offset: 2016, content: (, id: KR3k0012_krp_194-bkkpn7}
+  - {type: voice, offset: 2016, length: 13, name: note, id: n3}
   - {type: punctuation, offset: 2023, content: /, id: KR3k0012_krp_194-bkkpn8}
   - {type: punctuation, offset: 2029, content: ), id: KR3k0012_krp_194-bkkpn9}
   - {type: variant, offset: 2029, length: 1, content: 仍, WYG: 乃褓}
@@ -754,6 +757,7 @@ markers:
       ', id: KR3k0012_krp_194-bkkkrnewl133}
   - {type: line-break, offset: 2073, content: '', id: KR3k0012_SBCK_194-5b08}
   - {type: punctuation, offset: 2080, content: (, id: KR3k0012_krp_194-bkkpn10}
+  - {type: voice, offset: 2080, length: 9, name: note, id: n4}
   - {type: variant, offset: 2084, length: 2, content: 此二, WYG: ''}
   - {type: punctuation, offset: 2085, content: /, id: KR3k0012_krp_194-bkkpn11}
   - {type: variant, offset: 2087, length: 0, content: '', WYG: 係}
@@ -901,6 +905,7 @@ markers:
   - {type: line-break, offset: 2409, content: '', id: KR3k0012_SBCK_194-6b06}
   - {type: variant, offset: 2417, length: 1, content: 郷, WYG: 鄉}
   - {type: punctuation, offset: 2423, content: (, id: KR3k0012_krp_194-bkkpn13}
+  - {type: voice, offset: 2423, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 2427, content: /, id: KR3k0012_krp_194-bkkpn14}
   - {type: variant, offset: 2427, length: 1, content: 郷, WYG: 鄉}
   - {type: punctuation, offset: 2431, content: ), id: KR3k0012_krp_194-bkkpn15}
@@ -916,6 +921,7 @@ markers:
   - {type: variant, offset: 2449, length: 1, content: 騎, SBCK: 􅀐}
   - {type: punctuation, offset: 2453, content: (, id: KR3k0012_krp_194-bkkpn16}
   - {type: variant, offset: 2453, length: 3, content: 亭覇陵, WYG: ''}
+  - {type: voice, offset: 2453, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 2456, content: /, id: KR3k0012_krp_194-bkkpn17}
   - {type: variant, offset: 2457, length: 1, content: 酢, WYG: 醉}
   - {type: punctuation, offset: 2459, content: ), id: KR3k0012_krp_194-bkkpn18}
@@ -1012,6 +1018,7 @@ markers:
   - {type: variant, offset: 2707, length: 1, content: 宿, SBCK: 􅀫}
   - {type: variant, offset: 2711, length: 1, content: 姧, WYG: 奸}
   - {type: punctuation, offset: 2717, content: (, id: KR3k0012_krp_194-bkkpn19}
+  - {type: voice, offset: 2717, length: 7, name: note, id: n7}
   - {type: punctuation, offset: 2721, content: /, id: KR3k0012_krp_194-bkkpn20}
   - {type: punctuation, offset: 2724, content: ), id: KR3k0012_krp_194-bkkpn21}
   - {type: 'kr:newline', offset: 2724, content: '
@@ -1533,4 +1540,4 @@ markers:
   - {type: variant, offset: 4156, length: 0, content: '', WYG: 猨嶺口馬之登降於此止息故名之太平御覽卷一百九十四}
   - {type: page-break, offset: 4156, content: '', id: KR3k0012_WYG_194-17b, image: WYG0894/WYG0894-0715b.png}
   back: []
-hash: sha256:0c6d630c36646a19f6381f1df3fff011be33dedf552428007bc9c7b634e89223
+hash: sha256:77ea7ada76efc8fbc87c0b194e52a841d6f92eecc61d9ff577dd785bddcd2b3a

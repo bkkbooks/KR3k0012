@@ -25,6 +25,7 @@ markers:
   - {type: indent, offset: 5, content: 　, id: KR3k0012_krp_851-bkkind3}
   - {type: punctuation, offset: 6, content: (, id: KR3k0012_krp_851-bkkpn1}
   - {type: variant, offset: 6, length: 4, content: 讀與餅同, WYG: ''}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR3k0012_krp_851-bkkpn2}
   - {type: punctuation, offset: 10, content: ), id: KR3k0012_krp_851-bkkpn3}
   - {type: 'kr:newline', offset: 11, content: '
@@ -91,6 +92,7 @@ markers:
   - {type: variant, offset: 140, length: 1, content: 填, WYG: 盈}
   - {type: variant, offset: 156, length: 5, content: 摙還齊摙音, WYG: 連環}
   - {type: punctuation, offset: 159, content: (, id: KR3k0012_krp_851-bkkpn4}
+  - {type: voice, offset: 159, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 161, content: ), id: KR3k0012_krp_851-bkkpn5}
   - {type: 'kr:newline', offset: 162, content: '
 
@@ -170,6 +172,7 @@ markers:
   - {type: line-break, offset: 352, content: '', id: KR3k0012_SBCK_851-1b11}
   - {type: punctuation, offset: 353, content: (, id: KR3k0012_krp_851-bkkpn6}
   - {type: variant, offset: 353, length: 10, content: 異苑云糭屈原婦所作也, WYG: ''}
+  - {type: voice, offset: 353, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 358, content: /, id: KR3k0012_krp_851-bkkpn7}
   - {type: punctuation, offset: 363, content: ), id: KR3k0012_krp_851-bkkpn8}
   - {type: 'kr:newline', offset: 363, content: '
@@ -299,4 +302,4 @@ markers:
 
       ', id: KR3k0012_krp_851-bkkkrnewl47}
   back: []
-hash: sha256:a45c3e72a65ae3e43bc72baee02f900ba447ebb5ac3316e8fccaa927afab061a
+hash: sha256:4cf16794980dca7f75eaf68f28f83d7c5b7a1df886c1510b31d70faefe7aa840

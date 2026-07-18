@@ -466,6 +466,7 @@ markers:
       ', id: KR3k0012_krp_210-bkkkrnewl74}
   - {type: line-break, offset: 1150, content: '', id: KR3k0012_SBCK_210-3b05}
   - {type: punctuation, offset: 1154, content: (, id: KR3k0012_krp_210-bkkpn1}
+  - {type: voice, offset: 1154, length: 11, name: note, id: n1}
   - {type: variant, offset: 1155, length: 11, content: 尚書稱臺魏晉巳來爲省漢, WYG: ''}
   - {type: punctuation, offset: 1160, content: /, id: KR3k0012_krp_210-bkkpn2}
   - {type: punctuation, offset: 1165, content: ), id: KR3k0012_krp_210-bkkpn3}
@@ -479,6 +480,7 @@ markers:
   - {type: variant, offset: 1173, length: 3, content: 孑焉正, WYG: 騁}
   - {type: 'kr:non-cjk', offset: 1174, content: '*', id: KR3k0012_krp_210-bkkkrnonc2}
   - {type: punctuation, offset: 1174, content: (, id: KR3k0012_krp_210-bkkpn4}
+  - {type: voice, offset: 1174, length: 2, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 1175, content: '-', id: KR3k0012_krp_210-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 1176, content: '+?', id: KR3k0012_krp_210-bkkkrnonc4}
   - {type: punctuation, offset: 1176, content: ), id: KR3k0012_krp_210-bkkpn5}
@@ -1229,6 +1231,7 @@ markers:
       ', id: KR3k0012_krp_210-bkkkrnewl200}
   - {type: line-break, offset: 3345, content: '', id: KR3k0012_SBCK_210-8a05}
   - {type: punctuation, offset: 3364, content: (, id: KR3k0012_krp_210-bkkpn6}
+  - {type: voice, offset: 3364, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 3367, content: /, id: KR3k0012_krp_210-bkkpn7}
   - {type: variant, offset: 3367, length: 0, content: '', WYG: 其毛}
   - {type: variant, offset: 3368, length: 1, content: 爲, WYG: 為}
@@ -1284,4 +1287,4 @@ markers:
 
       ', id: KR3k0012_krp_210-bkkkrnewl210}
   back: []
-hash: sha256:1ed4e115cab5de2fe94a347875d1c31d751407a2bf5fe1210d89e9bb262b70cb
+hash: sha256:d0d390481c6b8470fd2b35fc39580d5df5fafa2da34ac89c3d813c853ae47618

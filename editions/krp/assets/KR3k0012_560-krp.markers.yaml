@@ -245,6 +245,7 @@ markers:
   - {type: line-break, offset: 633, content: '', id: KR3k0012_SBCK_560-2a10}
   - {type: punctuation, offset: 640, content: (, id: KR3k0012_krp_560-bkkpn1}
   - {type: variant, offset: 640, length: 10, content: 耻登王莾之朝不食而死, WYG: ''}
+  - {type: voice, offset: 640, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 645, content: /, id: KR3k0012_krp_560-bkkpn2}
   - {type: punctuation, offset: 650, content: ), id: KR3k0012_krp_560-bkkpn3}
   - {type: 'kr:newline', offset: 650, content: '
@@ -553,6 +554,7 @@ markers:
       ', id: KR3k0012_krp_560-bkkkrnewl90}
   - {type: line-break, offset: 1572, content: '', id: KR3k0012_SBCK_560-4a07}
   - {type: punctuation, offset: 1577, content: (, id: KR3k0012_krp_560-bkkpn4}
+  - {type: voice, offset: 1577, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1578, content: /, id: KR3k0012_krp_560-bkkpn5}
   - {type: punctuation, offset: 1579, content: ), id: KR3k0012_krp_560-bkkpn6}
   - {type: 'kr:newline', offset: 1586, content: '
@@ -659,6 +661,7 @@ markers:
   - {type: variant, offset: 1871, length: 1, content: 王, WYG: 君}
   - {type: variant, offset: 1877, length: 1, content: 鯛, WYG: 鮦}
   - {type: punctuation, offset: 1878, content: (, id: KR3k0012_krp_560-bkkpn7}
+  - {type: voice, offset: 1878, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1879, content: /, id: KR3k0012_krp_560-bkkpn8}
   - {type: punctuation, offset: 1880, content: ), id: KR3k0012_krp_560-bkkpn9}
   - {type: variant, offset: 1882, length: 1, content: 葛, SBCK: 􅁑}
@@ -1070,4 +1073,4 @@ markers:
 
       ', id: KR3k0012_krp_560-bkkkrnewl180}
   back: []
-hash: sha256:b8dd7b0b3913ce79a382a74867e7227fbd6c0880cd8c1e945bf1a96aaed50608
+hash: sha256:88ca33024c3cd1040b43b0644b745dc5494a0db54fd03ec45c164a6cd0f41bc6

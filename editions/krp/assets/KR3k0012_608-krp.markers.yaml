@@ -325,6 +325,7 @@ markers:
   - {type: variant, offset: 954, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 969, content: (, id: KR3k0012_krp_608-bkkpn1}
   - {type: variant, offset: 969, length: 3, content: 九丘者, WYG: ''}
+  - {type: voice, offset: 969, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 972, content: /, id: KR3k0012_krp_608-bkkpn2}
   - {type: page-break, offset: 973, content: '', id: KR3k0012_WYG_608-4b, image: WYG0898/WYG0898-0510b.png}
   - {type: punctuation, offset: 975, content: ), id: KR3k0012_krp_608-bkkpn3}
@@ -388,6 +389,7 @@ markers:
   - {type: line-break, offset: 1170, content: '', id: KR3k0012_SBCK_608-3a12}
   - {type: variant, offset: 1176, length: 1, content: 導, WYG: 道}
   - {type: punctuation, offset: 1178, content: (, id: KR3k0012_krp_608-bkkpn4}
+  - {type: voice, offset: 1178, length: 15, name: note, id: n2}
   - {type: variant, offset: 1179, length: 1, content: 導, WYG: 道}
   - {type: punctuation, offset: 1186, content: /, id: KR3k0012_krp_608-bkkpn5}
   - {type: punctuation, offset: 1193, content: ), id: KR3k0012_krp_608-bkkpn6}
@@ -425,6 +427,7 @@ markers:
       ', id: KR3k0012_krp_608-bkkkrnewl74}
   - {type: line-break, offset: 1273, content: '', id: KR3k0012_SBCK_608-3b05}
   - {type: punctuation, offset: 1284, content: (, id: KR3k0012_krp_608-bkkpn7}
+  - {type: voice, offset: 1284, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 1287, content: /, id: KR3k0012_krp_608-bkkpn8}
   - {type: variant, offset: 1288, length: 1, content: 皃, WYG: 貌}
   - {type: punctuation, offset: 1289, content: ), id: KR3k0012_krp_608-bkkpn9}
@@ -442,6 +445,7 @@ markers:
   - {type: line-break, offset: 1303, content: '', id: KR3k0012_SBCK_608-3b07}
   - {type: punctuation, offset: 1321, content: (, id: KR3k0012_krp_608-bkkpn10}
   - {type: variant, offset: 1321, length: 28, content: 王者諸聖王者也太平道衰王迹止息頌聲不作曰詩亡春秋撥亂作衰, WYG: ''}
+  - {type: voice, offset: 1321, length: 28, name: note, id: n4}
   - {type: punctuation, offset: 1326, content: /, id: KR3k0012_krp_608-bkkpn11}
   - {type: punctuation, offset: 1327, content: /, id: KR3k0012_krp_608-bkkpn12}
   - {type: punctuation, offset: 1330, content: ), id: KR3k0012_krp_608-bkkpn13}
@@ -886,4 +890,4 @@ markers:
 
       ', id: KR3k0012_krp_608-bkkkrnewl152}
   back: []
-hash: sha256:d6c6620caaafaf11a9a6cd879fd34abec109c594797798f87c29764d1ab644e3
+hash: sha256:d9a468d0ae10e51ccc09f1e542a4660fbf6796f26f277c73df0213aab80395ac

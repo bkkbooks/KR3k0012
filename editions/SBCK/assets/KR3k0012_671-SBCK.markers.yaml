@@ -70,6 +70,7 @@ markers:
       ', id: KR3k0012_SBCK_671-bkkkrnewl15}
   - {type: line-break, offset: 250, content: '', id: KR3k0012_SBCK_671-1b02}
   - {type: punctuation, offset: 252, content: (, id: KR3k0012_SBCK_671-bkkpn1}
+  - {type: voice, offset: 252, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 254, content: /, id: KR3k0012_SBCK_671-bkkpn2}
   - {type: punctuation, offset: 256, content: ), id: KR3k0012_SBCK_671-bkkpn3}
   - {type: 'kr:newline', offset: 274, content: '
@@ -306,9 +307,11 @@ markers:
       ', id: KR3k0012_SBCK_671-bkkkrnewl73}
   - {type: line-break, offset: 1410, content: '', id: KR3k0012_SBCK_671-3b04}
   - {type: punctuation, offset: 1417, content: (, id: KR3k0012_SBCK_671-bkkpn4}
+  - {type: voice, offset: 1417, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 1426, content: /, id: KR3k0012_SBCK_671-bkkpn5}
   - {type: punctuation, offset: 1435, content: ), id: KR3k0012_SBCK_671-bkkpn6}
   - {type: punctuation, offset: 1439, content: (, id: KR3k0012_SBCK_671-bkkpn7}
+  - {type: voice, offset: 1439, length: 34, name: note, id: n3}
   - {type: punctuation, offset: 1441, content: /, id: KR3k0012_SBCK_671-bkkpn8}
   - {type: punctuation, offset: 1443, content: ), id: KR3k0012_SBCK_671-bkkpn9}
   - {type: 'kr:newline', offset: 1443, content: '
@@ -567,6 +570,7 @@ markers:
       ', id: KR3k0012_SBCK_671-bkkkrnewl136}
   - {type: line-break, offset: 2580, content: '', id: KR3k0012_SBCK_671-5b11}
   - {type: punctuation, offset: 2596, content: (, id: KR3k0012_SBCK_671-bkkpn13}
+  - {type: voice, offset: 2596, length: 32, name: note, id: n4}
   - {type: punctuation, offset: 2602, content: /, id: KR3k0012_SBCK_671-bkkpn14}
   - {type: punctuation, offset: 2608, content: ), id: KR3k0012_SBCK_671-bkkpn15}
   - {type: 'kr:newline', offset: 2608, content: '
@@ -805,4 +809,4 @@ markers:
 
       ', id: KR3k0012_SBCK_671-bkkkrnewl194}
   back: []
-hash: sha256:20f4a531df32062f69650045e58ca0f7d22d809d93fab6efd71f573488f9ad08
+hash: sha256:f634eb49d8b08969d4db3770e3087623a6cefb3a26878e22d6d89b3bf232743a

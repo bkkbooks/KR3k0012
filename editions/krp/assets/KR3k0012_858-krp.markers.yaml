@@ -23,6 +23,7 @@ markers:
   - {type: indent, offset: 5, content: 　　　　　, id: KR3k0012_krp_858-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR3k0012_krp_858-bkkpn1}
   - {type: variant, offset: 10, length: 3, content: 䬫音低, WYG: ''}
+  - {type: voice, offset: 10, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 12, content: /, id: KR3k0012_krp_858-bkkpn2}
   - {type: punctuation, offset: 13, content: ), id: KR3k0012_krp_858-bkkpn3}
   - {type: 'kr:newline', offset: 13, content: '
@@ -41,6 +42,7 @@ markers:
   - {type: variant, offset: 45, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 45, length: 1, content: 𥘉, WYG: 初}
   - {type: punctuation, offset: 55, content: (, id: KR3k0012_krp_858-bkkpn4}
+  - {type: voice, offset: 55, length: 70, name: note, id: n2}
   - {type: punctuation, offset: 61, content: /, id: KR3k0012_krp_858-bkkpn5}
   - {type: variant, offset: 63, length: 1, content: 汁, WYG: 甘}
   - {type: variant, offset: 65, length: 1, content: 治, WYG: 液}
@@ -72,6 +74,7 @@ markers:
   - {type: variant, offset: 132, length: 1, content: 省, WYG: 有}
   - {type: variant, offset: 139, length: 1, content: 給, WYG: 絡}
   - {type: punctuation, offset: 145, content: (, id: KR3k0012_krp_858-bkkpn13}
+  - {type: voice, offset: 145, length: 13, name: note, id: n3}
   - {type: punctuation, offset: 147, content: /, id: KR3k0012_krp_858-bkkpn14}
   - {type: variant, offset: 147, length: 1, content: 日, WYG: 曰}
   - {type: punctuation, offset: 149, content: ), id: KR3k0012_krp_858-bkkpn15}
@@ -99,6 +102,7 @@ markers:
   - {type: variant, offset: 190, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 193, content: (, id: KR3k0012_krp_858-bkkpn19}
   - {type: variant, offset: 193, length: 1, content: 受, WYG: 注}
+  - {type: voice, offset: 193, length: 14, name: note, id: n4}
   - {type: variant, offset: 194, length: 1, content: 日, WYG: 曰}
   - {type: punctuation, offset: 196, content: /, id: KR3k0012_krp_858-bkkpn20}
   - {type: variant, offset: 197, length: 1, content: 爲, WYG: 為}
@@ -353,4 +357,4 @@ markers:
 
       ', id: KR3k0012_krp_858-bkkkrnewl53}
   back: []
-hash: sha256:06a389f7d47c2ec8f824d7a303b80cf621c263716291c4430c5ceeb1e710629c
+hash: sha256:ff9d56b25a17aa24cc15f566d9a5c2879e9f290bf6385a87af3f982cc403829c

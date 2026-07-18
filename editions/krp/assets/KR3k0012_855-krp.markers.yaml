@@ -53,6 +53,7 @@ markers:
   - {type: variant, offset: 39, length: 1, content: 麫, WYG: 麴}
   - {type: variant, offset: 41, length: 1, content: 䜴, WYG: 豉}
   - {type: punctuation, offset: 44, content: (, id: KR3k0012_krp_855-bkkpn1}
+  - {type: voice, offset: 44, length: 8, name: note, id: n1}
   - {type: variant, offset: 46, length: 1, content: 日, WYG: 曰}
   - {type: punctuation, offset: 48, content: /, id: KR3k0012_krp_855-bkkpn2}
   - {type: punctuation, offset: 52, content: ), id: KR3k0012_krp_855-bkkpn3}
@@ -173,10 +174,12 @@ markers:
   - {type: line-break, offset: 295, content: '', id: KR3k0012_SBCK_855-1b10}
   - {type: variant, offset: 303, length: 5, content: 醎大苦謂䜴, WYG: 鹹}
   - {type: punctuation, offset: 304, content: (, id: KR3k0012_krp_855-bkkpn4}
+  - {type: voice, offset: 304, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 306, content: /, id: KR3k0012_krp_855-bkkpn5}
   - {type: punctuation, offset: 308, content: ), id: KR3k0012_krp_855-bkkpn6}
   - {type: variant, offset: 310, length: 18, content: 行言取䜴調和以椒薑鹹酢酪則辛甘之味皆, WYG: ''}
   - {type: punctuation, offset: 311, content: (, id: KR3k0012_krp_855-bkkpn7}
+  - {type: voice, offset: 311, length: 20, name: note, id: n3}
   - {type: punctuation, offset: 319, content: /, id: KR3k0012_krp_855-bkkpn8}
   - {type: punctuation, offset: 327, content: ), id: KR3k0012_krp_855-bkkpn9}
   - {type: 'kr:newline', offset: 327, content: '
@@ -207,6 +210,7 @@ markers:
   - {type: line-break, offset: 340, content: '', id: KR3k0012_SBCK_855-2a01}
   - {type: variant, offset: 348, length: 11, content: 齊昌本脾折蜃豚拍深蒲也, WYG: 虀}
   - {type: punctuation, offset: 349, content: (, id: KR3k0012_krp_855-bkkpn13}
+  - {type: voice, offset: 349, length: 10, name: note, id: n4}
   - {type: punctuation, offset: 354, content: /, id: KR3k0012_krp_855-bkkpn14}
   - {type: variant, offset: 356, length: 1, content: 深, SBCK: 􅀷}
   - {type: punctuation, offset: 359, content: ), id: KR3k0012_krp_855-bkkpn15}
@@ -289,6 +293,7 @@ markers:
   - {type: line-break, offset: 518, content: '', id: KR3k0012_SBCK_855-2a13}
   - {type: page-break, offset: 518, content: '', id: KR3k0012_WYG_855-3b, image: WYG0900/WYG0900-0511d.png}
   - {type: punctuation, offset: 527, content: (, id: KR3k0012_krp_855-bkkpn16}
+  - {type: voice, offset: 527, length: 67, name: note, id: n5}
   - {type: variant, offset: 528, length: 41, content: 菜也言呉人善爲致美其菜若蔞味無沾薄言有調也又曰蒿也蔞不沾薄繁草也蔞香沾多汗也薄無味, WYG: 萊}
   - {type: variant, offset: 539, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 540, content: /, id: KR3k0012_krp_855-bkkpn17}
@@ -347,6 +352,7 @@ markers:
   - {type: variant, offset: 684, length: 1, content: 旣, WYG: 既}
   - {type: punctuation, offset: 692, content: (, id: KR3k0012_krp_855-bkkpn22}
   - {type: variant, offset: 692, length: 15, content: 聖韲如有菘云是牛膓胃中巳化草旣, WYG: 既}
+  - {type: voice, offset: 692, length: 14, name: note, id: n6}
   - {type: punctuation, offset: 699, content: /, id: KR3k0012_krp_855-bkkpn23}
   - {type: punctuation, offset: 706, content: ), id: KR3k0012_krp_855-bkkpn24}
   - {type: variant, offset: 710, length: 1, content: 塩, WYG: 鹽}
@@ -371,4 +377,4 @@ markers:
 
       ', id: KR3k0012_krp_855-bkkkrnewl52}
   back: []
-hash: sha256:cdebf68c8e426832d0d91a21727747c45f61d1f8619a1b3ade6669c36ce8ce5a
+hash: sha256:15a9cfc7c4f955485924c7a1b2f0b39c406add0db4d836fdaf272eeaa451f6c1

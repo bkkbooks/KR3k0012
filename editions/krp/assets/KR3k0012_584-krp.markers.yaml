@@ -88,6 +88,7 @@ markers:
   - {type: line-break, offset: 102, content: '', id: KR3k0012_SBCK_584-1a12}
   - {type: variant, offset: 107, length: 1, content: 夲, WYG: 本}
   - {type: punctuation, offset: 118, content: (, id: KR3k0012_krp_584-bkkpn1}
+  - {type: voice, offset: 118, length: 24, name: note, id: n1}
   - {type: variant, offset: 122, length: 1, content: 得, WYG: 相}
   - {type: punctuation, offset: 124, content: /, id: KR3k0012_krp_584-bkkpn2}
   - {type: punctuation, offset: 130, content: ), id: KR3k0012_krp_584-bkkpn3}
@@ -492,6 +493,7 @@ markers:
   - {type: line-break, offset: 1109, content: '', id: KR3k0012_SBCK_584-3b05}
   - {type: punctuation, offset: 1122, content: (, id: KR3k0012_krp_584-bkkpn7}
   - {type: variant, offset: 1122, length: 17, content: 缶者瓦器所以盛酒漿秦人皷之以節歌也, WYG: ''}
+  - {type: voice, offset: 1122, length: 17, name: note, id: n2}
   - {type: punctuation, offset: 1131, content: /, id: KR3k0012_krp_584-bkkpn8}
   - {type: variant, offset: 1131, length: 1, content: 秦, SBCK: 􅁗}
   - {type: punctuation, offset: 1139, content: ), id: KR3k0012_krp_584-bkkpn9}
@@ -798,6 +800,7 @@ markers:
   - {type: line-break, offset: 1937, content: '', id: KR3k0012_SBCK_584-5b02}
   - {type: page-break, offset: 1937, content: '', id: KR3k0012_WYG_584-8b, image: WYG0898/WYG0898-0345b.png}
   - {type: punctuation, offset: 1944, content: (, id: KR3k0012_krp_584-bkkpn10}
+  - {type: voice, offset: 1944, length: 15, name: note, id: n3}
   - {type: variant, offset: 1949, length: 1, content: 者, WYG: 有}
   - {type: punctuation, offset: 1952, content: /, id: KR3k0012_krp_584-bkkpn11}
   - {type: punctuation, offset: 1959, content: ), id: KR3k0012_krp_584-bkkpn12}
@@ -981,6 +984,7 @@ markers:
   - {type: line-break, offset: 2421, content: '', id: KR3k0012_SBCK_584-6b06}
   - {type: variant, offset: 2425, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 2435, content: (, id: KR3k0012_krp_584-bkkpn13}
+  - {type: voice, offset: 2435, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2436, content: /, id: KR3k0012_krp_584-bkkpn14}
   - {type: punctuation, offset: 2437, content: ), id: KR3k0012_krp_584-bkkpn15}
   - {type: 'kr:newline', offset: 2444, content: '
@@ -1109,4 +1113,4 @@ markers:
 
       ', id: KR3k0012_krp_584-bkkkrnewl179}
   back: []
-hash: sha256:f9da8a06c3cd9ebcb6f77fe9622fac77987b7c790d9426dcd12f81a93e0ae00f
+hash: sha256:cf59d9130205c786a239fd7253ef95031b10d2e21e35ad0159a3953a6f2f9834

@@ -143,6 +143,7 @@ markers:
   - {type: variant, offset: 372, length: 1, content: 渉, WYG: 涉}
   - {type: punctuation, offset: 377, content: (, id: KR3k0012_krp_895-bkkpn1}
   - {type: variant, offset: 377, length: 1, content: 於, WYG: ''}
+  - {type: voice, offset: 377, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 378, content: /, id: KR3k0012_krp_895-bkkpn2}
   - {type: punctuation, offset: 379, content: ), id: KR3k0012_krp_895-bkkpn3}
   - {type: variant, offset: 391, length: 1, content: 甞, WYG: 嘗}
@@ -478,6 +479,7 @@ markers:
   - {type: variant, offset: 1357, length: 1, content: 歩, WYG: 步}
   - {type: punctuation, offset: 1360, content: (, id: KR3k0012_krp_895-bkkpn4}
   - {type: variant, offset: 1360, length: 3, content: 徒合切, WYG: ''}
+  - {type: voice, offset: 1360, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 1362, content: /, id: KR3k0012_krp_895-bkkpn5}
   - {type: punctuation, offset: 1363, content: ), id: KR3k0012_krp_895-bkkpn6}
   - {type: 'kr:newline', offset: 1373, content: '
@@ -541,6 +543,7 @@ markers:
   - {type: line-break, offset: 1515, content: '', id: KR3k0012_SBCK_895-4a01}
   - {type: variant, offset: 1517, length: 1, content: 乗, WYG: 乘}
   - {type: punctuation, offset: 1529, content: (, id: KR3k0012_krp_895-bkkpn7}
+  - {type: voice, offset: 1529, length: 4, name: note, id: n3}
   - {type: variant, offset: 1530, length: 1, content: 又, WYG: ''}
   - {type: punctuation, offset: 1531, content: /, id: KR3k0012_krp_895-bkkpn8}
   - {type: punctuation, offset: 1533, content: ), id: KR3k0012_krp_895-bkkpn9}
@@ -781,6 +784,7 @@ markers:
       ', id: KR3k0012_krp_895-bkkkrnewl127}
   - {type: line-break, offset: 2299, content: '', id: KR3k0012_SBCK_895-5b02}
   - {type: punctuation, offset: 2304, content: (, id: KR3k0012_krp_895-bkkpn10}
+  - {type: voice, offset: 2304, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2305, content: /, id: KR3k0012_krp_895-bkkpn11}
   - {type: punctuation, offset: 2306, content: ), id: KR3k0012_krp_895-bkkpn12}
   - {type: 'kr:newline', offset: 2322, content: '
@@ -1044,4 +1048,4 @@ markers:
 
       ', id: KR3k0012_krp_895-bkkkrnewl172}
   back: []
-hash: sha256:eacaf72d0d7cbb801cf6fe7f71e19bb9e46d05329dc6b61cdd43ddf3ab3069aa
+hash: sha256:b37d98f63f9499bca9b3a5f9b8d17eedfde5d39411642f20e2d64c78d843861f

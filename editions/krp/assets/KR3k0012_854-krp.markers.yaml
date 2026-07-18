@@ -168,6 +168,7 @@ markers:
   - {type: variant, offset: 335, length: 1, content: 蟲, SBCK: 􅆉}
   - {type: variant, offset: 335, length: 3, content: 蟲米皮, WYG: 蠱}
   - {type: punctuation, offset: 336, content: (, id: KR3k0012_krp_854-bkkpn1}
+  - {type: voice, offset: 336, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 337, content: /, id: KR3k0012_krp_854-bkkpn2}
   - {type: punctuation, offset: 338, content: ), id: KR3k0012_krp_854-bkkpn3}
   - {type: 'kr:newline', offset: 338, content: '
@@ -184,6 +185,7 @@ markers:
   - {type: line-break, offset: 345, content: '', id: KR3k0012_SBCK_854-2a01}
   - {type: punctuation, offset: 353, content: (, id: KR3k0012_krp_854-bkkpn4}
   - {type: variant, offset: 353, length: 3, content: 牟皮切, WYG: ''}
+  - {type: voice, offset: 353, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 355, content: /, id: KR3k0012_krp_854-bkkpn5}
   - {type: punctuation, offset: 356, content: ), id: KR3k0012_krp_854-bkkpn6}
   - {type: 'kr:newline', offset: 356, content: '
@@ -306,4 +308,4 @@ markers:
 
       ', id: KR3k0012_krp_854-bkkkrnewl48}
   back: []
-hash: sha256:981e9ad258247839dbe1dec1e50e768f77ef5752fddaf90db11c345552b6e6f8
+hash: sha256:140a8665f2fd665a63e1cdd49ad6fbcb598f0cdf7ba5311c7b18c4abb3e78c18

@@ -82,6 +82,7 @@ markers:
   - {type: line-break, offset: 207, content: '', id: KR3k0012_SBCK_482-1a13}
   - {type: punctuation, offset: 212, content: (, id: KR3k0012_krp_482-bkkpn1}
   - {type: variant, offset: 212, length: 1, content: 巳, WYG: ''}
+  - {type: voice, offset: 212, length: 5, name: note, id: n1}
   - {type: variant, offset: 214, length: 0, content: '', WYG: 已}
   - {type: punctuation, offset: 215, content: /, id: KR3k0012_krp_482-bkkpn2}
   - {type: punctuation, offset: 217, content: ), id: KR3k0012_krp_482-bkkpn3}
@@ -188,6 +189,7 @@ markers:
   - {type: line-break, offset: 574, content: '', id: KR3k0012_SBCK_482-2a05}
   - {type: punctuation, offset: 586, content: (, id: KR3k0012_krp_482-bkkpn4}
   - {type: variant, offset: 586, length: 13, content: 水犀如牛其甲有朱鑿以爲甲士, WYG: ''}
+  - {type: voice, offset: 586, length: 13, name: note, id: n2}
   - {type: punctuation, offset: 593, content: /, id: KR3k0012_krp_482-bkkpn5}
   - {type: punctuation, offset: 599, content: ), id: KR3k0012_krp_482-bkkpn6}
   - {type: 'kr:newline', offset: 602, content: '
@@ -1163,4 +1165,4 @@ markers:
 
       ', id: KR3k0012_krp_482-bkkkrnewl200}
   back: []
-hash: sha256:c5cb3465a1d340e982001a180900646b6513fab74adc2a365f6c7a7e57de6e34
+hash: sha256:ddb257104cb54b1ad54d4935d337e958c8b993dc529b785493f1c34fe6219749

@@ -76,6 +76,7 @@ markers:
   - {type: line-break, offset: 124, content: '', id: KR3k0012_SBCK_892-1a12}
   - {type: variant, offset: 133, length: 6, content: 庱亭庱音攄淩, WYG: ''}
   - {type: punctuation, offset: 135, content: (, id: KR3k0012_krp_892-bkkpn1}
+  - {type: voice, offset: 135, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 137, content: /, id: KR3k0012_krp_892-bkkpn2}
   - {type: punctuation, offset: 139, content: ), id: KR3k0012_krp_892-bkkpn3}
   - {type: variant, offset: 140, length: 1, content: 爲, WYG: 為虎}
@@ -713,6 +714,7 @@ markers:
   - {type: variant, offset: 1816, length: 1, content: 爲, WYG: 為}
   - {type: variant, offset: 1818, length: 1, content: 奴, WYG: ''}
   - {type: punctuation, offset: 1823, content: (, id: KR3k0012_krp_892-bkkpn4}
+  - {type: voice, offset: 1823, length: 12, name: note, id: n2}
   - {type: variant, offset: 1828, length: 1, content: 後, WYG: 遂}
   - {type: punctuation, offset: 1829, content: /, id: KR3k0012_krp_892-bkkpn5}
   - {type: variant, offset: 1831, length: 1, content: 軰, WYG: 輩}
@@ -937,6 +939,7 @@ markers:
   - {type: line-break, offset: 2426, content: '', id: KR3k0012_SBCK_892-6a04}
   - {type: punctuation, offset: 2433, content: (, id: KR3k0012_krp_892-bkkpn7}
   - {type: variant, offset: 2433, length: 23, content: 詩義䟽曰毛赤而文黒謂之赤豹毛白而文黑謂之白豹也, WYG: ''}
+  - {type: voice, offset: 2433, length: 23, name: note, id: n3}
   - {type: punctuation, offset: 2445, content: /, id: KR3k0012_krp_892-bkkpn8}
   - {type: punctuation, offset: 2456, content: ), id: KR3k0012_krp_892-bkkpn9}
   - {type: 'kr:newline', offset: 2456, content: '
@@ -972,6 +975,7 @@ markers:
   - {type: line-break, offset: 2513, content: '', id: KR3k0012_SBCK_892-6a09}
   - {type: variant, offset: 2513, length: 1, content: 莊, WYG: 荘}
   - {type: punctuation, offset: 2524, content: (, id: KR3k0012_krp_892-bkkpn10}
+  - {type: voice, offset: 2524, length: 14, name: note, id: n4}
   - {type: punctuation, offset: 2531, content: /, id: KR3k0012_krp_892-bkkpn11}
   - {type: variant, offset: 2531, length: 7, content: 夜行晝居戒也然, WYG: ''}
   - {type: punctuation, offset: 2538, content: ), id: KR3k0012_krp_892-bkkpn12}
@@ -1017,6 +1021,7 @@ markers:
   - {type: variant, offset: 2637, length: 1, content: 髙, WYG: 昔容成氏之時置餘粮於畆首虎豹可尾容成黄帝時造厯者又曰高}
   - {type: punctuation, offset: 2645, content: (, id: KR3k0012_krp_892-bkkpn13}
   - {type: variant, offset: 2645, length: 8, content: 藂木曰榛深草曰薄, WYG: 豹}
+  - {type: voice, offset: 2645, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 2649, content: /, id: KR3k0012_krp_892-bkkpn14}
   - {type: punctuation, offset: 2653, content: ), id: KR3k0012_krp_892-bkkpn15}
   - {type: variant, offset: 2654, length: 1, content: 豹, WYG: ''}
@@ -1136,6 +1141,7 @@ markers:
   - {type: punctuation, offset: 2933, content: (, id: KR3k0012_krp_892-bkkpn16}
   - {type: variant, offset: 2933, length: 1, content: 說, SBCK: 􅀃}
   - {type: variant, offset: 2933, length: 5, content: 說文亦同說, WYG: 説}
+  - {type: voice, offset: 2933, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 2935, content: /, id: KR3k0012_krp_892-bkkpn17}
   - {type: punctuation, offset: 2937, content: ), id: KR3k0012_krp_892-bkkpn18}
   - {type: 'kr:newline', offset: 2937, content: '
@@ -1158,10 +1164,12 @@ markers:
   - {type: line-break, offset: 2982, content: '', id: KR3k0012_SBCK_892-7a12}
   - {type: punctuation, offset: 3001, content: (, id: KR3k0012_krp_892-bkkpn19}
   - {type: variant, offset: 3001, length: 2, content: 音峻, WYG: ''}
+  - {type: voice, offset: 3001, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 3002, content: /, id: KR3k0012_krp_892-bkkpn20}
   - {type: punctuation, offset: 3003, content: ), id: KR3k0012_krp_892-bkkpn21}
   - {type: punctuation, offset: 3004, content: (, id: KR3k0012_krp_892-bkkpn22}
   - {type: variant, offset: 3004, length: 2, content: 音冝, WYG: ''}
+  - {type: voice, offset: 3004, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 3005, content: /, id: KR3k0012_krp_892-bkkpn23}
   - {type: punctuation, offset: 3006, content: ), id: KR3k0012_krp_892-bkkpn24}
   - {type: 'kr:newline', offset: 3006, content: '
@@ -1218,4 +1226,4 @@ markers:
 
       ', id: KR3k0012_krp_892-bkkkrnewl188}
   back: []
-hash: sha256:94ba178aeb2de9c4eec2b830183e17baa6e8a16540c6dafb4e4a7220f7e44be4
+hash: sha256:041a4d73b7c436a7c9b6aabc81996ec5ddc4785ff6a8a7b41dfb1cabee6ea3bb

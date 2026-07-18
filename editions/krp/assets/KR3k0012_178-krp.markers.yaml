@@ -232,6 +232,7 @@ markers:
   - {type: variant, offset: 573, length: 1, content: 隂, WYG: 隱}
   - {type: punctuation, offset: 577, content: (, id: KR3k0012_krp_178-bkkpn1}
   - {type: variant, offset: 577, length: 12, content: 其質千尋文理盤錯以此一木, WYG: ''}
+  - {type: voice, offset: 577, length: 21, name: note, id: n1}
   - {type: punctuation, offset: 588, content: /, id: KR3k0012_krp_178-bkkpn2}
   - {type: punctuation, offset: 596, content: /, id: KR3k0012_krp_178-bkkpn3}
   - {type: variant, offset: 597, length: 1, content: 虵, WYG: 蛇}
@@ -1104,6 +1105,7 @@ markers:
   - {type: page-break, offset: 3167, content: '', id: KR3k0012_WYG_178-12a, image: WYG0894/WYG0894-0600a.png}
   - {type: punctuation, offset: 3170, content: (, id: KR3k0012_krp_178-bkkpn5}
   - {type: variant, offset: 3170, length: 0, content: '', WYG: 城}
+  - {type: voice, offset: 3170, length: 35, name: note, id: n2}
   - {type: punctuation, offset: 3171, content: /, id: KR3k0012_krp_178-bkkpn6}
   - {type: punctuation, offset: 3172, content: ), id: KR3k0012_krp_178-bkkpn7}
   - {type: 'kr:newline', offset: 3172, content: '
@@ -1401,4 +1403,4 @@ markers:
 
       ', id: KR3k0012_krp_178-bkkkrnewl233}
   back: []
-hash: sha256:d519ee0af44e4c0a4fbb06bfd2a0c612b70ca6aae98b144a7046b8b646a5d4b6
+hash: sha256:c9e87fe5cd1c8a2c465cd8d93fbddb6ea41036aaf68d034e630b97b8a102d243

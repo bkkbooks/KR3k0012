@@ -432,6 +432,7 @@ markers:
   - {type: line-break, offset: 1141, content: '', id: KR3k0012_SBCK_245-3b03}
   - {type: punctuation, offset: 1145, content: (, id: KR3k0012_krp_245-bkkpn1}
   - {type: variant, offset: 1145, length: 4, content: 音道𥘉爲, WYG: 初為}
+  - {type: voice, offset: 1145, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1146, content: /, id: KR3k0012_krp_245-bkkpn2}
   - {type: punctuation, offset: 1147, content: ), id: KR3k0012_krp_245-bkkpn3}
   - {type: variant, offset: 1147, length: 1, content: 𥘉, SBCK: 􅀄}
@@ -827,6 +828,7 @@ markers:
   - {type: line-break, offset: 2291, content: '', id: KR3k0012_SBCK_245-5b13}
   - {type: variant, offset: 2296, length: 14, content: 爲褻慢付執法者治之數日太子為, WYG: 爾}
   - {type: punctuation, offset: 2297, content: (, id: KR3k0012_krp_245-bkkpn4}
+  - {type: voice, offset: 2297, length: 19, name: note, id: n2}
   - {type: punctuation, offset: 2307, content: /, id: KR3k0012_krp_245-bkkpn5}
   - {type: punctuation, offset: 2316, content: ), id: KR3k0012_krp_245-bkkpn6}
   - {type: 'kr:newline', offset: 2316, content: '
@@ -1096,4 +1098,4 @@ markers:
 
       ', id: KR3k0012_krp_245-bkkkrnewl184}
   back: []
-hash: sha256:a328343f9624715b51d9fa3096fe75cf5d57afea8ee94ea950670f39671ffe44
+hash: sha256:0a08c253e30a3ad5b6ec3fbf508bbc4ae22075e6523f4c870de515f4b9b1c813

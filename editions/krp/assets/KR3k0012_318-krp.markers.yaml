@@ -47,6 +47,7 @@ markers:
   - {type: page-break, offset: 52, content: '', id: KR3k0012_WYG_318-1b, image: WYG0895/WYG0895-0735b.png}
   - {type: punctuation, offset: 54, content: (, id: KR3k0012_krp_318-bkkpn1}
   - {type: variant, offset: 54, length: 2, content: 音斸, WYG: ''}
+  - {type: voice, offset: 54, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 55, content: /, id: KR3k0012_krp_318-bkkpn2}
   - {type: punctuation, offset: 56, content: ), id: KR3k0012_krp_318-bkkpn3}
   - {type: variant, offset: 58, length: 1, content: 挮, WYG: 梯}
@@ -145,6 +146,7 @@ markers:
   - {type: variant, offset: 329, length: 1, content: 主, WYG: 王}
   - {type: punctuation, offset: 332, content: (, id: KR3k0012_krp_318-bkkpn4}
   - {type: variant, offset: 332, length: 2, content: 音午, WYG: ''}
+  - {type: voice, offset: 332, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 333, content: /, id: KR3k0012_krp_318-bkkpn5}
   - {type: punctuation, offset: 334, content: ), id: KR3k0012_krp_318-bkkpn6}
   - {type: 'kr:newline', offset: 337, content: '
@@ -160,6 +162,7 @@ markers:
   - {type: line-break, offset: 359, content: '', id: KR3k0012_SBCK_318-1b08}
   - {type: variant, offset: 371, length: 7, content: 眊仍吏功羽毛飾, WYG: 毦}
   - {type: punctuation, offset: 372, content: (, id: KR3k0012_krp_318-bkkpn7}
+  - {type: voice, offset: 372, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 375, content: /, id: KR3k0012_krp_318-bkkpn8}
   - {type: punctuation, offset: 378, content: ), id: KR3k0012_krp_318-bkkpn9}
   - {type: 'kr:newline', offset: 384, content: '
@@ -244,6 +247,7 @@ markers:
   - {type: variant, offset: 604, length: 1, content: 爲, WYG: 為}
   - {type: variant, offset: 608, length: 1, content: 軓, WYG: 􅁤}
   - {type: punctuation, offset: 611, content: (, id: KR3k0012_krp_318-bkkpn10}
+  - {type: voice, offset: 611, length: 3, name: note, id: n4}
   - {type: variant, offset: 612, length: 1, content: 悉, WYG: ''}
   - {type: punctuation, offset: 613, content: /, id: KR3k0012_krp_318-bkkpn11}
   - {type: punctuation, offset: 614, content: ), id: KR3k0012_krp_318-bkkpn12}
@@ -845,6 +849,7 @@ markers:
       ', id: KR3k0012_krp_318-bkkkrnewl130}
   - {type: line-break, offset: 2465, content: '', id: KR3k0012_SBCK_318-5b05}
   - {type: punctuation, offset: 2469, content: (, id: KR3k0012_krp_318-bkkpn13}
+  - {type: voice, offset: 2469, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 2471, content: /, id: KR3k0012_krp_318-bkkpn14}
   - {type: punctuation, offset: 2473, content: ), id: KR3k0012_krp_318-bkkpn15}
   - {type: variant, offset: 2474, length: 1, content: 賀, WYG: ''}
@@ -976,6 +981,7 @@ markers:
   - {type: variant, offset: 2854, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 2868, content: (, id: KR3k0012_krp_318-bkkpn16}
   - {type: variant, offset: 2868, length: 2, content: 音石, WYG: ''}
+  - {type: voice, offset: 2868, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2869, content: /, id: KR3k0012_krp_318-bkkpn17}
   - {type: punctuation, offset: 2870, content: ), id: KR3k0012_krp_318-bkkpn18}
   - {type: variant, offset: 2871, length: 2, content: 一軍, WYG: 遣將率}
@@ -1408,6 +1414,7 @@ markers:
       ', id: KR3k0012_krp_318-bkkkrnewl221}
   - {type: line-break, offset: 4238, content: '', id: KR3k0012_SBCK_318-8b12}
   - {type: punctuation, offset: 4252, content: (, id: KR3k0012_krp_318-bkkpn19}
+  - {type: voice, offset: 4252, length: 8, name: note, id: n7}
   - {type: punctuation, offset: 4256, content: /, id: KR3k0012_krp_318-bkkpn20}
   - {type: punctuation, offset: 4260, content: ), id: KR3k0012_krp_318-bkkpn21}
   - {type: variant, offset: 4260, length: 1, content: 巳, WYG: 已}
@@ -1425,6 +1432,7 @@ markers:
       ', id: KR3k0012_krp_318-bkkkrnewl224}
   - {type: line-break, offset: 4286, content: '', id: KR3k0012_SBCK_318-9a01}
   - {type: punctuation, offset: 4287, content: (, id: KR3k0012_krp_318-bkkpn22}
+  - {type: voice, offset: 4287, length: 10, name: note, id: n8}
   - {type: variant, offset: 4289, length: 1, content: 鼓, WYG: 鼔}
   - {type: punctuation, offset: 4292, content: /, id: KR3k0012_krp_318-bkkpn23}
   - {type: variant, offset: 4293, length: 1, content: 鉦, WYG: 金}
@@ -1452,6 +1460,7 @@ markers:
   - {type: variant, offset: 4369, length: 1, content: 追, WYG: 逺}
   - {type: punctuation, offset: 4373, content: (, id: KR3k0012_krp_318-bkkpn25}
   - {type: variant, offset: 4373, length: 17, content: 合有交兵衆者以寡合對追逐也圍也以衆, WYG: 之若分而迭}
+  - {type: voice, offset: 4373, length: 31, name: note, id: n9}
   - {type: punctuation, offset: 4380, content: /, id: KR3k0012_krp_318-bkkpn26}
   - {type: punctuation, offset: 4387, content: ), id: KR3k0012_krp_318-bkkpn27}
   - {type: 'kr:newline', offset: 4387, content: '
@@ -1468,6 +1477,7 @@ markers:
   - {type: variant, offset: 4408, length: 0, content: '', WYG: 相衆而}
   - {type: punctuation, offset: 4410, content: (, id: KR3k0012_krp_318-bkkpn31}
   - {type: variant, offset: 4410, length: 38, content: 敵衆巳寡則依利道而受圍以堅衆心分共四向而受敵則衆以死爲生故能衝逐四出以克勝也, WYG: ''}
+  - {type: voice, offset: 4410, length: 38, name: note, id: n10}
   - {type: punctuation, offset: 4417, content: /, id: KR3k0012_krp_318-bkkpn32}
   - {type: punctuation, offset: 4424, content: ), id: KR3k0012_krp_318-bkkpn33}
   - {type: 'kr:newline', offset: 4424, content: '
@@ -1486,6 +1496,7 @@ markers:
   - {type: line-break, offset: 4458, content: '', id: KR3k0012_SBCK_318-9a08}
   - {type: punctuation, offset: 4458, content: (, id: KR3k0012_krp_318-bkkpn37}
   - {type: variant, offset: 4458, length: 20, content: 敵家少弱恐懼者則開去道無令爲窮冦必死戰也, WYG: ''}
+  - {type: voice, offset: 4458, length: 20, name: note, id: n11}
   - {type: punctuation, offset: 4468, content: /, id: KR3k0012_krp_318-bkkpn38}
   - {type: punctuation, offset: 4478, content: ), id: KR3k0012_krp_318-bkkpn39}
   - {type: 'kr:newline', offset: 4478, content: '
@@ -1532,4 +1543,4 @@ markers:
 
       ', id: KR3k0012_krp_318-bkkkrnewl240}
   back: []
-hash: sha256:4eb4912857442d7958c7440a9f9eb587f326c1b6fde9fcd565fd3157fc0b0395
+hash: sha256:aca2b7f58646839a34372d712a61f10802b80d61d4e435c00494e94124747731

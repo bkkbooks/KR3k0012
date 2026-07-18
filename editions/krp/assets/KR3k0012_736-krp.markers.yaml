@@ -66,6 +66,7 @@ markers:
   - {type: variant, offset: 89, length: 0, content: '', WYG: 祭九}
   - {type: punctuation, offset: 90, content: (, id: KR3k0012_krp_736-bkkpn1}
   - {type: variant, offset: 90, length: 3, content: 與拜同, WYG: ''}
+  - {type: voice, offset: 90, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 92, content: /, id: KR3k0012_krp_736-bkkpn2}
   - {type: punctuation, offset: 93, content: ), id: KR3k0012_krp_736-bkkpn3}
   - {type: 'kr:newline', offset: 93, content: '
@@ -276,6 +277,7 @@ markers:
   - {type: variant, offset: 738, length: 1, content: 日, WYG: 曰}
   - {type: variant, offset: 741, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 743, content: (, id: KR3k0012_krp_736-bkkpn4}
+  - {type: voice, offset: 743, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 747, content: /, id: KR3k0012_krp_736-bkkpn5}
   - {type: punctuation, offset: 751, content: ), id: KR3k0012_krp_736-bkkpn6}
   - {type: 'kr:newline', offset: 759, content: '
@@ -283,6 +285,7 @@ markers:
       ', id: KR3k0012_krp_736-bkkkrnewl45}
   - {type: line-break, offset: 759, content: '', id: KR3k0012_SBCK_736-2b04}
   - {type: punctuation, offset: 761, content: (, id: KR3k0012_krp_736-bkkpn7}
+  - {type: voice, offset: 761, length: 30, name: note, id: n3}
   - {type: punctuation, offset: 776, content: /, id: KR3k0012_krp_736-bkkpn8}
   - {type: variant, offset: 777, length: 1, content: 鹽, WYG: 塩}
   - {type: punctuation, offset: 791, content: ), id: KR3k0012_krp_736-bkkpn9}
@@ -558,6 +561,7 @@ markers:
   - {type: variant, offset: 1593, length: 1, content: 盂, WYG: 壺}
   - {type: variant, offset: 1599, length: 14, content: 满篝甌窶猶桮樓也言豊年採掇易, WYG: ''}
   - {type: punctuation, offset: 1601, content: (, id: KR3k0012_krp_736-bkkpn10}
+  - {type: voice, offset: 1601, length: 18, name: note, id: n4}
   - {type: punctuation, offset: 1603, content: /, id: KR3k0012_krp_736-bkkpn11}
   - {type: punctuation, offset: 1605, content: ), id: KR3k0012_krp_736-bkkpn12}
   - {type: 'kr:newline', offset: 1605, content: '
@@ -572,6 +576,7 @@ markers:
   - {type: variant, offset: 1620, length: 1, content: 耶, WYG: 邪}
   - {type: punctuation, offset: 1623, content: (, id: KR3k0012_krp_736-bkkpn16}
   - {type: variant, offset: 1623, length: 8, content: 汙耶下地有薪草也, WYG: ''}
+  - {type: voice, offset: 1623, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 1627, content: /, id: KR3k0012_krp_736-bkkpn17}
   - {type: punctuation, offset: 1631, content: ), id: KR3k0012_krp_736-bkkpn18}
   - {type: variant, offset: 1632, length: 1, content: 糓, SBCK: 􅂖}
@@ -1217,6 +1222,7 @@ markers:
   - {type: line-break, offset: 3324, content: '', id: KR3k0012_SBCK_736-7b04}
   - {type: variant, offset: 3337, length: 7, content: 噀埤蒼日噀也音, WYG: 潠}
   - {type: punctuation, offset: 3338, content: (, id: KR3k0012_krp_736-bkkpn19}
+  - {type: voice, offset: 3338, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 3342, content: /, id: KR3k0012_krp_736-bkkpn20}
   - {type: 'kr:non-cjk', offset: 3342, content: ◜, id: KR3k0012_krp_736-bkkkrnonc5}
   - {type: 'kr:non-cjk', offset: 3344, content: ◜, id: KR3k0012_krp_736-bkkkrnonc6}
@@ -1576,4 +1582,4 @@ markers:
 
       ', id: KR3k0012_krp_736-bkkkrnewl246}
   back: []
-hash: sha256:ffde499f51ad3b0a7d3726f417680df0521d32d90eec0d6ddbe38c4fa79b44a3
+hash: sha256:7412efea9ebca22439a5bf85da35698d0e4153f7d4fdc00a09f1f519c39b5b7a

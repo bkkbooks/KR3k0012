@@ -33,6 +33,7 @@ markers:
   - {type: line-break, offset: 5, content: '', id: KR3k0012_SBCK_531-1a05}
   - {type: punctuation, offset: 13, content: (, id: KR3k0012_krp_531-bkkpn1}
   - {type: variant, offset: 13, length: 10, content: 假至也王以聚至有廟也, WYG: ''}
+  - {type: voice, offset: 13, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 18, content: /, id: KR3k0012_krp_531-bkkpn2}
   - {type: punctuation, offset: 23, content: ), id: KR3k0012_krp_531-bkkpn3}
   - {type: 'kr:newline', offset: 23, content: '
@@ -48,6 +49,7 @@ markers:
   - {type: page-break, offset: 40, content: '', id: KR3k0012_WYG_531-1b, image: WYG0897/WYG0897-0702b.png}
   - {type: variant, offset: 42, length: 2, content: 逸篇, WYG: 咸有一德}
   - {type: punctuation, offset: 55, content: (, id: KR3k0012_krp_531-bkkpn4}
+  - {type: voice, offset: 55, length: 21, name: note, id: n2}
   - {type: punctuation, offset: 62, content: /, id: KR3k0012_krp_531-bkkpn5}
   - {type: variant, offset: 65, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 69, content: ), id: KR3k0012_krp_531-bkkpn6}
@@ -86,6 +88,7 @@ markers:
   - {type: line-break, offset: 140, content: '', id: KR3k0012_SBCK_531-1a13}
   - {type: punctuation, offset: 143, content: (, id: KR3k0012_krp_531-bkkpn10}
   - {type: variant, offset: 143, length: 70, content: 清廟者祭有清明之徳者之宫也謂祭文王也天徳清明文王象焉故祭之而歌此詩也廟之言貌也死者精神不可得而見伹以生時之居立宫室家貌爲之耳成洛邑居攝五年時, WYG: 曰}
+  - {type: voice, offset: 143, length: 70, name: note, id: n3}
   - {type: variant, offset: 146, length: 1, content: 祭, SBCK: 􅀕}
   - {type: variant, offset: 157, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 162, content: /, id: KR3k0012_krp_531-bkkpn11}
@@ -108,6 +111,7 @@ markers:
   - {type: line-break, offset: 219, content: '', id: KR3k0012_SBCK_531-1b02}
   - {type: punctuation, offset: 221, content: (, id: KR3k0012_krp_531-bkkpn16}
   - {type: variant, offset: 221, length: 50, content: 於歎辭也穆肅敬雝和相助也箋云顯光也見也於乎美哉周公之祭清廟也其禮儀敬且和又諸侯有光明著見之徳者來助祭, WYG: ''}
+  - {type: voice, offset: 221, length: 50, name: note, id: n4}
   - {type: punctuation, offset: 241, content: /, id: KR3k0012_krp_531-bkkpn17}
   - {type: variant, offset: 247, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 261, content: ), id: KR3k0012_krp_531-bkkpn18}
@@ -211,6 +215,7 @@ markers:
   - {type: variant, offset: 480, length: 1, content: 坫, WYG: 玷}
   - {type: punctuation, offset: 490, content: (, id: KR3k0012_krp_531-bkkpn22}
   - {type: variant, offset: 490, length: 109, content: 山節刻欂櫨爲山也藻梲謂侏儒柱爲藻文複廟重屋也檐承壁材也刮摩也郷牖屬謂夾户牎也每室爲八牎爲四逹反坫反爵之坫也出尊當尊南也唯兩君爲好旣獻反爵其上禮君尊於兩楹之間也嵩髙也康讀爲元龍之亢屏謂之樹今愚也刻之爲雲氣虫獸如今閻上爲之, WYG: ''}
+  - {type: voice, offset: 490, length: 109, name: note, id: n5}
   - {type: punctuation, offset: 502, content: /, id: KR3k0012_krp_531-bkkpn23}
   - {type: variant, offset: 507, length: 1, content: 複, SBCK: 􅃨}
   - {type: punctuation, offset: 514, content: ), id: KR3k0012_krp_531-bkkpn24}
@@ -243,6 +248,7 @@ markers:
       ', id: KR3k0012_krp_531-bkkkrnewl35}
   - {type: line-break, offset: 643, content: '', id: KR3k0012_SBCK_531-2a09}
   - {type: punctuation, offset: 660, content: (, id: KR3k0012_krp_531-bkkpn31}
+  - {type: voice, offset: 660, length: 9, name: note, id: n6}
   - {type: punctuation, offset: 665, content: /, id: KR3k0012_krp_531-bkkpn32}
   - {type: variant, offset: 665, length: 1, content: 罇, WYG: 尊}
   - {type: variant, offset: 666, length: 1, content: 彛, WYG: 彝}
@@ -336,6 +342,7 @@ markers:
   - {type: variant, offset: 923, length: 1, content: 鬼, SBCK: 􅀑}
   - {type: punctuation, offset: 924, content: (, id: KR3k0012_krp_531-bkkpn34}
   - {type: variant, offset: 924, length: 37, content: 廟之言貌也宗庿者先祖之尊貌也祧之言超也超上意也封士曰壇除地曰墠書曰三壇同墠, WYG: ''}
+  - {type: voice, offset: 924, length: 37, name: note, id: n7}
   - {type: punctuation, offset: 934, content: /, id: KR3k0012_krp_531-bkkpn35}
   - {type: punctuation, offset: 944, content: ), id: KR3k0012_krp_531-bkkpn36}
   - {type: 'kr:newline', offset: 944, content: '
@@ -398,6 +405,7 @@ markers:
   - {type: line-break, offset: 1085, content: '', id: KR3k0012_SBCK_531-3a05}
   - {type: punctuation, offset: 1093, content: (, id: KR3k0012_krp_531-bkkpn40}
   - {type: variant, offset: 1093, length: 15, content: 以茅飾屋著儉也清廟肅然清静之稱, WYG: ''}
+  - {type: voice, offset: 1093, length: 15, name: note, id: n8}
   - {type: punctuation, offset: 1101, content: /, id: KR3k0012_krp_531-bkkpn41}
   - {type: punctuation, offset: 1108, content: ), id: KR3k0012_krp_531-bkkpn42}
   - {type: 'kr:newline', offset: 1108, content: '
@@ -421,6 +429,7 @@ markers:
   - {type: variant, offset: 1152, length: 1, content: 災, WYG: 火}
   - {type: punctuation, offset: 1156, content: (, id: KR3k0012_krp_531-bkkpn43}
   - {type: variant, offset: 1156, length: 36, content: 宣公神主新入廟故謂之新宫書三日哭善得禮宗廟親之神靈所憑居而遇災故哀而哭之, WYG: ''}
+  - {type: voice, offset: 1156, length: 36, name: note, id: n9}
   - {type: punctuation, offset: 1164, content: /, id: KR3k0012_krp_531-bkkpn44}
   - {type: punctuation, offset: 1172, content: ), id: KR3k0012_krp_531-bkkpn45}
   - {type: 'kr:newline', offset: 1172, content: '
@@ -441,6 +450,7 @@ markers:
   - {type: variant, offset: 1202, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 1207, content: (, id: KR3k0012_krp_531-bkkpn49}
   - {type: variant, offset: 1207, length: 0, content: '', WYG: 凡諸侯之喪異姓臨于外者同姓臨于廟是故魯為諸姬臨于周廟}
+  - {type: voice, offset: 1207, length: 17, name: note, id: n10}
   - {type: punctuation, offset: 1214, content: /, id: KR3k0012_krp_531-bkkpn50}
   - {type: variant, offset: 1218, length: 1, content: 故, WYG: ''}
   - {type: punctuation, offset: 1221, content: ), id: KR3k0012_krp_531-bkkpn51}
@@ -482,6 +492,7 @@ markers:
   - {type: variant, offset: 1298, length: 1, content: 宫, WYG: 公}
   - {type: punctuation, offset: 1300, content: (, id: KR3k0012_krp_531-bkkpn55}
   - {type: variant, offset: 1300, length: 1, content: 禰, WYG: 稱}
+  - {type: voice, offset: 1300, length: 12, name: note, id: n11}
   - {type: punctuation, offset: 1304, content: /, id: KR3k0012_krp_531-bkkpn56}
   - {type: page-break, offset: 1306, content: '', id: KR3k0012_WYG_531-5a, image: WYG0897/WYG0897-0704a.png}
   - {type: punctuation, offset: 1308, content: ), id: KR3k0012_krp_531-bkkpn57}
@@ -505,6 +516,7 @@ markers:
   - {type: variant, offset: 1330, length: 1, content: 鬼, SBCK: 􅀑}
   - {type: punctuation, offset: 1333, content: (, id: KR3k0012_krp_531-bkkpn61}
   - {type: variant, offset: 1333, length: 47, content: 宗者尊也廟者皃也先祖之尊皃所居中宫何以爲人死精䰟歸乎天形體不藏存之即存不存則亡明先祖神死依人也, WYG: ''}
+  - {type: voice, offset: 1333, length: 47, name: note, id: n12}
   - {type: punctuation, offset: 1345, content: /, id: KR3k0012_krp_531-bkkpn62}
   - {type: punctuation, offset: 1357, content: ), id: KR3k0012_krp_531-bkkpn63}
   - {type: 'kr:newline', offset: 1357, content: '
@@ -577,6 +589,7 @@ markers:
   - {type: variant, offset: 1558, length: 1, content: 回, WYG: 囘}
   - {type: punctuation, offset: 1560, content: (, id: KR3k0012_krp_531-bkkpn67}
   - {type: variant, offset: 1560, length: 19, content: 應劭曰回中在安定髙平孟康注曰回中在北地, WYG: ''}
+  - {type: voice, offset: 1560, length: 19, name: note, id: n13}
   - {type: punctuation, offset: 1564, content: /, id: KR3k0012_krp_531-bkkpn68}
   - {type: punctuation, offset: 1568, content: ), id: KR3k0012_krp_531-bkkpn69}
   - {type: 'kr:newline', offset: 1568, content: '
@@ -594,6 +607,7 @@ markers:
   - {type: line-break, offset: 1595, content: '', id: KR3k0012_SBCK_531-4a05}
   - {type: punctuation, offset: 1607, content: (, id: KR3k0012_krp_531-bkkpn73}
   - {type: variant, offset: 1607, length: 9, content: 應劭曰築垣墻如街巷, WYG: ''}
+  - {type: voice, offset: 1607, length: 9, name: note, id: n14}
   - {type: punctuation, offset: 1612, content: /, id: KR3k0012_krp_531-bkkpn74}
   - {type: punctuation, offset: 1616, content: ), id: KR3k0012_krp_531-bkkpn75}
   - {type: 'kr:newline', offset: 1616, content: '
@@ -616,6 +630,7 @@ markers:
   - {type: line-break, offset: 1660, content: '', id: KR3k0012_SBCK_531-4a08}
   - {type: punctuation, offset: 1662, content: (, id: KR3k0012_krp_531-bkkpn76}
   - {type: variant, offset: 1662, length: 34, content: 徐曰光武紀曰上幸豊相髙祖於原廟駰謂原再也先旣已立廟今又拜立故謂之原也, WYG: ''}
+  - {type: voice, offset: 1662, length: 34, name: note, id: n15}
   - {type: punctuation, offset: 1679, content: /, id: KR3k0012_krp_531-bkkpn77}
   - {type: punctuation, offset: 1696, content: ), id: KR3k0012_krp_531-bkkpn78}
   - {type: 'kr:newline', offset: 1696, content: '
@@ -641,6 +656,7 @@ markers:
   - {type: variant, offset: 1744, length: 1, content: 月, WYG: 自}
   - {type: punctuation, offset: 1749, content: (, id: KR3k0012_krp_531-bkkpn79}
   - {type: variant, offset: 1749, length: 15, content: 應劭月出髙帝衣冠備法駕名遊衣冠, WYG: ''}
+  - {type: voice, offset: 1749, length: 15, name: note, id: n16}
   - {type: punctuation, offset: 1757, content: /, id: KR3k0012_krp_531-bkkpn80}
   - {type: punctuation, offset: 1764, content: ), id: KR3k0012_krp_531-bkkpn81}
   - {type: variant, offset: 1768, length: 1, content: 乗, WYG: 乘}
@@ -683,6 +699,7 @@ markers:
   - {type: variant, offset: 1874, length: 1, content: 城, WYG: 成}
   - {type: punctuation, offset: 1876, content: (, id: KR3k0012_krp_531-bkkpn82}
   - {type: variant, offset: 1876, length: 124, content: 服䖍曰廟在長安城南文帝作還顧見城故名之應劭日文帝自爲之制度卑狹若顧望而成故曰顧城賈誼曰目頋城之廟爲天下太宗與漢無極或曰地名也如淳曰身存而爲廟若尚書顧命也髙祖廟曰原廟文帝廟曰頋城廟景帝廟曰徳陽武帝廟曰龍淵昭帝廟曰徘徊宣帝號樂遊元帝廟曰長壽成帝廟曰成陽, WYG: ''}
+  - {type: voice, offset: 1876, length: 124, name: note, id: n17}
   - {type: punctuation, offset: 1890, content: /, id: KR3k0012_krp_531-bkkpn83}
   - {type: variant, offset: 1895, length: 1, content: 應, SBCK: 􅀿}
   - {type: punctuation, offset: 1904, content: ), id: KR3k0012_krp_531-bkkpn84}
@@ -1441,6 +1458,7 @@ markers:
   - {type: line-break, offset: 4000, content: '', id: KR3k0012_SBCK_531-8b10}
   - {type: variant, offset: 4001, length: 1, content: 主, WYG: 一}
   - {type: punctuation, offset: 4005, content: (, id: KR3k0012_krp_531-bkkpn94}
+  - {type: voice, offset: 4005, length: 15, name: note, id: n18}
   - {type: punctuation, offset: 4013, content: /, id: KR3k0012_krp_531-bkkpn95}
   - {type: variant, offset: 4016, length: 0, content: '', WYG: 主}
   - {type: punctuation, offset: 4020, content: ), id: KR3k0012_krp_531-bkkpn96}
@@ -1448,6 +1466,7 @@ markers:
   - {type: variant, offset: 4024, length: 0, content: '', WYG: 徹}
   - {type: punctuation, offset: 4025, content: (, id: KR3k0012_krp_531-bkkpn97}
   - {type: variant, offset: 4025, length: 8, content: 周人作主撤重悝之, WYG: ''}
+  - {type: voice, offset: 4025, length: 8, name: note, id: n19}
   - {type: punctuation, offset: 4029, content: /, id: KR3k0012_krp_531-bkkpn98}
   - {type: punctuation, offset: 4033, content: ), id: KR3k0012_krp_531-bkkpn99}
   - {type: 'kr:newline', offset: 4033, content: '
@@ -1490,12 +1509,14 @@ markers:
   - {type: line-break, offset: 4123, content: '', id: KR3k0012_SBCK_531-9a03}
   - {type: punctuation, offset: 4123, content: (, id: KR3k0012_krp_531-bkkpn100}
   - {type: variant, offset: 4123, length: 12, content: 未葬以前縣重於庭以代主也, WYG: ''}
+  - {type: voice, offset: 4123, length: 12, name: note, id: n20}
   - {type: punctuation, offset: 4129, content: /, id: KR3k0012_krp_531-bkkpn101}
   - {type: punctuation, offset: 4135, content: ), id: KR3k0012_krp_531-bkkpn102}
   - {type: variant, offset: 4138, length: 0, content: '', WYG: 木者}
   - {type: variant, offset: 4145, length: 2, content: 始終, WYG: 如}
   - {type: punctuation, offset: 4149, content: (, id: KR3k0012_krp_531-bkkpn103}
   - {type: variant, offset: 4149, length: 19, content: 人之生也無不死木生於亥又落於亥是歸本也, WYG: ''}
+  - {type: voice, offset: 4149, length: 19, name: note, id: n21}
   - {type: punctuation, offset: 4152, content: /, id: KR3k0012_krp_531-bkkpn104}
   - {type: punctuation, offset: 4155, content: ), id: KR3k0012_krp_531-bkkpn105}
   - {type: 'kr:newline', offset: 4155, content: '
@@ -1512,6 +1533,7 @@ markers:
       ', id: KR3k0012_krp_531-bkkkrnewl227}
   - {type: line-break, offset: 4185, content: '', id: KR3k0012_SBCK_531-9a05}
   - {type: punctuation, offset: 4188, content: (, id: KR3k0012_krp_531-bkkpn109}
+  - {type: voice, offset: 4188, length: 7, name: note, id: n22}
   - {type: punctuation, offset: 4192, content: /, id: KR3k0012_krp_531-bkkpn110}
   - {type: punctuation, offset: 4195, content: ), id: KR3k0012_krp_531-bkkpn111}
   - {type: variant, offset: 4196, length: 1, content: 後, WYG: 后}
@@ -1535,6 +1557,7 @@ markers:
   - {type: punctuation, offset: 4257, content: (, id: KR3k0012_krp_531-bkkpn112}
   - {type: variant, offset: 4257, length: 1, content: 桓, SBCK: 􅁊}
   - {type: variant, offset: 4257, length: 25, content: 桓公鄭始受封君也宗柘宗廟中藏主石室言巳丗爲宗廟守臣, WYG: ''}
+  - {type: voice, offset: 4257, length: 25, name: note, id: n23}
   - {type: punctuation, offset: 4263, content: /, id: KR3k0012_krp_531-bkkpn113}
   - {type: punctuation, offset: 4269, content: ), id: KR3k0012_krp_531-bkkpn114}
   - {type: 'kr:newline', offset: 4269, content: '
@@ -1557,6 +1580,7 @@ markers:
   - {type: variant, offset: 4309, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 4311, content: (, id: KR3k0012_krp_531-bkkpn118}
   - {type: variant, offset: 4311, length: 18, content: 户柩巳逺孝子思募故造木主立几筵焉丞甞, WYG: 烝嘗}
+  - {type: voice, offset: 4311, length: 16, name: note, id: n24}
   - {type: punctuation, offset: 4319, content: /, id: KR3k0012_krp_531-bkkpn119}
   - {type: punctuation, offset: 4327, content: ), id: KR3k0012_krp_531-bkkpn120}
   - {type: variant, offset: 4330, length: 1, content: 於, WYG: 于}
@@ -1569,6 +1593,7 @@ markers:
   - {type: variant, offset: 4339, length: 1, content: 徙, WYG: 徒}
   - {type: variant, offset: 4342, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 4349, content: (, id: KR3k0012_krp_531-bkkpn121}
+  - {type: voice, offset: 4349, length: 11, name: note, id: n25}
   - {type: variant, offset: 4353, length: 1, content: 凾, WYG: 函}
   - {type: punctuation, offset: 4355, content: /, id: KR3k0012_krp_531-bkkpn122}
   - {type: punctuation, offset: 4360, content: ), id: KR3k0012_krp_531-bkkpn123}
@@ -1882,4 +1907,4 @@ markers:
 
       ', id: KR3k0012_krp_531-bkkkrnewl285}
   back: []
-hash: sha256:e1cff1b73e1071f7cd0a544585a95be3de639516921daec242ecac1ccdb6e07e
+hash: sha256:c0530f2e525052e4328bb44b9743e755fe1851bba2e9aa58e1cc0bebd89ca511

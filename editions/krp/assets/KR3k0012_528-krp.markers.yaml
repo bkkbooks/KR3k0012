@@ -39,6 +39,7 @@ markers:
   - {type: line-break, offset: 30, content: '', id: KR3k0012_SBCK_528-1a06}
   - {type: variant, offset: 31, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 34, content: (, id: KR3k0012_krp_528-bkkpn1}
+  - {type: voice, offset: 34, length: 106, name: note, id: n1}
   - {type: variant, offset: 45, length: 1, content: 句, WYG: 勾}
   - {type: variant, offset: 50, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 52, content: /, id: KR3k0012_krp_528-bkkpn2}
@@ -67,6 +68,7 @@ markers:
   - {type: punctuation, offset: 140, content: ), id: KR3k0012_krp_528-bkkpn9}
   - {type: variant, offset: 144, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 147, content: (, id: KR3k0012_krp_528-bkkpn10}
+  - {type: voice, offset: 147, length: 46, name: note, id: n2}
   - {type: punctuation, offset: 149, content: /, id: KR3k0012_krp_528-bkkpn11}
   - {type: punctuation, offset: 151, content: ), id: KR3k0012_krp_528-bkkpn12}
   - {type: 'kr:newline', offset: 151, content: '
@@ -86,6 +88,7 @@ markers:
   - {type: line-break, offset: 194, content: '', id: KR3k0012_SBCK_528-1a10}
   - {type: variant, offset: 197, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 200, content: (, id: KR3k0012_krp_528-bkkpn16}
+  - {type: voice, offset: 200, length: 46, name: note, id: n3}
   - {type: variant, offset: 213, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 216, content: /, id: KR3k0012_krp_528-bkkpn17}
   - {type: variant, offset: 225, length: 1, content: 琥, WYG: 虎}
@@ -101,6 +104,7 @@ markers:
   - {type: punctuation, offset: 246, content: ), id: KR3k0012_krp_528-bkkpn21}
   - {type: variant, offset: 250, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 253, content: (, id: KR3k0012_krp_528-bkkpn22}
+  - {type: voice, offset: 253, length: 45, name: note, id: n4}
   - {type: punctuation, offset: 261, content: /, id: KR3k0012_krp_528-bkkpn23}
   - {type: variant, offset: 262, length: 1, content: 玄, WYG: 𤣥}
   - {type: variant, offset: 263, length: 1, content: 冥, WYG: 㝠}
@@ -275,6 +279,7 @@ markers:
       ', id: KR3k0012_krp_528-bkkkrnewl38}
   - {type: line-break, offset: 779, content: '', id: KR3k0012_SBCK_528-2a12}
   - {type: punctuation, offset: 790, content: (, id: KR3k0012_krp_528-bkkpn28}
+  - {type: voice, offset: 790, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 792, content: /, id: KR3k0012_krp_528-bkkpn29}
   - {type: variant, offset: 792, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 793, content: ), id: KR3k0012_krp_528-bkkpn30}
@@ -296,6 +301,7 @@ markers:
   - {type: variant, offset: 810, length: 1, content: 啇, WYG: 商}
   - {type: punctuation, offset: 817, content: (, id: KR3k0012_krp_528-bkkpn31}
   - {type: variant, offset: 817, length: 25, content: 大禘郊祭天也禮記曰王者禘其祖之所自出以其祖配之是謂, WYG: ''}
+  - {type: voice, offset: 817, length: 26, name: note, id: n6}
   - {type: variant, offset: 820, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 830, content: /, id: KR3k0012_krp_528-bkkpn32}
   - {type: punctuation, offset: 843, content: ), id: KR3k0012_krp_528-bkkpn33}
@@ -314,6 +320,7 @@ markers:
   - {type: variant, offset: 867, length: 1, content: 旣, WYG: 既}
   - {type: punctuation, offset: 869, content: (, id: KR3k0012_krp_528-bkkpn34}
   - {type: variant, offset: 869, length: 68, content: 箋云長猶久也隕當作圎圎謂周也深知乎維啇家之徳也乆發見其禎祥矣乃用洪水禹敷下土正四方定諸夏廣大其竟界之時始有王天下之萌兆歷虞夏之丗故爲乆也, WYG: ''}
+  - {type: voice, offset: 869, length: 68, name: note, id: n7}
   - {type: punctuation, offset: 888, content: /, id: KR3k0012_krp_528-bkkpn35}
   - {type: punctuation, offset: 907, content: ), id: KR3k0012_krp_528-bkkpn36}
   - {type: 'kr:newline', offset: 907, content: '
@@ -348,6 +355,7 @@ markers:
   - {type: line-break, offset: 996, content: '', id: KR3k0012_SBCK_528-2b08}
   - {type: punctuation, offset: 998, content: (, id: KR3k0012_krp_528-bkkpn40}
   - {type: variant, offset: 998, length: 73, content: 凡大祭曰禘自由也大祭其先祖所由生謂郊祭天也王者之祖先皆感太徴五帝之精以生背用正月郊祭之盖特尊焉孝經曰郊祀后稷以配天宗祀文王於明堂以配上帝凡配五帝也, WYG: ''}
+  - {type: voice, offset: 998, length: 73, name: note, id: n8}
   - {type: variant, offset: 1000, length: 1, content: 祭, SBCK: 􅀕}
   - {type: variant, offset: 1007, length: 1, content: 祭, SBCK: 􅀕}
   - {type: variant, offset: 1016, length: 1, content: 祭, SBCK: 􅀕}
@@ -373,6 +381,7 @@ markers:
       ', id: KR3k0012_krp_528-bkkkrnewl51}
   - {type: line-break, offset: 1093, content: '', id: KR3k0012_SBCK_528-2b11}
   - {type: punctuation, offset: 1114, content: (, id: KR3k0012_krp_528-bkkpn46}
+  - {type: voice, offset: 1114, length: 24, name: note, id: n9}
   - {type: punctuation, offset: 1115, content: /, id: KR3k0012_krp_528-bkkpn47}
   - {type: punctuation, offset: 1116, content: ), id: KR3k0012_krp_528-bkkpn48}
   - {type: 'kr:newline', offset: 1116, content: '
@@ -403,6 +412,7 @@ markers:
   - {type: line-break, offset: 1176, content: '', id: KR3k0012_SBCK_528-3a02}
   - {type: punctuation, offset: 1193, content: (, id: KR3k0012_krp_528-bkkpn52}
   - {type: variant, offset: 1193, length: 7, content: 杜預注曰戒齋也, WYG: ''}
+  - {type: voice, offset: 1193, length: 7, name: note, id: n10}
   - {type: punctuation, offset: 1197, content: /, id: KR3k0012_krp_528-bkkpn53}
   - {type: punctuation, offset: 1200, content: ), id: KR3k0012_krp_528-bkkpn54}
   - {type: 'kr:newline', offset: 1201, content: '
@@ -415,6 +425,7 @@ markers:
       ', id: KR3k0012_krp_528-bkkkrnewl58}
   - {type: line-break, offset: 1223, content: '', id: KR3k0012_SBCK_528-3a04}
   - {type: punctuation, offset: 1223, content: (, id: KR3k0012_krp_528-bkkpn55}
+  - {type: voice, offset: 1223, length: 4, name: note, id: n11}
   - {type: variant, offset: 1224, length: 1, content: 妭, WYG: 妖}
   - {type: punctuation, offset: 1225, content: /, id: KR3k0012_krp_528-bkkpn56}
   - {type: variant, offset: 1225, length: 1, content: 氣, WYG: 氛}
@@ -446,6 +457,7 @@ markers:
   - {type: line-break, offset: 1276, content: '', id: KR3k0012_SBCK_528-3a07}
   - {type: punctuation, offset: 1277, content: (, id: KR3k0012_krp_528-bkkpn58}
   - {type: variant, offset: 1277, length: 8, content: 郭璞注曰五年大祭, WYG: ''}
+  - {type: voice, offset: 1277, length: 8, name: note, id: n12}
   - {type: punctuation, offset: 1281, content: /, id: KR3k0012_krp_528-bkkpn59}
   - {type: variant, offset: 1284, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 1285, content: ), id: KR3k0012_krp_528-bkkpn60}
@@ -530,10 +542,12 @@ markers:
   - {type: variant, offset: 1497, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 1498, content: (, id: KR3k0012_krp_528-bkkpn61}
   - {type: variant, offset: 1498, length: 4, content: 殷多盛也, WYG: ''}
+  - {type: voice, offset: 1498, length: 4, name: note, id: n13}
   - {type: punctuation, offset: 1500, content: /, id: KR3k0012_krp_528-bkkpn62}
   - {type: punctuation, offset: 1502, content: ), id: KR3k0012_krp_528-bkkpn63}
   - {type: punctuation, offset: 1507, content: (, id: KR3k0012_krp_528-bkkpn64}
   - {type: variant, offset: 1507, length: 55, content: 祫合也合毀廟之主岀而陳列之親廟之主升入大廟功臣又得配享其禮大也禘則各於宫神主不出廟也祭大何以名祫祭卑不敢降尊也, WYG: ''}
+  - {type: voice, offset: 1507, length: 55, name: note, id: n14}
   - {type: punctuation, offset: 1511, content: /, id: KR3k0012_krp_528-bkkpn65}
   - {type: punctuation, offset: 1515, content: ), id: KR3k0012_krp_528-bkkpn66}
   - {type: 'kr:newline', offset: 1515, content: '
@@ -554,6 +568,7 @@ markers:
   - {type: punctuation, offset: 1562, content: ), id: KR3k0012_krp_528-bkkpn72}
   - {type: punctuation, offset: 1571, content: (, id: KR3k0012_krp_528-bkkpn73}
   - {type: variant, offset: 1571, length: 29, content: 經云大事於大廟又云有事於其廟即是禘也此是國之大事時云有事毀, WYG: 毁}
+  - {type: voice, offset: 1571, length: 28, name: note, id: n15}
   - {type: punctuation, offset: 1582, content: /, id: KR3k0012_krp_528-bkkpn74}
   - {type: punctuation, offset: 1593, content: ), id: KR3k0012_krp_528-bkkpn75}
   - {type: 'kr:newline', offset: 1593, content: '
@@ -566,6 +581,7 @@ markers:
   - {type: variant, offset: 1603, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 1604, content: (, id: KR3k0012_krp_528-bkkpn79}
   - {type: variant, offset: 1604, length: 18, content: 時祭月祭皆近廟耳玄孫之子於髙祖親盡也, WYG: ''}
+  - {type: voice, offset: 1604, length: 18, name: note, id: n16}
   - {type: variant, offset: 1605, length: 1, content: 祭, SBCK: 􅀕}
   - {type: variant, offset: 1607, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 1613, content: /, id: KR3k0012_krp_528-bkkpn80}
@@ -578,12 +594,14 @@ markers:
   - {type: punctuation, offset: 1630, content: (, id: KR3k0012_krp_528-bkkpn82}
   - {type: variant, offset: 1630, length: 1, content: 祭, SBCK: 􅀕}
   - {type: variant, offset: 1630, length: 9, content: 祭及逺祖象年再閏也, WYG: ''}
+  - {type: voice, offset: 1630, length: 9, name: note, id: n17}
   - {type: punctuation, offset: 1635, content: /, id: KR3k0012_krp_528-bkkpn83}
   - {type: punctuation, offset: 1639, content: ), id: KR3k0012_krp_528-bkkpn84}
   - {type: page-break, offset: 1643, content: '', id: KR3k0012_WYG_528-5b, image: WYG0897/WYG0897-0687b.png}
   - {type: variant, offset: 1644, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1647, content: (, id: KR3k0012_krp_528-bkkpn85}
   - {type: variant, offset: 1647, length: 8, content: 爲將逓遷徧告之也, WYG: ''}
+  - {type: voice, offset: 1647, length: 8, name: note, id: n18}
   - {type: punctuation, offset: 1651, content: /, id: KR3k0012_krp_528-bkkpn86}
   - {type: punctuation, offset: 1655, content: ), id: KR3k0012_krp_528-bkkpn87}
   - {type: 'kr:newline', offset: 1657, content: '
@@ -592,6 +610,7 @@ markers:
   - {type: line-break, offset: 1657, content: '', id: KR3k0012_SBCK_528-3b12}
   - {type: punctuation, offset: 1662, content: (, id: KR3k0012_krp_528-bkkpn88}
   - {type: variant, offset: 1662, length: 5, content: 祫後二年一, WYG: 經云有事于其廟即是}
+  - {type: voice, offset: 1662, length: 16, name: note, id: n19}
   - {type: variant, offset: 1668, length: 6, content: 禘後三年一祫, WYG: 也國之大事}
   - {type: punctuation, offset: 1670, content: /, id: KR3k0012_krp_528-bkkpn89}
   - {type: variant, offset: 1676, length: 1, content: 爲, WYG: 為}
@@ -634,6 +653,7 @@ markers:
   - {type: variant, offset: 1767, length: 1, content: 歳, WYG: 嵗}
   - {type: punctuation, offset: 1769, content: (, id: KR3k0012_krp_528-bkkpn91}
   - {type: variant, offset: 1769, length: 12, content: 張晏曰去祧爲壇掃地祭之也, WYG: ''}
+  - {type: voice, offset: 1769, length: 12, name: note, id: n20}
   - {type: punctuation, offset: 1775, content: /, id: KR3k0012_krp_528-bkkpn92}
   - {type: variant, offset: 1778, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 1781, content: ), id: KR3k0012_krp_528-bkkpn93}
@@ -643,6 +663,7 @@ markers:
   - {type: line-break, offset: 1781, content: '', id: KR3k0012_SBCK_528-4a05}
   - {type: punctuation, offset: 1786, content: (, id: KR3k0012_krp_528-bkkpn94}
   - {type: variant, offset: 1786, length: 22, content: 服䖍曰夷蠻經王乃入助祭各以珎貢以助大祫之祭也, WYG: ''}
+  - {type: voice, offset: 1786, length: 22, name: note, id: n21}
   - {type: variant, offset: 1796, length: 1, content: 祭, SBCK: 􅀕}
   - {type: punctuation, offset: 1797, content: /, id: KR3k0012_krp_528-bkkpn95}
   - {type: variant, offset: 1806, length: 1, content: 祭, SBCK: 􅀕}
@@ -948,6 +969,7 @@ markers:
   - {type: line-break, offset: 2617, content: '', id: KR3k0012_SBCK_528-5b11}
   - {type: punctuation, offset: 2626, content: (, id: KR3k0012_krp_528-bkkpn97}
   - {type: variant, offset: 2626, length: 3, content: 鄭注曰, WYG: ''}
+  - {type: voice, offset: 2626, length: 16, name: note, id: n22}
   - {type: punctuation, offset: 2634, content: /, id: KR3k0012_krp_528-bkkpn98}
   - {type: variant, offset: 2639, length: 0, content: '', WYG: 伯}
   - {type: punctuation, offset: 2642, content: ), id: KR3k0012_krp_528-bkkpn99}
@@ -1106,4 +1128,4 @@ markers:
 
       ', id: KR3k0012_krp_528-bkkkrnewl162}
   back: []
-hash: sha256:0856fe67a336abec2b46b6510ae4c70d670e868e7c7bbf327e5e81a09a85c4e8
+hash: sha256:20de36a3612560c6d057ca5e24c6c4f71c20c810899c8c8470ef4a60d7c60c77

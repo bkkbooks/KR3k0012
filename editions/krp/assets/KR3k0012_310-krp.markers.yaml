@@ -697,6 +697,7 @@ markers:
   - {type: line-break, offset: 2114, content: '', id: KR3k0012_SBCK_310-5a03}
   - {type: punctuation, offset: 2124, content: (, id: KR3k0012_krp_310-bkkpn1}
   - {type: variant, offset: 2124, length: 5, content: 可得乎孝德, WYG: ''}
+  - {type: voice, offset: 2124, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 2127, content: /, id: KR3k0012_krp_310-bkkpn2}
   - {type: punctuation, offset: 2130, content: ), id: KR3k0012_krp_310-bkkpn3}
   - {type: variant, offset: 2130, length: 4, content: 得光弼問, WYG: ''}
@@ -800,6 +801,7 @@ markers:
   - {type: variant, offset: 2423, length: 1, content: 矅, WYG: 曜}
   - {type: variant, offset: 2430, length: 2, content: 難得, WYG: ''}
   - {type: punctuation, offset: 2432, content: (, id: KR3k0012_krp_310-bkkpn4}
+  - {type: voice, offset: 2432, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 2434, content: /, id: KR3k0012_krp_310-bkkpn5}
   - {type: punctuation, offset: 2436, content: ), id: KR3k0012_krp_310-bkkpn6}
   - {type: 'kr:newline', offset: 2440, content: '
@@ -1095,6 +1097,7 @@ markers:
   - {type: line-break, offset: 3310, content: '', id: KR3k0012_SBCK_310-7a10}
   - {type: variant, offset: 3310, length: 1, content: 抜, WYG: 㧞}
   - {type: punctuation, offset: 3320, content: (, id: KR3k0012_krp_310-bkkpn7}
+  - {type: voice, offset: 3320, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 3322, content: /, id: KR3k0012_krp_310-bkkpn8}
   - {type: variant, offset: 3323, length: 1, content: 傳, SBCK: 􅀓}
   - {type: punctuation, offset: 3324, content: ), id: KR3k0012_krp_310-bkkpn9}
@@ -1103,6 +1106,7 @@ markers:
       ', id: KR3k0012_krp_310-bkkkrnewl177}
   - {type: line-break, offset: 3324, content: '', id: KR3k0012_SBCK_310-7a11}
   - {type: punctuation, offset: 3333, content: (, id: KR3k0012_krp_310-bkkpn10}
+  - {type: voice, offset: 3333, length: 32, name: note, id: n4}
   - {type: punctuation, offset: 3346, content: /, id: KR3k0012_krp_310-bkkpn11}
   - {type: punctuation, offset: 3359, content: ), id: KR3k0012_krp_310-bkkpn12}
   - {type: 'kr:newline', offset: 3359, content: '
@@ -1243,6 +1247,7 @@ markers:
   - {type: line-break, offset: 3701, content: '', id: KR3k0012_SBCK_310-8a06}
   - {type: punctuation, offset: 3703, content: (, id: KR3k0012_krp_310-bkkpn16}
   - {type: variant, offset: 3703, length: 23, content: 魏書曰公所乗馬名絶影爲流矢所中傷及足并中公右臂, WYG: ''}
+  - {type: voice, offset: 3703, length: 23, name: note, id: n5}
   - {type: punctuation, offset: 3715, content: /, id: KR3k0012_krp_310-bkkpn17}
   - {type: punctuation, offset: 3719, content: /, id: KR3k0012_krp_310-bkkpn18}
   - {type: punctuation, offset: 3726, content: ), id: KR3k0012_krp_310-bkkpn19}
@@ -1450,4 +1455,4 @@ markers:
 
       ', id: KR3k0012_krp_310-bkkkrnewl233}
   back: []
-hash: sha256:137636116de83a27abb671eb2b9169ded78628422bd596274073bac05e1babd4
+hash: sha256:ca8ee1cb79e291539fc4b7cc351b3c1681a2c3c9e44d2150a12419b7b60086d0

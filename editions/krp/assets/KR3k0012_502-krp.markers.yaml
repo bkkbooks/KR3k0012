@@ -291,6 +291,7 @@ markers:
   - {type: line-break, offset: 830, content: '', id: KR3k0012_SBCK_502-2b06}
   - {type: variant, offset: 839, length: 11, content: 爲甘露敬曰明府政未能致, WYG: 為}
   - {type: punctuation, offset: 842, content: (, id: KR3k0012_krp_502-bkkpn1}
+  - {type: voice, offset: 842, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 852, content: /, id: KR3k0012_krp_502-bkkpn2}
   - {type: variant, offset: 856, length: 1, content: 辝, WYG: 辭}
   - {type: variant, offset: 859, length: 1, content: 隱, WYG: 隠}
@@ -418,6 +419,7 @@ markers:
       ', id: KR3k0012_krp_502-bkkkrnewl68}
   - {type: line-break, offset: 1220, content: '', id: KR3k0012_SBCK_502-3a13}
   - {type: punctuation, offset: 1225, content: (, id: KR3k0012_krp_502-bkkpn4}
+  - {type: voice, offset: 1225, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 1227, content: /, id: KR3k0012_krp_502-bkkpn5}
   - {type: punctuation, offset: 1228, content: ), id: KR3k0012_krp_502-bkkpn6}
   - {type: variant, offset: 1232, length: 1, content: 逰, WYG: 遊}
@@ -498,6 +500,7 @@ markers:
   - {type: variant, offset: 1459, length: 1, content: 乆, WYG: 久}
   - {type: page-break, offset: 1462, content: '', id: KR3k0012_WYG_502-6a, image: WYG0897/WYG0897-0522c.png}
   - {type: punctuation, offset: 1465, content: (, id: KR3k0012_krp_502-bkkpn7}
+  - {type: voice, offset: 1465, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 1467, content: /, id: KR3k0012_krp_502-bkkpn8}
   - {type: variant, offset: 1468, length: 1, content: 傳, WYG: 𫝊}
   - {type: punctuation, offset: 1469, content: ), id: KR3k0012_krp_502-bkkpn9}
@@ -604,10 +607,12 @@ markers:
   - {type: variant, offset: 1740, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1742, content: (, id: KR3k0012_krp_502-bkkpn13}
   - {type: variant, offset: 1742, length: 2, content: 音甫, WYG: 􅀈}
+  - {type: voice, offset: 1742, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1743, content: /, id: KR3k0012_krp_502-bkkpn14}
   - {type: punctuation, offset: 1744, content: ), id: KR3k0012_krp_502-bkkpn15}
   - {type: punctuation, offset: 1745, content: (, id: KR3k0012_krp_502-bkkpn16}
   - {type: variant, offset: 1745, length: 2, content: 音浮, WYG: 􅀈}
+  - {type: voice, offset: 1745, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 1746, content: /, id: KR3k0012_krp_502-bkkpn17}
   - {type: punctuation, offset: 1747, content: ), id: KR3k0012_krp_502-bkkpn18}
   - {type: variant, offset: 1750, length: 1, content: 鯆, WYG: ''}
@@ -778,6 +783,7 @@ markers:
   - {type: line-break, offset: 2266, content: '', id: KR3k0012_SBCK_502-5a13}
   - {type: variant, offset: 2269, length: 1, content: 琦, SBCK: 􅄾}
   - {type: punctuation, offset: 2270, content: (, id: KR3k0012_krp_502-bkkpn19}
+  - {type: voice, offset: 2270, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2271, content: /, id: KR3k0012_krp_502-bkkpn20}
   - {type: punctuation, offset: 2272, content: ), id: KR3k0012_krp_502-bkkpn21}
   - {type: variant, offset: 2286, length: 1, content: 重, WYG: 量}
@@ -889,4 +895,4 @@ markers:
       ', id: KR3k0012_krp_502-bkkkrnewl141}
   - {type: variant, offset: 2540, length: 0, content: '', WYG: 有竹實數斛自杵而舂籍従之與談太古無為之道五帝三王之義蕭然不經聽乃對之長嘯其音響亮蘇門生莞爾而笑籍既降蘇門生亦嘯若鸞鳯之音焉太平御覽卷五百二}
   back: []
-hash: sha256:081554539cb0ac8c14e5569b25159e25bbb0b9c19eb6b9a14f085ea6359dea6f
+hash: sha256:397d4d53d03ad6c1dff6ca89de795fb375573a1c46d289284f1e0e96fc9b231b

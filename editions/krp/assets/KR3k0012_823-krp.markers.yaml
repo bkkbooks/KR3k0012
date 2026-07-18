@@ -79,6 +79,7 @@ markers:
   - {type: line-break, offset: 60, content: '', id: KR3k0012_SBCK_823-1a11}
   - {type: punctuation, offset: 72, content: (, id: KR3k0012_krp_823-bkkpn1}
   - {type: variant, offset: 72, length: 49, content: 鄭司農云耒謂耜耒庇讀為其顙有庇之庇謂耒下歧玄謂庇讀爲棘刺之刺耒下前曲接耜自其庇縁其外以至於首以弦其, WYG: ''}
+  - {type: voice, offset: 72, length: 36, name: note, id: n1}
   - {type: punctuation, offset: 82, content: /, id: KR3k0012_krp_823-bkkpn2}
   - {type: punctuation, offset: 92, content: ), id: KR3k0012_krp_823-bkkpn3}
   - {type: 'kr:newline', offset: 92, content: '
@@ -97,6 +98,7 @@ markers:
   - {type: variant, offset: 128, length: 1, content: 歩, WYG: 步}
   - {type: punctuation, offset: 132, content: (, id: KR3k0012_krp_823-bkkpn8}
   - {type: variant, offset: 132, length: 32, content: 縁外六尺有六寸内弦六尺應一歩之尺數耕者以田器爲度冝耜異材不在数中, WYG: ''}
+  - {type: voice, offset: 132, length: 32, name: note, id: n2}
   - {type: punctuation, offset: 143, content: /, id: KR3k0012_krp_823-bkkpn9}
   - {type: punctuation, offset: 154, content: ), id: KR3k0012_krp_823-bkkpn10}
   - {type: 'kr:newline', offset: 154, content: '
@@ -122,6 +124,7 @@ markers:
   - {type: variant, offset: 186, length: 1, content: 磬, WYG: 罄}
   - {type: punctuation, offset: 192, content: (, id: KR3k0012_krp_823-bkkpn14}
   - {type: variant, offset: 192, length: 21, content: 中地之耒其庇與直直者如磬折則調矣調則弦六尺, WYG: ''}
+  - {type: voice, offset: 192, length: 21, name: note, id: n3}
   - {type: punctuation, offset: 203, content: /, id: KR3k0012_krp_823-bkkpn15}
   - {type: punctuation, offset: 213, content: ), id: KR3k0012_krp_823-bkkpn16}
   - {type: 'kr:newline', offset: 213, content: '
@@ -132,6 +135,7 @@ markers:
   - {type: variant, offset: 224, length: 1, content: 告, WYG: ''}
   - {type: punctuation, offset: 234, content: (, id: KR3k0012_krp_823-bkkpn17}
   - {type: variant, offset: 234, length: 2, content: 事脩, WYG: 修}
+  - {type: voice, offset: 234, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 235, content: /, id: KR3k0012_krp_823-bkkpn18}
   - {type: punctuation, offset: 236, content: ), id: KR3k0012_krp_823-bkkpn19}
   - {type: 'kr:newline', offset: 236, content: '
@@ -140,6 +144,7 @@ markers:
   - {type: line-break, offset: 236, content: '', id: KR3k0012_SBCK_823-1b04}
   - {type: variant, offset: 239, length: 25, content: 田器氷旣入而令有司告人出五榖之種明大寒氣過農將興修, WYG: ''}
   - {type: punctuation, offset: 241, content: (, id: KR3k0012_krp_823-bkkpn20}
+  - {type: voice, offset: 241, length: 25, name: note, id: n5}
   - {type: punctuation, offset: 254, content: /, id: KR3k0012_krp_823-bkkpn21}
   - {type: punctuation, offset: 266, content: ), id: KR3k0012_krp_823-bkkpn22}
   - {type: 'kr:newline', offset: 266, content: '
@@ -191,6 +196,7 @@ markers:
   - {type: line-break, offset: 396, content: '', id: KR3k0012_SBCK_823-1b13}
   - {type: variant, offset: 405, length: 1, content: 於, WYG: 于}
   - {type: punctuation, offset: 408, content: (, id: KR3k0012_krp_823-bkkpn23}
+  - {type: voice, offset: 408, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 410, content: /, id: KR3k0012_krp_823-bkkpn24}
   - {type: punctuation, offset: 412, content: ), id: KR3k0012_krp_823-bkkpn25}
   - {type: 'kr:newline', offset: 412, content: '
@@ -214,6 +220,7 @@ markers:
   - {type: variant, offset: 434, length: 1, content: 服, WYG: 耒}
   - {type: punctuation, offset: 443, content: (, id: KR3k0012_krp_823-bkkpn26}
   - {type: variant, offset: 443, length: 21, content: 季猶稺也服與耜冝用穉材尚柔刃也服此服車之材, WYG: ''}
+  - {type: voice, offset: 443, length: 21, name: note, id: n7}
   - {type: punctuation, offset: 447, content: /, id: KR3k0012_krp_823-bkkpn27}
   - {type: punctuation, offset: 451, content: ), id: KR3k0012_krp_823-bkkpn28}
   - {type: 'kr:newline', offset: 451, content: '
@@ -237,6 +244,7 @@ markers:
   - {type: variant, offset: 493, length: 1, content: 至, WYG: ''}
   - {type: variant, offset: 496, length: 49, content: 之鄭玄謂萌之者以兹其斫其生者夷之以鈎鎌迫地芟之也若今取茭矣含實曰䋲芟其䋲則實不成熟耜之以耜測凍士剗, WYG: ''}
   - {type: punctuation, offset: 497, content: (, id: KR3k0012_krp_823-bkkpn32}
+  - {type: voice, offset: 497, length: 49, name: note, id: n8}
   - {type: punctuation, offset: 508, content: /, id: KR3k0012_krp_823-bkkpn33}
   - {type: punctuation, offset: 519, content: ), id: KR3k0012_krp_823-bkkpn34}
   - {type: 'kr:newline', offset: 519, content: '
@@ -252,6 +260,7 @@ markers:
   - {type: line-break, offset: 546, content: '', id: KR3k0012_SBCK_823-2a08}
   - {type: variant, offset: 560, length: 5, content: 耕也無以入, WYG: 耨}
   - {type: punctuation, offset: 562, content: (, id: KR3k0012_krp_823-bkkpn38}
+  - {type: voice, offset: 562, length: 4, name: note, id: n9}
   - {type: punctuation, offset: 564, content: /, id: KR3k0012_krp_823-bkkpn39}
   - {type: punctuation, offset: 566, content: ), id: KR3k0012_krp_823-bkkpn40}
   - {type: 'kr:newline', offset: 566, content: '
@@ -265,6 +274,7 @@ markers:
   - {type: variant, offset: 588, length: 1, content: 畝, SBCK: 􅅿}
   - {type: punctuation, offset: 593, content: (, id: KR3k0012_krp_823-bkkpn41}
   - {type: variant, offset: 593, length: 33, content: 三之日夏正月也豳士晚寒于耜始脩耒耜也四之日周四月也民無不舉足而耕矣, WYG: ''}
+  - {type: voice, offset: 593, length: 33, name: note, id: n10}
   - {type: punctuation, offset: 610, content: /, id: KR3k0012_krp_823-bkkpn42}
   - {type: punctuation, offset: 626, content: ), id: KR3k0012_krp_823-bkkpn43}
   - {type: 'kr:newline', offset: 626, content: '
@@ -275,6 +285,7 @@ markers:
   - {type: variant, offset: 639, length: 1, content: 畝, SBCK: 􅅿}
   - {type: punctuation, offset: 640, content: (, id: KR3k0012_krp_823-bkkpn44}
   - {type: variant, offset: 640, length: 22, content: 覃利也時至民以其利耜熾菑發所受之地趨農巳急也, WYG: ''}
+  - {type: voice, offset: 640, length: 22, name: note, id: n11}
   - {type: punctuation, offset: 648, content: /, id: KR3k0012_krp_823-bkkpn45}
   - {type: punctuation, offset: 656, content: ), id: KR3k0012_krp_823-bkkpn46}
   - {type: 'kr:newline', offset: 656, content: '
@@ -301,6 +312,7 @@ markers:
   - {type: line-break, offset: 684, content: '', id: KR3k0012_SBCK_823-2b01}
   - {type: punctuation, offset: 689, content: (, id: KR3k0012_krp_823-bkkpn50}
   - {type: variant, offset: 689, length: 42, content: 畟畟猶測測也箋云良善也農人測測以利善之耜熾菑是南畝也種此百穀其種皆成好含生氣言得其時, WYG: ''}
+  - {type: voice, offset: 689, length: 42, name: note, id: n12}
   - {type: punctuation, offset: 706, content: /, id: KR3k0012_krp_823-bkkpn51}
   - {type: variant, offset: 713, length: 1, content: 畝, SBCK: 􅅿}
   - {type: punctuation, offset: 723, content: ), id: KR3k0012_krp_823-bkkpn52}
@@ -374,6 +386,7 @@ markers:
   - {type: variant, offset: 886, length: 1, content: 人, WYG: ''}
   - {type: punctuation, offset: 892, content: (, id: KR3k0012_krp_823-bkkpn56}
   - {type: variant, offset: 892, length: 11, content: 言常用入士曰耜耜柄曰耒, WYG: ''}
+  - {type: voice, offset: 892, length: 11, name: note, id: n13}
   - {type: punctuation, offset: 898, content: /, id: KR3k0012_krp_823-bkkpn57}
   - {type: punctuation, offset: 903, content: ), id: KR3k0012_krp_823-bkkpn58}
   - {type: variant, offset: 906, length: 7, content: 草皆墾辟與深也, WYG: 革}
@@ -382,6 +395,7 @@ markers:
       ', id: KR3k0012_krp_823-bkkkrnewl53}
   - {type: line-break, offset: 907, content: '', id: KR3k0012_SBCK_823-2b13}
   - {type: punctuation, offset: 907, content: (, id: KR3k0012_krp_823-bkkpn59}
+  - {type: voice, offset: 907, length: 6, name: note, id: n14}
   - {type: punctuation, offset: 910, content: /, id: KR3k0012_krp_823-bkkpn60}
   - {type: punctuation, offset: 913, content: ), id: KR3k0012_krp_823-bkkpn61}
   - {type: 'kr:newline', offset: 913, content: '
@@ -398,6 +412,7 @@ markers:
   - {type: variant, offset: 927, length: 1, content: 博, WYG: 下}
   - {type: variant, offset: 933, length: 14, content: 畎髙誘注曰六尺爲畝三尺爲畎犂, WYG: 畆犁}
   - {type: punctuation, offset: 934, content: (, id: KR3k0012_krp_823-bkkpn62}
+  - {type: voice, offset: 934, length: 12, name: note, id: n15}
   - {type: punctuation, offset: 935, content: /, id: KR3k0012_krp_823-bkkpn63}
   - {type: punctuation, offset: 936, content: ), id: KR3k0012_krp_823-bkkpn64}
   - {type: 'kr:newline', offset: 936, content: '
@@ -577,6 +592,7 @@ markers:
   - {type: variant, offset: 1328, length: 1, content: 斂, WYG: 歛}
   - {type: punctuation, offset: 1332, content: (, id: KR3k0012_krp_823-bkkpn68}
   - {type: variant, offset: 1332, length: 4, content: 考工記日, WYG: 又冬官曰匿人為溝洫}
+  - {type: voice, offset: 1332, length: 42, name: note, id: n16}
   - {type: punctuation, offset: 1336, content: /, id: KR3k0012_krp_823-bkkpn69}
   - {type: punctuation, offset: 1340, content: ), id: KR3k0012_krp_823-bkkpn70}
   - {type: 'kr:newline', offset: 1340, content: '
@@ -596,6 +612,7 @@ markers:
       ', id: KR3k0012_krp_823-bkkkrnewl84}
   - {type: line-break, offset: 1374, content: '', id: KR3k0012_SBCK_823-4a02}
   - {type: punctuation, offset: 1383, content: (, id: KR3k0012_krp_823-bkkpn74}
+  - {type: voice, offset: 1383, length: 8, name: note, id: n17}
   - {type: punctuation, offset: 1387, content: /, id: KR3k0012_krp_823-bkkpn75}
   - {type: punctuation, offset: 1391, content: ), id: KR3k0012_krp_823-bkkpn76}
   - {type: 'kr:newline', offset: 1400, content: '
@@ -610,6 +627,7 @@ markers:
   - {type: line-break, offset: 1422, content: '', id: KR3k0012_SBCK_823-4a04}
   - {type: punctuation, offset: 1423, content: (, id: KR3k0012_krp_823-bkkpn77}
   - {type: variant, offset: 1423, length: 39, content: 古者耜一金兩人併發之其壟中曰􅍒畎上日伐伐之言發也􅍒畎也今之耜岐頭兩金象古之耦也, WYG: ''}
+  - {type: voice, offset: 1423, length: 39, name: note, id: n18}
   - {type: punctuation, offset: 1443, content: /, id: KR3k0012_krp_823-bkkpn78}
   - {type: variant, offset: 1448, length: 1, content: 畎, SBCK: 􅅵}
   - {type: punctuation, offset: 1462, content: ), id: KR3k0012_krp_823-bkkpn79}
@@ -620,6 +638,7 @@ markers:
   - {type: variant, offset: 1481, length: 1, content: 維, WYG: 為}
   - {type: punctuation, offset: 1483, content: (, id: KR3k0012_krp_823-bkkpn80}
   - {type: variant, offset: 1483, length: 48, content: 私民田也言上欲冨其民而讓於下欲民之大發其私田耳終三十里言各極其望也於是民大事耕其私田萬耦同時舉也, WYG: ''}
+  - {type: voice, offset: 1483, length: 48, name: note, id: n19}
   - {type: punctuation, offset: 1484, content: /, id: KR3k0012_krp_823-bkkpn81}
   - {type: punctuation, offset: 1485, content: ), id: KR3k0012_krp_823-bkkpn82}
   - {type: 'kr:newline', offset: 1485, content: '
@@ -645,6 +664,7 @@ markers:
   - {type: variant, offset: 1534, length: 1, content: 呉, WYG: 吴}
   - {type: punctuation, offset: 1544, content: (, id: KR3k0012_krp_823-bkkpn89}
   - {type: variant, offset: 1544, length: 4, content: 誶吉讓也, WYG: ''}
+  - {type: voice, offset: 1544, length: 4, name: note, id: n20}
   - {type: variant, offset: 1545, length: 1, content: 吉, SBCK: 􅁻}
   - {type: punctuation, offset: 1546, content: /, id: KR3k0012_krp_823-bkkpn90}
   - {type: punctuation, offset: 1548, content: ), id: KR3k0012_krp_823-bkkpn91}
@@ -655,6 +675,7 @@ markers:
   - {type: variant, offset: 1557, length: 1, content: 逹, WYG: 達}
   - {type: punctuation, offset: 1561, content: (, id: KR3k0012_krp_823-bkkpn92}
   - {type: variant, offset: 1561, length: 8, content: 先王闔廬上帝天也, WYG: ''}
+  - {type: voice, offset: 1561, length: 8, name: note, id: n21}
   - {type: punctuation, offset: 1565, content: /, id: KR3k0012_krp_823-bkkpn93}
   - {type: punctuation, offset: 1569, content: ), id: KR3k0012_krp_823-bkkpn94}
   - {type: 'kr:newline', offset: 1581, content: '
@@ -663,6 +684,7 @@ markers:
   - {type: line-break, offset: 1581, content: '', id: KR3k0012_SBCK_823-4a10}
   - {type: punctuation, offset: 1583, content: (, id: KR3k0012_krp_823-bkkpn95}
   - {type: variant, offset: 1583, length: 17, content: 爲言子胥佐先王猶耕者之有耦以成其事, WYG: ''}
+  - {type: voice, offset: 1583, length: 17, name: note, id: n22}
   - {type: punctuation, offset: 1592, content: /, id: KR3k0012_krp_823-bkkpn96}
   - {type: punctuation, offset: 1600, content: ), id: KR3k0012_krp_823-bkkpn97}
   - {type: 'kr:newline', offset: 1600, content: '
@@ -700,6 +722,7 @@ markers:
   - {type: variant, offset: 1669, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1675, content: (, id: KR3k0012_krp_823-bkkpn98}
   - {type: variant, offset: 1675, length: 8, content: 舊說云首種謂稷也, WYG: ''}
+  - {type: voice, offset: 1675, length: 8, name: note, id: n23}
   - {type: punctuation, offset: 1678, content: /, id: KR3k0012_krp_823-bkkpn99}
   - {type: punctuation, offset: 1681, content: ), id: KR3k0012_krp_823-bkkpn100}
   - {type: 'kr:newline', offset: 1681, content: '
@@ -724,6 +747,7 @@ markers:
   - {type: variant, offset: 1711, length: 1, content: 弗, WYG: 勿}
   - {type: variant, offset: 1713, length: 6, content: 也嘉穀無由生, WYG: ''}
   - {type: punctuation, offset: 1714, content: (, id: KR3k0012_krp_823-bkkpn104}
+  - {type: voice, offset: 1714, length: 6, name: note, id: n24}
   - {type: punctuation, offset: 1717, content: /, id: KR3k0012_krp_823-bkkpn105}
   - {type: punctuation, offset: 1720, content: ), id: KR3k0012_krp_823-bkkpn106}
   - {type: 'kr:newline', offset: 1720, content: '
@@ -732,6 +756,7 @@ markers:
   - {type: line-break, offset: 1720, content: '', id: KR3k0012_SBCK_823-4b07}
   - {type: punctuation, offset: 1731, content: (, id: KR3k0012_krp_823-bkkpn107}
   - {type: variant, offset: 1731, length: 13, content: 種曰稼斂曰穡土可以耕可以歛, WYG: ''}
+  - {type: voice, offset: 1731, length: 13, name: note, id: n25}
   - {type: punctuation, offset: 1738, content: /, id: KR3k0012_krp_823-bkkpn108}
   - {type: punctuation, offset: 1744, content: ), id: KR3k0012_krp_823-bkkpn109}
   - {type: 'kr:newline', offset: 1748, content: '
@@ -740,6 +765,7 @@ markers:
   - {type: line-break, offset: 1748, content: '', id: KR3k0012_SBCK_823-4b08}
   - {type: punctuation, offset: 1748, content: (, id: KR3k0012_krp_823-bkkpn110}
   - {type: variant, offset: 1748, length: 6, content: 甘味生於百穀, WYG: ''}
+  - {type: voice, offset: 1748, length: 6, name: note, id: n26}
   - {type: punctuation, offset: 1751, content: /, id: KR3k0012_krp_823-bkkpn111}
   - {type: punctuation, offset: 1754, content: ), id: KR3k0012_krp_823-bkkpn112}
   - {type: 'kr:newline', offset: 1754, content: '
@@ -754,6 +780,7 @@ markers:
   - {type: line-break, offset: 1776, content: '', id: KR3k0012_SBCK_823-4b10}
   - {type: punctuation, offset: 1777, content: (, id: KR3k0012_krp_823-bkkpn113}
   - {type: variant, offset: 1777, length: 32, content: 今徃當使妺土之人繼汝股肱之教爲純一之行其當勤種黍稷奔走土其父兄也, WYG: ''}
+  - {type: voice, offset: 1777, length: 32, name: note, id: n27}
   - {type: punctuation, offset: 1793, content: /, id: KR3k0012_krp_823-bkkpn114}
   - {type: variant, offset: 1800, length: 1, content: 黍, SBCK: 􅁰}
   - {type: punctuation, offset: 1809, content: ), id: KR3k0012_krp_823-bkkpn115}
@@ -763,6 +790,7 @@ markers:
   - {type: line-break, offset: 1809, content: '', id: KR3k0012_SBCK_823-4b11}
   - {type: punctuation, offset: 1823, content: (, id: KR3k0012_krp_823-bkkpn116}
   - {type: variant, offset: 1823, length: 6, content: 鳥朱鳥謂鶉火, WYG: ''}
+  - {type: voice, offset: 1823, length: 6, name: note, id: n28}
   - {type: punctuation, offset: 1826, content: /, id: KR3k0012_krp_823-bkkpn117}
   - {type: punctuation, offset: 1829, content: ), id: KR3k0012_krp_823-bkkpn118}
   - {type: 'kr:newline', offset: 1834, content: '
@@ -772,6 +800,7 @@ markers:
   - {type: variant, offset: 1836, length: 1, content: 黍, SBCK: 􅁰}
   - {type: punctuation, offset: 1838, content: (, id: KR3k0012_krp_823-bkkpn119}
   - {type: variant, offset: 1838, length: 4, content: 火大火也, WYG: ''}
+  - {type: voice, offset: 1838, length: 4, name: note, id: n29}
   - {type: punctuation, offset: 1840, content: /, id: KR3k0012_krp_823-bkkpn120}
   - {type: punctuation, offset: 1842, content: ), id: KR3k0012_krp_823-bkkpn121}
   - {type: 'kr:newline', offset: 1842, content: '
@@ -856,6 +885,7 @@ markers:
   - {type: line-break, offset: 2026, content: '', id: KR3k0012_SBCK_823-5a11}
   - {type: punctuation, offset: 2042, content: (, id: KR3k0012_krp_823-bkkpn122}
   - {type: variant, offset: 2042, length: 14, content: 如淳言藝丈志有液湯經其義未聞, WYG: ''}
+  - {type: voice, offset: 2042, length: 14, name: note, id: n30}
   - {type: punctuation, offset: 2048, content: /, id: KR3k0012_krp_823-bkkpn123}
   - {type: punctuation, offset: 2054, content: ), id: KR3k0012_krp_823-bkkpn124}
   - {type: 'kr:newline', offset: 2054, content: '
@@ -871,10 +901,12 @@ markers:
   - {type: line-break, offset: 2056, content: '', id: KR3k0012_SBCK_823-5a13}
   - {type: variant, offset: 2058, length: 1, content: 五, WYG: ''}
   - {type: punctuation, offset: 2064, content: (, id: KR3k0012_krp_823-bkkpn128}
+  - {type: voice, offset: 2064, length: 6, name: note, id: n31}
   - {type: variant, offset: 2065, length: 1, content: 日, WYG: 曰}
   - {type: punctuation, offset: 2067, content: /, id: KR3k0012_krp_823-bkkpn129}
   - {type: punctuation, offset: 2070, content: ), id: KR3k0012_krp_823-bkkpn130}
   - {type: punctuation, offset: 2074, content: (, id: KR3k0012_krp_823-bkkpn131}
+  - {type: voice, offset: 2074, length: 4, name: note, id: n32}
   - {type: variant, offset: 2075, length: 1, content: 音, WYG: 者}
   - {type: punctuation, offset: 2076, content: /, id: KR3k0012_krp_823-bkkpn132}
   - {type: variant, offset: 2076, length: 1, content: 煑, WYG: 煮}
@@ -953,6 +985,7 @@ markers:
   - {type: line-break, offset: 2267, content: '', id: KR3k0012_SBCK_823-5b12}
   - {type: punctuation, offset: 2283, content: (, id: KR3k0012_krp_823-bkkpn134}
   - {type: variant, offset: 2283, length: 8, content: 疇壟也梁或作潦也, WYG: ''}
+  - {type: voice, offset: 2283, length: 8, name: note, id: n33}
   - {type: punctuation, offset: 2287, content: /, id: KR3k0012_krp_823-bkkpn135}
   - {type: punctuation, offset: 2291, content: ), id: KR3k0012_krp_823-bkkpn136}
   - {type: 'kr:newline', offset: 2293, content: '
@@ -974,6 +1007,7 @@ markers:
   - {type: variant, offset: 2312, length: 1, content: 糓, SBCK: 􅂖}
   - {type: variant, offset: 2312, length: 1, content: 糓, WYG: 榖}
   - {type: punctuation, offset: 2313, content: (, id: KR3k0012_krp_823-bkkpn137}
+  - {type: voice, offset: 2313, length: 15, name: note, id: n34}
   - {type: variant, offset: 2315, length: 1, content: 昬, WYG: 昏}
   - {type: variant, offset: 2317, length: 1, content: 􅓡, WYG: 孤}
   - {type: punctuation, offset: 2321, content: /, id: KR3k0012_krp_823-bkkpn138}
@@ -986,11 +1020,13 @@ markers:
   - {type: line-break, offset: 2333, content: '', id: KR3k0012_SBCK_823-6a02}
   - {type: variant, offset: 2333, length: 1, content: 黍, SBCK: 􅁰}
   - {type: punctuation, offset: 2335, content: (, id: KR3k0012_krp_823-bkkpn140}
+  - {type: voice, offset: 2335, length: 19, name: note, id: n35}
   - {type: variant, offset: 2342, length: 1, content: 宿, SBCK: 􅀫}
   - {type: punctuation, offset: 2345, content: /, id: KR3k0012_krp_823-bkkpn141}
   - {type: variant, offset: 2351, length: 4, content: 菽豆也虚, WYG: 虛}
   - {type: punctuation, offset: 2354, content: ), id: KR3k0012_krp_823-bkkpn142}
   - {type: punctuation, offset: 2360, content: (, id: KR3k0012_krp_823-bkkpn143}
+  - {type: voice, offset: 2360, length: 16, name: note, id: n36}
   - {type: variant, offset: 2362, length: 1, content: 玄, WYG: 𤣥}
   - {type: punctuation, offset: 2364, content: /, id: KR3k0012_krp_823-bkkpn144}
   - {type: variant, offset: 2365, length: 1, content: 宿, SBCK: 􅀫}
@@ -1015,6 +1051,7 @@ markers:
   - {type: line-break, offset: 2398, content: '', id: KR3k0012_SBCK_823-6a05}
   - {type: punctuation, offset: 2400, content: (, id: KR3k0012_krp_823-bkkpn149}
   - {type: variant, offset: 2400, length: 2, content: 患害, WYG: ''}
+  - {type: voice, offset: 2400, length: 2, name: note, id: n37}
   - {type: punctuation, offset: 2401, content: /, id: KR3k0012_krp_823-bkkpn150}
   - {type: punctuation, offset: 2402, content: ), id: KR3k0012_krp_823-bkkpn151}
   - {type: variant, offset: 2412, length: 1, content: 穀, WYG: 榖}
@@ -1299,6 +1336,7 @@ markers:
   - {type: variant, offset: 3191, length: 1, content: 傳, WYG: 𫝊}
   - {type: variant, offset: 3208, length: 7, content: 蓘穮耘也壅苗爲, WYG: ''}
   - {type: punctuation, offset: 3209, content: (, id: KR3k0012_krp_823-bkkpn152}
+  - {type: voice, offset: 3209, length: 7, name: note, id: n38}
   - {type: punctuation, offset: 3212, content: /, id: KR3k0012_krp_823-bkkpn153}
   - {type: punctuation, offset: 3215, content: ), id: KR3k0012_krp_823-bkkpn154}
   - {type: 'kr:newline', offset: 3215, content: '
@@ -1326,6 +1364,7 @@ markers:
   - {type: line-break, offset: 3249, content: '', id: KR3k0012_SBCK_823-8a01}
   - {type: punctuation, offset: 3264, content: (, id: KR3k0012_krp_823-bkkpn157}
   - {type: variant, offset: 3264, length: 10, content: 色曰丈夫老人也蓧竹器, WYG: ''}
+  - {type: voice, offset: 3264, length: 10, name: note, id: n39}
   - {type: punctuation, offset: 3269, content: /, id: KR3k0012_krp_823-bkkpn158}
   - {type: punctuation, offset: 3274, content: ), id: KR3k0012_krp_823-bkkpn159}
   - {type: 'kr:newline', offset: 3274, content: '
@@ -1340,10 +1379,12 @@ markers:
   - {type: line-break, offset: 3296, content: '', id: KR3k0012_SBCK_823-8a03}
   - {type: punctuation, offset: 3298, content: (, id: KR3k0012_krp_823-bkkpn160}
   - {type: variant, offset: 3298, length: 24, content: 包曰夫丈人云不勤勞四體不分殖五榖誰爲夫子而索之邪, WYG: ''}
+  - {type: voice, offset: 3298, length: 24, name: note, id: n40}
   - {type: punctuation, offset: 3310, content: /, id: KR3k0012_krp_823-bkkpn161}
   - {type: punctuation, offset: 3322, content: ), id: KR3k0012_krp_823-bkkpn162}
   - {type: punctuation, offset: 3327, content: (, id: KR3k0012_krp_823-bkkpn163}
   - {type: variant, offset: 3327, length: 9, content: 孔曰植倚也除草曰芸, WYG: ''}
+  - {type: voice, offset: 3327, length: 9, name: note, id: n41}
   - {type: punctuation, offset: 3330, content: /, id: KR3k0012_krp_823-bkkpn164}
   - {type: variant, offset: 3330, length: 1, content: 倚, SBCK: 􅀝}
   - {type: punctuation, offset: 3333, content: ), id: KR3k0012_krp_823-bkkpn165}
@@ -1469,6 +1510,7 @@ markers:
   - {type: variant, offset: 3621, length: 1, content: 初, WYG: ''}
   - {type: punctuation, offset: 3635, content: (, id: KR3k0012_krp_823-bkkpn169}
   - {type: variant, offset: 3635, length: 1, content: 曰, WYG: 臼}
+  - {type: voice, offset: 3635, length: 15, name: note, id: n42}
   - {type: punctuation, offset: 3637, content: /, id: KR3k0012_krp_823-bkkpn170}
   - {type: punctuation, offset: 3639, content: ), id: KR3k0012_krp_823-bkkpn171}
   - {type: 'kr:newline', offset: 3639, content: '
@@ -1494,6 +1536,7 @@ markers:
   - {type: line-break, offset: 3681, content: '', id: KR3k0012_SBCK_823-8b13}
   - {type: punctuation, offset: 3689, content: (, id: KR3k0012_krp_823-bkkpn175}
   - {type: variant, offset: 3689, length: 3, content: 郭璞曰, WYG: ''}
+  - {type: voice, offset: 3689, length: 45, name: note, id: n43}
   - {type: variant, offset: 3693, length: 2, content: 屬也, WYG: 属}
   - {type: variant, offset: 3696, length: 1, content: 爲, WYG: 為}
   - {type: variant, offset: 3697, length: 1, content: 舎, WYG: 舍}
@@ -1532,6 +1575,7 @@ markers:
       ', id: KR3k0012_krp_823-bkkkrnewl226}
   - {type: line-break, offset: 3777, content: '', id: KR3k0012_SBCK_823-9a04}
   - {type: punctuation, offset: 3789, content: (, id: KR3k0012_krp_823-bkkpn181}
+  - {type: voice, offset: 3789, length: 12, name: note, id: n44}
   - {type: punctuation, offset: 3795, content: /, id: KR3k0012_krp_823-bkkpn182}
   - {type: variant, offset: 3797, length: 1, content: 耨, WYG: 耕}
   - {type: punctuation, offset: 3801, content: ), id: KR3k0012_krp_823-bkkpn183}
@@ -1542,6 +1586,7 @@ markers:
   - {type: variant, offset: 3805, length: 1, content: 稻, WYG: 稲}
   - {type: punctuation, offset: 3819, content: (, id: KR3k0012_krp_823-bkkpn184}
   - {type: variant, offset: 3819, length: 2, content: 茢稈, WYG: ''}
+  - {type: voice, offset: 3819, length: 2, name: note, id: n45}
   - {type: punctuation, offset: 3820, content: /, id: KR3k0012_krp_823-bkkpn185}
   - {type: punctuation, offset: 3821, content: ), id: KR3k0012_krp_823-bkkpn186}
   - {type: 'kr:newline', offset: 3821, content: '
@@ -1564,6 +1609,7 @@ markers:
       ', id: KR3k0012_krp_823-bkkkrnewl230}
   - {type: line-break, offset: 3863, content: '', id: KR3k0012_SBCK_823-9a08}
   - {type: punctuation, offset: 3868, content: (, id: KR3k0012_krp_823-bkkpn187}
+  - {type: voice, offset: 3868, length: 4, name: note, id: n46}
   - {type: punctuation, offset: 3870, content: /, id: KR3k0012_krp_823-bkkpn188}
   - {type: punctuation, offset: 3872, content: ), id: KR3k0012_krp_823-bkkpn189}
   - {type: 'kr:newline', offset: 3887, content: '
@@ -1602,6 +1648,7 @@ markers:
   - {type: variant, offset: 3951, length: 1, content: 屬, WYG: 属}
   - {type: variant, offset: 3956, length: 9, content: 士夷鉏類也屬欘钁類, WYG: 土}
   - {type: punctuation, offset: 3957, content: (, id: KR3k0012_krp_823-bkkpn190}
+  - {type: voice, offset: 3957, length: 8, name: note, id: n47}
   - {type: variant, offset: 3959, length: 1, content: 類, SBCK: 􅁼}
   - {type: punctuation, offset: 3961, content: /, id: KR3k0012_krp_823-bkkpn191}
   - {type: variant, offset: 3964, length: 1, content: 類, SBCK: 􅀋}
@@ -1623,6 +1670,7 @@ markers:
   - {type: line-break, offset: 4001, content: '', id: KR3k0012_SBCK_823-9b04}
   - {type: punctuation, offset: 4003, content: (, id: KR3k0012_krp_823-bkkpn193}
   - {type: variant, offset: 4003, length: 4, content: 兹基田器, WYG: ''}
+  - {type: voice, offset: 4003, length: 4, name: note, id: n48}
   - {type: punctuation, offset: 4005, content: /, id: KR3k0012_krp_823-bkkpn194}
   - {type: punctuation, offset: 4007, content: ), id: KR3k0012_krp_823-bkkpn195}
   - {type: 'kr:newline', offset: 4007, content: '
@@ -1676,6 +1724,7 @@ markers:
   - {type: line-break, offset: 4106, content: '', id: KR3k0012_SBCK_823-9b13}
   - {type: punctuation, offset: 4113, content: (, id: KR3k0012_krp_823-bkkpn196}
   - {type: variant, offset: 4113, length: 10, content: 綦文曰江湖以銍爲刈也, WYG: ''}
+  - {type: voice, offset: 4113, length: 10, name: note, id: n49}
   - {type: punctuation, offset: 4118, content: /, id: KR3k0012_krp_823-bkkpn197}
   - {type: punctuation, offset: 4123, content: ), id: KR3k0012_krp_823-bkkpn198}
   - {type: 'kr:newline', offset: 4123, content: '
@@ -1689,6 +1738,7 @@ markers:
   - {type: page-break, offset: 4123, content: '', id: KR3k0012_WYG_823-15a, image: WYG0900/WYG0900-0294c.png}
   - {type: punctuation, offset: 4133, content: (, id: KR3k0012_krp_823-bkkpn199}
   - {type: variant, offset: 4133, length: 6, content: 銍刈謂禾穗也, WYG: ''}
+  - {type: voice, offset: 4133, length: 6, name: note, id: n50}
   - {type: punctuation, offset: 4136, content: /, id: KR3k0012_krp_823-bkkpn200}
   - {type: punctuation, offset: 4139, content: ), id: KR3k0012_krp_823-bkkpn201}
   - {type: 'kr:newline', offset: 4139, content: '
@@ -1756,6 +1806,7 @@ markers:
   - {type: variant, offset: 4244, length: 1, content: 鏄, WYG: 鎛}
   - {type: punctuation, offset: 4249, content: (, id: KR3k0012_krp_823-bkkpn202}
   - {type: variant, offset: 4249, length: 31, content: 庤其錢銚鑄銍穫也箋云奄觀多也教我庶民具女田器終乆必多銍艾觀之也, WYG: ''}
+  - {type: voice, offset: 4249, length: 31, name: note, id: n51}
   - {type: punctuation, offset: 4253, content: /, id: KR3k0012_krp_823-bkkpn203}
   - {type: punctuation, offset: 4257, content: ), id: KR3k0012_krp_823-bkkpn204}
   - {type: 'kr:newline', offset: 4257, content: '
@@ -1781,4 +1832,4 @@ markers:
 
       ', id: KR3k0012_krp_823-bkkkrnewl267}
   back: []
-hash: sha256:45f9e0af85b691e85fb34428384819bd97a72ff5633bb75a744f3b2b0b43ff66
+hash: sha256:9510090bccd036f059b8bdff57ebbb45cfefc1fbcd8104808e7ac4895ce7b945

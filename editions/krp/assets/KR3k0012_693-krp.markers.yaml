@@ -56,6 +56,7 @@ markers:
   - {type: variant, offset: 32, length: 1, content: 𫀆, SBCK: 􅂁}
   - {type: variant, offset: 32, length: 1, content: 𫀆, WYG: 袍}
   - {type: punctuation, offset: 33, content: (, id: KR3k0012_krp_693-bkkpn1}
+  - {type: voice, offset: 33, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 36, content: /, id: KR3k0012_krp_693-bkkpn2}
   - {type: punctuation, offset: 39, content: ), id: KR3k0012_krp_693-bkkpn3}
   - {type: 'kr:newline', offset: 39, content: '
@@ -747,6 +748,7 @@ markers:
   - {type: punctuation, offset: 1529, content: (, id: KR3k0012_krp_693-bkkpn4}
   - {type: variant, offset: 1529, length: 1, content: 褐, SBCK: 􅄄}
   - {type: variant, offset: 1529, length: 4, content: 褐毛布也, WYG: ''}
+  - {type: voice, offset: 1529, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1531, content: /, id: KR3k0012_krp_693-bkkpn5}
   - {type: punctuation, offset: 1533, content: ), id: KR3k0012_krp_693-bkkpn6}
   - {type: 'kr:newline', offset: 1533, content: '
@@ -772,6 +774,7 @@ markers:
   - {type: variant, offset: 1579, length: 1, content: 若, SBCK: 􅀂}
   - {type: variant, offset: 1588, length: 1, content: 乎, WYG: ''}
   - {type: punctuation, offset: 1590, content: (, id: KR3k0012_krp_693-bkkpn7}
+  - {type: voice, offset: 1590, length: 33, name: note, id: n3}
   - {type: variant, offset: 1595, length: 1, content: 粮, WYG: 糧}
   - {type: variant, offset: 1596, length: 1, content: 牧, WYG: 故}
   - {type: variant, offset: 1597, length: 1, content: 爲, WYG: 為}
@@ -1243,6 +1246,7 @@ markers:
   - {type: variant, offset: 2706, length: 1, content: 䄖, WYG: 褕}
   - {type: variant, offset: 2714, length: 4, content: 容常容反, WYG: 褣}
   - {type: punctuation, offset: 2715, content: (, id: KR3k0012_krp_693-bkkpn13}
+  - {type: voice, offset: 2715, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 2717, content: /, id: KR3k0012_krp_693-bkkpn14}
   - {type: punctuation, offset: 2718, content: ), id: KR3k0012_krp_693-bkkpn15}
   - {type: variant, offset: 2719, length: 1, content: 關, SBCK: 􅀜}
@@ -1398,4 +1402,4 @@ markers:
 
       ', id: KR3k0012_krp_693-bkkkrnewl195}
   back: []
-hash: sha256:f4a1e38e588a4a3684fc29d7b3bbd4c7990f538c2b0a7d569a4aacbf5ff23595
+hash: sha256:d22601e31740a6caa002ed4da4798e3ca87d70d4705bf48a1dbfb5ee92850fff

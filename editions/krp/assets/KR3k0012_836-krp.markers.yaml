@@ -416,6 +416,7 @@ markers:
       ', id: KR3k0012_krp_836-bkkkrnewl67}
   - {type: line-break, offset: 1144, content: '', id: KR3k0012_SBCK_836-3a13}
   - {type: punctuation, offset: 1151, content: (, id: KR3k0012_krp_836-bkkpn1}
+  - {type: voice, offset: 1151, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1152, content: /, id: KR3k0012_krp_836-bkkpn2}
   - {type: variant, offset: 1152, length: 1, content: 燕, WYG: 雀}
   - {type: punctuation, offset: 1153, content: ), id: KR3k0012_krp_836-bkkpn3}
@@ -1530,6 +1531,7 @@ markers:
       ', id: KR3k0012_krp_836-bkkkrnewl251}
   - {type: line-break, offset: 4245, content: '', id: KR3k0012_SBCK_836-10a01}
   - {type: punctuation, offset: 4259, content: (, id: KR3k0012_krp_836-bkkpn4}
+  - {type: voice, offset: 4259, length: 16, name: note, id: n2}
   - {type: punctuation, offset: 4267, content: /, id: KR3k0012_krp_836-bkkpn5}
   - {type: variant, offset: 4268, length: 1, content: 得, WYG: 則}
   - {type: punctuation, offset: 4275, content: ), id: KR3k0012_krp_836-bkkpn6}
@@ -1545,6 +1547,7 @@ markers:
   - {type: variant, offset: 4297, length: 1, content: 若, SBCK: 􅀂}
   - {type: variant, offset: 4303, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 4309, content: (, id: KR3k0012_krp_836-bkkpn7}
+  - {type: voice, offset: 4309, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 4311, content: /, id: KR3k0012_krp_836-bkkpn8}
   - {type: punctuation, offset: 4313, content: ), id: KR3k0012_krp_836-bkkpn9}
   - {type: 'kr:newline', offset: 4313, content: '
@@ -1553,6 +1556,7 @@ markers:
   - {type: line-break, offset: 4313, content: '', id: KR3k0012_SBCK_836-10a04}
   - {type: variant, offset: 4325, length: 0, content: '', WYG: 也}
   - {type: punctuation, offset: 4329, content: (, id: KR3k0012_krp_836-bkkpn10}
+  - {type: voice, offset: 4329, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 4333, content: /, id: KR3k0012_krp_836-bkkpn11}
   - {type: punctuation, offset: 4336, content: ), id: KR3k0012_krp_836-bkkpn12}
   - {type: 'kr:newline', offset: 4338, content: '
@@ -1712,4 +1716,4 @@ markers:
   - {type: page-break, offset: 4752, content: '', id: KR3k0012_WYG_836-18a, image: WYG0900/WYG0900-0404c.png}
   - {type: page-break, offset: 4752, content: '', id: KR3k0012_WYG_836-18b, image: WYG0900/WYG0900-0404d.png}
   back: []
-hash: sha256:a6611ba99c58864b132d3d7cf7f74f7ef5774909a797903397f369367a647127
+hash: sha256:1379533ba50d6e82605c2168d9f7791ddb9809d38d69376d0c849ee0d6df49a9

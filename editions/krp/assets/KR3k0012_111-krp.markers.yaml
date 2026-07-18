@@ -25,6 +25,7 @@ markers:
   - {type: variant, offset: 6, length: 1, content: 玄, SBCK: 􅀇}
   - {type: variant, offset: 6, length: 1, content: 玄, WYG: 唐𤣥}
   - {type: punctuation, offset: 11, content: (, id: KR3k0012_krp_111-bkkpn1}
+  - {type: voice, offset: 11, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 15, content: ), id: KR3k0012_krp_111-bkkpn2}
   - {type: 'kr:newline', offset: 15, content: '
 
@@ -1473,6 +1474,7 @@ markers:
   - {type: variant, offset: 4631, length: 1, content: 駞, WYG: 馳}
   - {type: punctuation, offset: 4635, content: (, id: KR3k0012_krp_111-bkkpn3}
   - {type: variant, offset: 4635, length: 10, content: 不絶人無聊生矣禄山旣, WYG: 既}
+  - {type: voice, offset: 4635, length: 15, name: note, id: n2}
   - {type: variant, offset: 4639, length: 1, content: 聊, SBCK: 􅂓}
   - {type: punctuation, offset: 4643, content: /, id: KR3k0012_krp_111-bkkpn4}
   - {type: punctuation, offset: 4650, content: ), id: KR3k0012_krp_111-bkkpn5}
@@ -1900,4 +1902,4 @@ markers:
 
       ', id: KR3k0012_krp_111-bkkkrnewl295}
   back: []
-hash: sha256:bf915a1945971c9652892c53854eafd3ee30db6ef35116bd6dccc1816f16c91e
+hash: sha256:8f9726be1b4f7351f1be68f8e7fefc8b0efd050a0b775eede98d255fb42c29f3

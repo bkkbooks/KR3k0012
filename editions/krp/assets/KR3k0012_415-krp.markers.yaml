@@ -812,6 +812,7 @@ markers:
   - {type: line-break, offset: 2498, content: '', id: KR3k0012_SBCK_415-5b07}
   - {type: variant, offset: 2504, length: 1, content: 齊, WYG: 濟}
   - {type: punctuation, offset: 2517, content: (, id: KR3k0012_krp_415-bkkpn1}
+  - {type: voice, offset: 2517, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2519, content: /, id: KR3k0012_krp_415-bkkpn2}
   - {type: punctuation, offset: 2521, content: ), id: KR3k0012_krp_415-bkkpn3}
   - {type: 'kr:newline', offset: 2521, content: '
@@ -838,6 +839,7 @@ markers:
       ', id: KR3k0012_krp_415-bkkkrnewl136}
   - {type: line-break, offset: 2587, content: '', id: KR3k0012_SBCK_415-5b11}
   - {type: punctuation, offset: 2591, content: (, id: KR3k0012_krp_415-bkkpn4}
+  - {type: voice, offset: 2591, length: 24, name: note, id: n2}
   - {type: variant, offset: 2599, length: 0, content: '', WYG: 孤}
   - {type: variant, offset: 2600, length: 0, content: '', WYG: 身}
   - {type: variant, offset: 2602, length: 0, content: '', WYG: 明君之政損}
@@ -1033,4 +1035,4 @@ markers:
 
       ', id: KR3k0012_krp_415-bkkkrnewl167}
   back: []
-hash: sha256:17b14f3b6b35afd4629f8f14e0d24be203efd18d2011d93942ab6d02106ede1f
+hash: sha256:2a1dec78cef2ac9a3342c76a949c5796d41c98434df815a5db7096a797564b28

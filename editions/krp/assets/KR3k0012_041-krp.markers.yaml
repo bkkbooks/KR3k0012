@@ -68,6 +68,7 @@ markers:
       ', id: KR3k0012_krp_041-bkkkrnewl10}
   - {type: line-break, offset: 94, content: '', id: KR3k0012_SBCK_041-1a11}
   - {type: punctuation, offset: 106, content: (, id: KR3k0012_krp_041-bkkpn1}
+  - {type: voice, offset: 106, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 109, content: /, id: KR3k0012_krp_041-bkkpn2}
   - {type: punctuation, offset: 111, content: ), id: KR3k0012_krp_041-bkkpn3}
   - {type: 'kr:newline', offset: 111, content: '
@@ -596,6 +597,7 @@ markers:
   - {type: line-break, offset: 1644, content: '', id: KR3k0012_SBCK_041-4b02}
   - {type: variant, offset: 1649, length: 1, content: 鎭, WYG: 鎮}
   - {type: punctuation, offset: 1651, content: (, id: KR3k0012_krp_041-bkkpn4}
+  - {type: voice, offset: 1651, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 1655, content: /, id: KR3k0012_krp_041-bkkpn5}
   - {type: variant, offset: 1657, length: 1, content: 玄, SBCK: 􅀇}
   - {type: variant, offset: 1657, length: 1, content: 玄, WYG: 𤣥}
@@ -658,6 +660,7 @@ markers:
   - {type: variant, offset: 1810, length: 1, content: 按, WYG: 案}
   - {type: variant, offset: 1814, length: 1, content: 存, WYG: 在焉}
   - {type: punctuation, offset: 1815, content: (, id: KR3k0012_krp_041-bkkpn7}
+  - {type: voice, offset: 1815, length: 21, name: note, id: n3}
   - {type: variant, offset: 1818, length: 1, content: 百, WYG: 有}
   - {type: variant, offset: 1820, length: 1, content: 聞, WYG: 閬}
   - {type: variant, offset: 1823, length: 0, content: '', WYG: 壽}
@@ -1390,6 +1393,7 @@ markers:
   - {type: variant, offset: 3818, length: 1, content: 峯, WYG: 峰}
   - {type: punctuation, offset: 3822, content: (, id: KR3k0012_krp_041-bkkpn11}
   - {type: variant, offset: 3822, length: 1, content: 逺, WYG: 秀}
+  - {type: voice, offset: 3822, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3823, content: /, id: KR3k0012_krp_041-bkkpn12}
   - {type: punctuation, offset: 3824, content: ), id: KR3k0012_krp_041-bkkpn13}
   - {type: 'kr:newline', offset: 3824, content: '
@@ -1709,4 +1713,4 @@ markers:
 
       ', id: KR3k0012_krp_041-bkkkrnewl275}
   back: []
-hash: sha256:78e76324e262918cd72b07b86a0da5eae49d5711c13207d954688e24742ef1fb
+hash: sha256:d2335d02c7ac72c1e228dbad031479e00192f8f306a291d3378b936933d0bc30

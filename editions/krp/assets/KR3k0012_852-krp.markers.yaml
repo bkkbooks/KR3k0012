@@ -28,6 +28,7 @@ markers:
   - {type: variant, offset: 11, length: 1, content: 餳, SBCK: 􅄳}
   - {type: punctuation, offset: 12, content: (, id: KR3k0012_krp_852-bkkpn1}
   - {type: variant, offset: 12, length: 4, content: 飴餳同序, WYG: ''}
+  - {type: voice, offset: 12, length: 4, name: note, id: n1}
   - {type: variant, offset: 13, length: 1, content: 餳, SBCK: 􅄳}
   - {type: punctuation, offset: 14, content: /, id: KR3k0012_krp_852-bkkpn2}
   - {type: punctuation, offset: 16, content: ), id: KR3k0012_krp_852-bkkpn3}
@@ -94,15 +95,18 @@ markers:
   - {type: variant, offset: 83, length: 1, content: 餳, SBCK: 􅄳}
   - {type: variant, offset: 86, length: 6, content: 張皇即乾飴也, WYG: 餦餭}
   - {type: punctuation, offset: 88, content: (, id: KR3k0012_krp_852-bkkpn4}
+  - {type: voice, offset: 88, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 90, content: /, id: KR3k0012_krp_852-bkkpn5}
   - {type: punctuation, offset: 92, content: ), id: KR3k0012_krp_852-bkkpn6}
   - {type: punctuation, offset: 96, content: (, id: KR3k0012_krp_852-bkkpn7}
   - {type: variant, offset: 96, length: 2, content: 音該, WYG: ''}
+  - {type: voice, offset: 96, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 97, content: /, id: KR3k0012_krp_852-bkkpn8}
   - {type: punctuation, offset: 98, content: ), id: KR3k0012_krp_852-bkkpn9}
   - {type: variant, offset: 98, length: 1, content: 餳, SBCK: 􅄳}
   - {type: punctuation, offset: 102, content: (, id: KR3k0012_krp_852-bkkpn10}
   - {type: variant, offset: 102, length: 7, content: 江東皆言餹也凢, WYG: 凡}
+  - {type: voice, offset: 102, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 105, content: /, id: KR3k0012_krp_852-bkkpn11}
   - {type: punctuation, offset: 108, content: ), id: KR3k0012_krp_852-bkkpn12}
   - {type: 'kr:newline', offset: 108, content: '
@@ -208,6 +212,7 @@ markers:
   - {type: line-break, offset: 306, content: '', id: KR3k0012_SBCK_852-2a01}
   - {type: punctuation, offset: 314, content: (, id: KR3k0012_krp_852-bkkpn13}
   - {type: variant, offset: 314, length: 8, content: 壯門户籥壯也塩鐵, WYG: 鹽鐡}
+  - {type: voice, offset: 314, length: 6, name: note, id: n5}
   - {type: punctuation, offset: 317, content: /, id: KR3k0012_krp_852-bkkpn14}
   - {type: punctuation, offset: 320, content: ), id: KR3k0012_krp_852-bkkpn15}
   - {type: 'kr:newline', offset: 320, content: '
@@ -230,6 +235,7 @@ markers:
   - {type: page-break, offset: 352, content: '', id: KR3k0012_WYG_852-3a, image: WYG0900/WYG0900-0507a.png}
   - {type: punctuation, offset: 364, content: (, id: KR3k0012_krp_852-bkkpn16}
   - {type: variant, offset: 364, length: 4, content: 張皇賜也, WYG: ''}
+  - {type: voice, offset: 364, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 366, content: /, id: KR3k0012_krp_852-bkkpn17}
   - {type: punctuation, offset: 368, content: ), id: KR3k0012_krp_852-bkkpn18}
   - {type: 'kr:newline', offset: 368, content: '
@@ -270,4 +276,4 @@ markers:
 
       ', id: KR3k0012_krp_852-bkkkrnewl38}
   back: []
-hash: sha256:ea80d96e9009ed9964410917befeaa35a9112f4e6e02e64e865cdc43e6dca2d5
+hash: sha256:f9ce9ca7fd9897791442378969cefaf2aa5c8679f31a6778824842600504b3db

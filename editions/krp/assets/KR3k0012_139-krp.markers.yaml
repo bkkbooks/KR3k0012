@@ -505,6 +505,7 @@ markers:
   - {type: variant, offset: 1320, length: 1, content: 葬, WYG: 塟}
   - {type: punctuation, offset: 1322, content: (, id: KR3k0012_krp_139-bkkpn1}
   - {type: variant, offset: 1322, length: 1, content: 音, WYG: ''}
+  - {type: voice, offset: 1322, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1323, content: /, id: KR3k0012_krp_139-bkkpn2}
   - {type: punctuation, offset: 1324, content: ), id: KR3k0012_krp_139-bkkpn3}
   - {type: 'kr:newline', offset: 1325, content: '
@@ -566,6 +567,7 @@ markers:
       ', id: KR3k0012_krp_139-bkkkrnewl94}
   - {type: line-break, offset: 1450, content: '', id: KR3k0012_SBCK_139-4a11}
   - {type: punctuation, offset: 1451, content: (, id: KR3k0012_krp_139-bkkpn4}
+  - {type: voice, offset: 1451, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1452, content: /, id: KR3k0012_krp_139-bkkpn5}
   - {type: punctuation, offset: 1453, content: ), id: KR3k0012_krp_139-bkkpn6}
   - {type: variant, offset: 1460, length: 1, content: 葬, WYG: 塟}
@@ -713,6 +715,7 @@ markers:
   - {type: variant, offset: 1893, length: 1, content: 慿, WYG: 憑}
   - {type: punctuation, offset: 1896, content: (, id: KR3k0012_krp_139-bkkpn7}
   - {type: variant, offset: 1896, length: 2, content: 音至, WYG: 鳥}
+  - {type: voice, offset: 1896, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1897, content: /, id: KR3k0012_krp_139-bkkpn8}
   - {type: punctuation, offset: 1898, content: ), id: KR3k0012_krp_139-bkkpn9}
   - {type: variant, offset: 1901, length: 1, content: 類, SBCK: 􅀋}
@@ -999,6 +1002,7 @@ markers:
       ', id: KR3k0012_krp_139-bkkkrnewl162}
   - {type: line-break, offset: 2731, content: '', id: KR3k0012_SBCK_139-6b09}
   - {type: punctuation, offset: 2732, content: (, id: KR3k0012_krp_139-bkkpn10}
+  - {type: voice, offset: 2732, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2733, content: /, id: KR3k0012_krp_139-bkkpn11}
   - {type: punctuation, offset: 2734, content: ), id: KR3k0012_krp_139-bkkpn12}
   - {type: variant, offset: 2734, length: 1, content: 將, WYG: 将}
@@ -1191,6 +1195,7 @@ markers:
   - {type: variant, offset: 3313, length: 1, content: 許, WYG: ''}
   - {type: punctuation, offset: 3318, content: (, id: KR3k0012_krp_139-bkkpn13}
   - {type: variant, offset: 3318, length: 2, content: 音髭, WYG: ''}
+  - {type: voice, offset: 3318, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 3319, content: /, id: KR3k0012_krp_139-bkkpn14}
   - {type: punctuation, offset: 3320, content: ), id: KR3k0012_krp_139-bkkpn15}
   - {type: 'kr:newline', offset: 3323, content: '
@@ -1477,4 +1482,4 @@ markers:
       ', id: KR3k0012_krp_139-bkkkrnewl238}
   - {type: variant, offset: 4194, length: 0, content: '', WYG: 有王字蟄而不動靈櫬既遷置蛇舊處太平御覽巻一百三十九}
   back: []
-hash: sha256:d62776254df69542b84575bc3c621ed125d896d50702d0ea54aefb79d58a4ef0
+hash: sha256:1b762915decf235000ed11e8a27918519ee628839c4d2c4954bf7fc1ac32e7ea

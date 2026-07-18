@@ -53,6 +53,7 @@ markers:
       ', id: KR3k0012_WYG_969-bkkkrnewl7}
   - {type: line-break, offset: 23, content: '', id: KR3k0012_WYG_969-1a09}
   - {type: punctuation, offset: 29, content: (, id: KR3k0012_WYG_969-bkkpn1}
+  - {type: voice, offset: 29, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 31, content: /, id: KR3k0012_WYG_969-bkkpn2}
   - {type: punctuation, offset: 33, content: ), id: KR3k0012_WYG_969-bkkpn3}
   - {type: 'kr:newline', offset: 37, content: '
@@ -248,9 +249,11 @@ markers:
       ', id: KR3k0012_WYG_969-bkkkrnewl51}
   - {type: line-break, offset: 652, content: '', id: KR3k0012_WYG_969-3b13}
   - {type: punctuation, offset: 662, content: (, id: KR3k0012_WYG_969-bkkpn4}
+  - {type: voice, offset: 662, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 664, content: /, id: KR3k0012_WYG_969-bkkpn5}
   - {type: punctuation, offset: 666, content: ), id: KR3k0012_WYG_969-bkkpn6}
   - {type: punctuation, offset: 674, content: (, id: KR3k0012_WYG_969-bkkpn7}
+  - {type: voice, offset: 674, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 675, content: /, id: KR3k0012_WYG_969-bkkpn8}
   - {type: punctuation, offset: 676, content: ), id: KR3k0012_WYG_969-bkkpn9}
   - {type: 'kr:newline', offset: 676, content: '
@@ -265,6 +268,7 @@ markers:
   - {type: punctuation, offset: 681, content: /, id: KR3k0012_WYG_969-bkkpn11}
   - {type: punctuation, offset: 686, content: ), id: KR3k0012_WYG_969-bkkpn12}
   - {type: punctuation, offset: 694, content: (, id: KR3k0012_WYG_969-bkkpn13}
+  - {type: voice, offset: 694, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 698, content: /, id: KR3k0012_WYG_969-bkkpn14}
   - {type: punctuation, offset: 701, content: ), id: KR3k0012_WYG_969-bkkpn15}
   - {type: 'kr:newline', offset: 704, content: '
@@ -894,4 +898,4 @@ markers:
 
       ', id: KR3k0012_WYG_969-bkkkrnewl192}
   back: []
-hash: sha256:2f69a1c44d8a85384c0bde35fe5072fd5f8f6c3ee2749acc28effa8ff855985d
+hash: sha256:81bc990b1db8678813774616285599d24766f156b5ccfa2c675a7e50920b456c

@@ -35,6 +35,7 @@ markers:
   - {type: variant, offset: 16, length: 1, content: 凢, WYG: 凡}
   - {type: variant, offset: 29, length: 1, content: 踞, WYG: 腒}
   - {type: punctuation, offset: 31, content: (, id: KR3k0012_krp_864-bkkpn1}
+  - {type: voice, offset: 31, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 32, content: /, id: KR3k0012_krp_864-bkkpn2}
   - {type: punctuation, offset: 33, content: ), id: KR3k0012_krp_864-bkkpn3}
   - {type: 'kr:newline', offset: 34, content: '
@@ -44,6 +45,7 @@ markers:
   - {type: indent, offset: 39, content: 　, id: KR3k0012_krp_864-bkkind5}
   - {type: variant, offset: 39, length: 0, content: '', WYG: 麛}
   - {type: punctuation, offset: 49, content: (, id: KR3k0012_krp_864-bkkpn4}
+  - {type: voice, offset: 49, length: 82, name: note, id: n2}
   - {type: punctuation, offset: 55, content: /, id: KR3k0012_krp_864-bkkpn5}
   - {type: page-break, offset: 57, content: '', id: KR3k0012_WYG_864-1b, image: WYG0900/WYG0900-0556d.png}
   - {type: variant, offset: 60, length: 71, content: 鄭司農云膏香牛脂也臊豕膏也杜子美云膏臊犬膏腥豕鮮生魚也羽鴈也膏也羶羊脂也玄謂膏腥雞膏也八物者得四時之氣尤盛爲人食之弗勝是以用休廢之脂膏煎和膳之, WYG: ''}
@@ -69,6 +71,7 @@ markers:
   - {type: line-break, offset: 131, content: '', id: KR3k0012_SBCK_864-1a09}
   - {type: variant, offset: 146, length: 1, content: 嬴, WYG: 臝}
   - {type: punctuation, offset: 152, content: (, id: KR3k0012_krp_864-bkkpn13}
+  - {type: voice, offset: 152, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 153, content: /, id: KR3k0012_krp_864-bkkpn14}
   - {type: punctuation, offset: 154, content: ), id: KR3k0012_krp_864-bkkpn15}
   - {type: 'kr:newline', offset: 154, content: '
@@ -83,6 +86,7 @@ markers:
   - {type: punctuation, offset: 162, content: ), id: KR3k0012_krp_864-bkkpn18}
   - {type: variant, offset: 171, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 173, content: (, id: KR3k0012_krp_864-bkkpn19}
+  - {type: voice, offset: 173, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 175, content: /, id: KR3k0012_krp_864-bkkpn20}
   - {type: punctuation, offset: 177, content: ), id: KR3k0012_krp_864-bkkpn21}
   - {type: 'kr:newline', offset: 177, content: '
@@ -91,6 +95,7 @@ markers:
   - {type: line-break, offset: 177, content: '', id: KR3k0012_SBCK_864-1a11}
   - {type: punctuation, offset: 185, content: (, id: KR3k0012_krp_864-bkkpn22}
   - {type: variant, offset: 185, length: 8, content: 脂肥凝者澤者曰膏, WYG: ''}
+  - {type: voice, offset: 185, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 189, content: /, id: KR3k0012_krp_864-bkkpn23}
   - {type: punctuation, offset: 193, content: ), id: KR3k0012_krp_864-bkkpn24}
   - {type: variant, offset: 196, length: 1, content: 膏, WYG: ''}
@@ -101,6 +106,7 @@ markers:
   - {type: line-break, offset: 203, content: '', id: KR3k0012_SBCK_864-1a12}
   - {type: punctuation, offset: 211, content: (, id: KR3k0012_krp_864-bkkpn25}
   - {type: variant, offset: 211, length: 7, content: 膋腸問脂幪音蒙, WYG: ''}
+  - {type: voice, offset: 211, length: 7, name: note, id: n6}
   - {type: punctuation, offset: 215, content: /, id: KR3k0012_krp_864-bkkpn26}
   - {type: punctuation, offset: 218, content: ), id: KR3k0012_krp_864-bkkpn27}
   - {type: variant, offset: 227, length: 1, content: 爲, WYG: 為}
@@ -110,6 +116,7 @@ markers:
   - {type: line-break, offset: 228, content: '', id: KR3k0012_SBCK_864-1a13}
   - {type: punctuation, offset: 229, content: (, id: KR3k0012_krp_864-bkkpn28}
   - {type: variant, offset: 229, length: 8, content: 狼臅臆中膏之然反, WYG: ''}
+  - {type: voice, offset: 229, length: 8, name: note, id: n7}
   - {type: punctuation, offset: 234, content: /, id: KR3k0012_krp_864-bkkpn29}
   - {type: punctuation, offset: 237, content: ), id: KR3k0012_krp_864-bkkpn30}
   - {type: 'kr:newline', offset: 237, content: '
@@ -123,6 +130,7 @@ markers:
   - {type: variant, offset: 242, length: 1, content: 一, WYG: ''}
   - {type: punctuation, offset: 244, content: (, id: KR3k0012_krp_864-bkkpn31}
   - {type: variant, offset: 244, length: 14, content: 莊子云肌膚若氷雪氷雪脂膏也說, WYG: 説}
+  - {type: voice, offset: 244, length: 13, name: note, id: n8}
   - {type: variant, offset: 249, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 251, content: /, id: KR3k0012_krp_864-bkkpn32}
   - {type: punctuation, offset: 257, content: ), id: KR3k0012_krp_864-bkkpn33}
@@ -134,6 +142,7 @@ markers:
   - {type: variant, offset: 262, length: 1, content: 膓, WYG: 腸}
   - {type: punctuation, offset: 264, content: (, id: KR3k0012_krp_864-bkkpn34}
   - {type: variant, offset: 264, length: 5, content: 膫音力彫反, WYG: ''}
+  - {type: voice, offset: 264, length: 5, name: note, id: n9}
   - {type: punctuation, offset: 267, content: /, id: KR3k0012_krp_864-bkkpn35}
   - {type: punctuation, offset: 269, content: ), id: KR3k0012_krp_864-bkkpn36}
   - {type: 'kr:newline', offset: 269, content: '
@@ -143,11 +152,13 @@ markers:
   - {type: variant, offset: 277, length: 1, content: 昉, WYG: 肪}
   - {type: punctuation, offset: 281, content: (, id: KR3k0012_krp_864-bkkpn37}
   - {type: variant, offset: 281, length: 2, content: 音珊, WYG: 􅀈}
+  - {type: voice, offset: 281, length: 2, name: note, id: n10}
   - {type: punctuation, offset: 282, content: /, id: KR3k0012_krp_864-bkkpn38}
   - {type: variant, offset: 282, length: 1, content: 珊, SBCK: 􅃢}
   - {type: punctuation, offset: 283, content: ), id: KR3k0012_krp_864-bkkpn39}
   - {type: punctuation, offset: 288, content: (, id: KR3k0012_krp_864-bkkpn40}
   - {type: variant, offset: 288, length: 2, content: 音窘, WYG: ''}
+  - {type: voice, offset: 288, length: 2, name: note, id: n11}
   - {type: punctuation, offset: 289, content: /, id: KR3k0012_krp_864-bkkpn41}
   - {type: punctuation, offset: 290, content: ), id: KR3k0012_krp_864-bkkpn42}
   - {type: 'kr:newline', offset: 290, content: '
@@ -375,4 +386,4 @@ markers:
 
       ', id: KR3k0012_krp_864-bkkkrnewl54}
   back: []
-hash: sha256:332aa48a07bfc78bcbc9d66b4cd20bb392e433816cb3104dabf56d29994fa94d
+hash: sha256:f1fe28abfcaa84043d78a875144c8dd8e7553f4e20535e0221ec8fe7e35ddad1

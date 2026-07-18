@@ -38,6 +38,7 @@ markers:
       ', id: KR3k0012_krp_491-bkkkrnewl5}
   - {type: line-break, offset: 50, content: '', id: KR3k0012_SBCK_491-1a06}
   - {type: punctuation, offset: 53, content: (, id: KR3k0012_krp_491-bkkpn1}
+  - {type: voice, offset: 53, length: 23, name: note, id: n1}
   - {type: punctuation, offset: 65, content: /, id: KR3k0012_krp_491-bkkpn2}
   - {type: punctuation, offset: 76, content: ), id: KR3k0012_krp_491-bkkpn3}
   - {type: 'kr:newline', offset: 76, content: '
@@ -48,6 +49,7 @@ markers:
   - {type: variant, offset: 79, length: 1, content: 呉, WYG: 吳}
   - {type: variant, offset: 82, length: 1, content: 扎, WYG: 札}
   - {type: punctuation, offset: 92, content: (, id: KR3k0012_krp_491-bkkpn4}
+  - {type: voice, offset: 92, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 94, content: /, id: KR3k0012_krp_491-bkkpn5}
   - {type: punctuation, offset: 96, content: ), id: KR3k0012_krp_491-bkkpn6}
   - {type: 'kr:newline', offset: 100, content: '
@@ -81,6 +83,7 @@ markers:
   - {type: line-break, offset: 183, content: '', id: KR3k0012_SBCK_491-1a13}
   - {type: variant, offset: 194, length: 1, content: 舡, WYG: 船}
   - {type: punctuation, offset: 197, content: (, id: KR3k0012_krp_491-bkkpn7}
+  - {type: voice, offset: 197, length: 28, name: note, id: n3}
   - {type: variant, offset: 200, length: 1, content: 艤, WYG: ''}
   - {type: punctuation, offset: 205, content: /, id: KR3k0012_krp_491-bkkpn8}
   - {type: variant, offset: 210, length: 1, content: 舡, WYG: 船}
@@ -178,6 +181,7 @@ markers:
       ', id: KR3k0012_krp_491-bkkkrnewl30}
   - {type: line-break, offset: 511, content: '', id: KR3k0012_SBCK_491-2a03}
   - {type: punctuation, offset: 514, content: (, id: KR3k0012_krp_491-bkkpn13}
+  - {type: voice, offset: 514, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 518, content: /, id: KR3k0012_krp_491-bkkpn14}
   - {type: punctuation, offset: 522, content: ), id: KR3k0012_krp_491-bkkpn15}
   - {type: page-break, offset: 535, content: '', id: KR3k0012_WYG_491-3a, image: WYG0897/WYG0897-0437a.png}
@@ -1193,4 +1197,4 @@ markers:
 
       ', id: KR3k0012_krp_491-bkkkrnewl204}
   back: []
-hash: sha256:d8641223f7442f20ba8a5a85de2a928ade0f93e083ffd36538ff220f87cea791
+hash: sha256:dee47d1eefac35fa3d067a1c9f5453d8d9d55a6cd0c51558d55b2f81791a09ee

@@ -312,6 +312,7 @@ markers:
   - {type: variant, offset: 744, length: 1, content: 揭, WYG: 掲}
   - {type: punctuation, offset: 750, content: (, id: KR3k0012_krp_387-bkkpn1}
   - {type: variant, offset: 750, length: 1, content: 傜, WYG: 徭}
+  - {type: voice, offset: 750, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 754, content: /, id: KR3k0012_krp_387-bkkpn2}
   - {type: punctuation, offset: 758, content: ), id: KR3k0012_krp_387-bkkpn3}
   - {type: 'kr:newline', offset: 762, content: '
@@ -319,6 +320,7 @@ markers:
       ', id: KR3k0012_krp_387-bkkkrnewl51}
   - {type: line-break, offset: 762, content: '', id: KR3k0012_SBCK_387-2b10}
   - {type: punctuation, offset: 766, content: (, id: KR3k0012_krp_387-bkkpn4}
+  - {type: voice, offset: 766, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 770, content: /, id: KR3k0012_krp_387-bkkpn5}
   - {type: punctuation, offset: 774, content: ), id: KR3k0012_krp_387-bkkpn6}
   - {type: 'kr:newline', offset: 774, content: '
@@ -757,6 +759,7 @@ markers:
   - {type: page-break, offset: 1925, content: '', id: KR3k0012_WYG_387-8b, image: WYG0896/WYG0896-0438b.png}
   - {type: punctuation, offset: 1927, content: (, id: KR3k0012_krp_387-bkkpn7}
   - {type: variant, offset: 1927, length: 9, content: 淚事巳多見在泣篇說, WYG: 説}
+  - {type: voice, offset: 1927, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 1931, content: /, id: KR3k0012_krp_387-bkkpn8}
   - {type: punctuation, offset: 1935, content: ), id: KR3k0012_krp_387-bkkpn9}
   - {type: 'kr:newline', offset: 1935, content: '
@@ -847,6 +850,7 @@ markers:
   - {type: variant, offset: 2124, length: 1, content: 喪, WYG: 䘮}
   - {type: variant, offset: 2129, length: 1, content: 來, WYG: 来}
   - {type: punctuation, offset: 2131, content: (, id: KR3k0012_krp_387-bkkpn10}
+  - {type: voice, offset: 2131, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 2133, content: /, id: KR3k0012_krp_387-bkkpn11}
   - {type: variant, offset: 2133, length: 1, content: 衣, WYG: ''}
   - {type: punctuation, offset: 2134, content: ), id: KR3k0012_krp_387-bkkpn12}
@@ -869,6 +873,7 @@ markers:
   - {type: variant, offset: 2149, length: 1, content: 洟, WYG: 涕}
   - {type: punctuation, offset: 2152, content: (, id: KR3k0012_krp_387-bkkpn13}
   - {type: variant, offset: 2152, length: 1, content: 輒, WYG: 輙}
+  - {type: voice, offset: 2152, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 2154, content: /, id: KR3k0012_krp_387-bkkpn14}
   - {type: punctuation, offset: 2156, content: ), id: KR3k0012_krp_387-bkkpn15}
   - {type: 'kr:newline', offset: 2156, content: '
@@ -901,6 +906,7 @@ markers:
   - {type: variant, offset: 2221, length: 1, content: 𫀆, SBCK: 􅂁}
   - {type: variant, offset: 2221, length: 8, content: 𫀆何休注曰𬒮衣襟, WYG: 袍}
   - {type: punctuation, offset: 2222, content: (, id: KR3k0012_krp_387-bkkpn16}
+  - {type: voice, offset: 2222, length: 7, name: note, id: n6}
   - {type: punctuation, offset: 2226, content: /, id: KR3k0012_krp_387-bkkpn17}
   - {type: variant, offset: 2226, length: 1, content: 𬒮, SBCK: 􅃑}
   - {type: variant, offset: 2228, length: 1, content: 襟, SBCK: 􅁭}
@@ -1049,6 +1055,7 @@ markers:
   - {type: line-break, offset: 2584, content: '', id: KR3k0012_SBCK_387-7a02}
   - {type: punctuation, offset: 2593, content: (, id: KR3k0012_krp_387-bkkpn19}
   - {type: variant, offset: 2593, length: 3, content: 一則顯, WYG: 心願}
+  - {type: voice, offset: 2593, length: 11, name: note, id: n7}
   - {type: variant, offset: 2595, length: 1, content: 顯, SBCK: 􅂋}
   - {type: variant, offset: 2597, length: 7, content: 不孤二則顯其學, WYG: 得書}
   - {type: variant, offset: 2598, length: 1, content: 孤, SBCK: 􅀌}
@@ -1173,6 +1180,7 @@ markers:
   - {type: variant, offset: 2888, length: 1, content: 嚏, SBCK: 􅅉}
   - {type: punctuation, offset: 2889, content: (, id: KR3k0012_krp_387-bkkpn22}
   - {type: variant, offset: 2889, length: 2, content: 音帝, WYG: ''}
+  - {type: voice, offset: 2889, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 2891, content: ), id: KR3k0012_krp_387-bkkpn23}
   - {type: 'kr:newline', offset: 2891, content: '
 
@@ -1201,6 +1209,7 @@ markers:
   - {type: variant, offset: 2944, length: 1, content: 嚏, SBCK: 􅅉}
   - {type: punctuation, offset: 2947, content: (, id: KR3k0012_krp_387-bkkpn24}
   - {type: variant, offset: 2947, length: 12, content: 􅎪於越切噫於界切咳開代切, WYG: ''}
+  - {type: voice, offset: 2947, length: 12, name: note, id: n9}
   - {type: punctuation, offset: 2951, content: /, id: KR3k0012_krp_387-bkkpn25}
   - {type: punctuation, offset: 2955, content: ), id: KR3k0012_krp_387-bkkpn26}
   - {type: 'kr:newline', offset: 2955, content: '
@@ -1223,4 +1232,4 @@ markers:
 
       ', id: KR3k0012_krp_387-bkkkrnewl200}
   back: []
-hash: sha256:e5d90c7091cff8bfc00530820c2388ec8cb9cfeb40621f166bae5f309b9e7f9e
+hash: sha256:8985609b81f24bdca79c7ab70b995e307127a341dfefc60d3acdb95cbc4c168b

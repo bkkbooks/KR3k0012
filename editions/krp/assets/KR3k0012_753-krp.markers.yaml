@@ -45,6 +45,7 @@ markers:
   - {type: variant, offset: 45, length: 1, content: 況, WYG: 况}
   - {type: punctuation, offset: 51, content: (, id: KR3k0012_krp_753-bkkpn1}
   - {type: variant, offset: 51, length: 4, content: 弈圍碁也, WYG: ''}
+  - {type: voice, offset: 51, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 53, content: /, id: KR3k0012_krp_753-bkkpn2}
   - {type: punctuation, offset: 55, content: ), id: KR3k0012_krp_753-bkkpn3}
   - {type: 'kr:newline', offset: 56, content: '
@@ -59,6 +60,7 @@ markers:
   - {type: line-break, offset: 69, content: '', id: KR3k0012_SBCK_753-1a08}
   - {type: variant, offset: 79, length: 7, content: 壞壞謂白黒旣亂, WYG: 壊}
   - {type: punctuation, offset: 80, content: (, id: KR3k0012_krp_753-bkkpn4}
+  - {type: voice, offset: 80, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 83, content: /, id: KR3k0012_krp_753-bkkpn5}
   - {type: punctuation, offset: 86, content: ), id: KR3k0012_krp_753-bkkpn6}
   - {type: variant, offset: 87, length: 1, content: 復, WYG: 為}
@@ -296,6 +298,7 @@ markers:
       ', id: KR3k0012_krp_753-bkkkrnewl43}
   - {type: line-break, offset: 676, content: '', id: KR3k0012_SBCK_753-2b02}
   - {type: punctuation, offset: 676, content: (, id: KR3k0012_krp_753-bkkpn7}
+  - {type: voice, offset: 676, length: 7, name: note, id: n3}
   - {type: variant, offset: 678, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 680, content: /, id: KR3k0012_krp_753-bkkpn8}
   - {type: punctuation, offset: 683, content: ), id: KR3k0012_krp_753-bkkpn9}
@@ -587,6 +590,7 @@ markers:
   - {type: line-break, offset: 1464, content: '', id: KR3k0012_SBCK_753-4a07}
   - {type: punctuation, offset: 1476, content: (, id: KR3k0012_krp_753-bkkpn10}
   - {type: page-break, offset: 1476, content: '', id: KR3k0012_WYG_753-6b, image: WYG0899/WYG0899-0610d.png}
+  - {type: voice, offset: 1476, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 1478, content: /, id: KR3k0012_krp_753-bkkpn11}
   - {type: punctuation, offset: 1480, content: ), id: KR3k0012_krp_753-bkkpn12}
   - {type: 'kr:newline', offset: 1484, content: '
@@ -701,6 +705,7 @@ markers:
   - {type: variant, offset: 1760, length: 1, content: 作, WYG: 方}
   - {type: punctuation, offset: 1762, content: (, id: KR3k0012_krp_753-bkkpn13}
   - {type: variant, offset: 1762, length: 8, content: 古買反線間方因也, WYG: ''}
+  - {type: voice, offset: 1762, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 1764, content: /, id: KR3k0012_krp_753-bkkpn14}
   - {type: punctuation, offset: 1766, content: ), id: KR3k0012_krp_753-bkkpn15}
   - {type: 'kr:newline', offset: 1766, content: '
@@ -889,6 +894,7 @@ markers:
   - {type: variant, offset: 2221, length: 1, content: 壷, WYG: 壺}
   - {type: variant, offset: 2235, length: 7, content: 壷投壷射之類也, WYG: 壺}
   - {type: punctuation, offset: 2236, content: (, id: KR3k0012_krp_753-bkkpn19}
+  - {type: voice, offset: 2236, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 2239, content: /, id: KR3k0012_krp_753-bkkpn20}
   - {type: variant, offset: 2240, length: 1, content: 類, SBCK: 􅁼}
   - {type: punctuation, offset: 2242, content: ), id: KR3k0012_krp_753-bkkpn21}
@@ -898,6 +904,7 @@ markers:
   - {type: line-break, offset: 2243, content: '', id: KR3k0012_SBCK_753-5b13}
   - {type: punctuation, offset: 2251, content: (, id: KR3k0012_krp_753-bkkpn22}
   - {type: variant, offset: 2251, length: 8, content: 且醮切哨不正貌壷, WYG: 壺}
+  - {type: voice, offset: 2251, length: 7, name: note, id: n7}
   - {type: punctuation, offset: 2255, content: /, id: KR3k0012_krp_753-bkkpn23}
   - {type: punctuation, offset: 2258, content: ), id: KR3k0012_krp_753-bkkpn24}
   - {type: variant, offset: 2260, length: 0, content: '', WYG: 以}
@@ -929,10 +936,12 @@ markers:
   - {type: line-break, offset: 2334, content: '', id: KR3k0012_SBCK_753-6a04}
   - {type: punctuation, offset: 2335, content: (, id: KR3k0012_krp_753-bkkpn25}
   - {type: variant, offset: 2335, length: 8, content: 下得命不以命見許, WYG: ''}
+  - {type: voice, offset: 2335, length: 8, name: note, id: n8}
   - {type: punctuation, offset: 2339, content: /, id: KR3k0012_krp_753-bkkpn26}
   - {type: punctuation, offset: 2343, content: ), id: KR3k0012_krp_753-bkkpn27}
   - {type: punctuation, offset: 2353, content: (, id: KR3k0012_krp_753-bkkpn28}
   - {type: variant, offset: 2353, length: 7, content: 賔再拜受受矢也, WYG: ''}
+  - {type: voice, offset: 2353, length: 7, name: note, id: n9}
   - {type: punctuation, offset: 2357, content: /, id: KR3k0012_krp_753-bkkpn29}
   - {type: punctuation, offset: 2360, content: ), id: KR3k0012_krp_753-bkkpn30}
   - {type: 'kr:newline', offset: 2363, content: '
@@ -941,6 +950,7 @@ markers:
   - {type: line-break, offset: 2363, content: '', id: KR3k0012_SBCK_753-6a05}
   - {type: punctuation, offset: 2372, content: (, id: KR3k0012_krp_753-bkkpn31}
   - {type: variant, offset: 2372, length: 6, content: 拜送送矢也巳, WYG: 已}
+  - {type: voice, offset: 2372, length: 5, name: note, id: n10}
   - {type: punctuation, offset: 2375, content: /, id: KR3k0012_krp_753-bkkpn32}
   - {type: punctuation, offset: 2377, content: ), id: KR3k0012_krp_753-bkkpn33}
   - {type: 'kr:newline', offset: 2387, content: '
@@ -954,6 +964,7 @@ markers:
   - {type: line-break, offset: 2409, content: '', id: KR3k0012_SBCK_753-6a07}
   - {type: punctuation, offset: 2413, content: (, id: KR3k0012_krp_753-bkkpn34}
   - {type: variant, offset: 2413, length: 25, content: 設中亦賔也八筭於中横委其餘於中西執筭而立以請賔俟投, WYG: ''}
+  - {type: voice, offset: 2413, length: 25, name: note, id: n11}
   - {type: punctuation, offset: 2426, content: /, id: KR3k0012_krp_753-bkkpn35}
   - {type: punctuation, offset: 2438, content: ), id: KR3k0012_krp_753-bkkpn36}
   - {type: 'kr:newline', offset: 2443, content: '
@@ -970,6 +981,7 @@ markers:
   - {type: variant, offset: 2471, length: 1, content: 旣, WYG: 既}
   - {type: punctuation, offset: 2483, content: (, id: KR3k0012_krp_753-bkkpn37}
   - {type: variant, offset: 2483, length: 26, content: 請猶告也順投矢夲入也比投不捨也勝飲不勝言以能養不能也, WYG: ''}
+  - {type: voice, offset: 2483, length: 26, name: note, id: n12}
   - {type: punctuation, offset: 2488, content: /, id: KR3k0012_krp_753-bkkpn38}
   - {type: punctuation, offset: 2493, content: ), id: KR3k0012_krp_753-bkkpn39}
   - {type: 'kr:newline', offset: 2493, content: '
@@ -1005,6 +1017,7 @@ markers:
   - {type: variant, offset: 2555, length: 1, content: 母, WYG: 毋}
   - {type: punctuation, offset: 2559, content: (, id: KR3k0012_krp_753-bkkpn43}
   - {type: variant, offset: 2559, length: 13, content: 取其堅且重也或言去其皮節也, WYG: ''}
+  - {type: voice, offset: 2559, length: 13, name: note, id: n13}
   - {type: punctuation, offset: 2566, content: /, id: KR3k0012_krp_753-bkkpn44}
   - {type: punctuation, offset: 2572, content: ), id: KR3k0012_krp_753-bkkpn45}
   - {type: 'kr:newline', offset: 2572, content: '
@@ -1157,6 +1170,7 @@ markers:
   - {type: variant, offset: 2931, length: 1, content: 笑, SBCK: 􅀏}
   - {type: punctuation, offset: 2932, content: (, id: KR3k0012_krp_753-bkkpn46}
   - {type: variant, offset: 2932, length: 10, content: 張華曰天笑者開口流光, WYG: ''}
+  - {type: voice, offset: 2932, length: 10, name: note, id: n14}
   - {type: variant, offset: 2936, length: 1, content: 笑, SBCK: 􅀏}
   - {type: punctuation, offset: 2937, content: /, id: KR3k0012_krp_753-bkkpn47}
   - {type: punctuation, offset: 2942, content: ), id: KR3k0012_krp_753-bkkpn48}
@@ -1173,6 +1187,7 @@ markers:
   - {type: variant, offset: 2965, length: 1, content: 壷, WYG: 壺}
   - {type: punctuation, offset: 2970, content: (, id: KR3k0012_krp_753-bkkpn49}
   - {type: variant, offset: 2970, length: 3, content: 他由切, WYG: ''}
+  - {type: voice, offset: 2970, length: 3, name: note, id: n15}
   - {type: punctuation, offset: 2972, content: /, id: KR3k0012_krp_753-bkkpn50}
   - {type: punctuation, offset: 2973, content: ), id: KR3k0012_krp_753-bkkpn51}
   - {type: 'kr:newline', offset: 2981, content: '
@@ -1185,6 +1200,7 @@ markers:
   - {type: variant, offset: 3000, length: 18, content: 玄玄月中蝦蟇隨其生死也横日筍龍蛇之類, WYG: 𤣥}
   - {type: punctuation, offset: 3001, content: (, id: KR3k0012_krp_753-bkkpn52}
   - {type: variant, offset: 3001, length: 1, content: 玄, SBCK: 􅀇}
+  - {type: voice, offset: 3001, length: 17, name: note, id: n16}
   - {type: punctuation, offset: 3003, content: /, id: KR3k0012_krp_753-bkkpn53}
   - {type: punctuation, offset: 3005, content: ), id: KR3k0012_krp_753-bkkpn54}
   - {type: 'kr:newline', offset: 3005, content: '
@@ -1197,14 +1213,17 @@ markers:
   - {type: variant, offset: 3021, length: 4, content: 皫平表切, WYG: 􅀈}
   - {type: page-break, offset: 3021, content: '', id: KR3k0012_WYG_753-11b, image: WYG0899/WYG0899-0613b.png}
   - {type: punctuation, offset: 3022, content: (, id: KR3k0012_krp_753-bkkpn58}
+  - {type: voice, offset: 3022, length: 3, name: note, id: n17}
   - {type: punctuation, offset: 3024, content: /, id: KR3k0012_krp_753-bkkpn59}
   - {type: punctuation, offset: 3025, content: ), id: KR3k0012_krp_753-bkkpn60}
   - {type: punctuation, offset: 3026, content: (, id: KR3k0012_krp_753-bkkpn61}
   - {type: variant, offset: 3026, length: 6, content: 謂龍下皫蝦也, WYG: ''}
+  - {type: voice, offset: 3026, length: 6, name: note, id: n18}
   - {type: punctuation, offset: 3029, content: /, id: KR3k0012_krp_753-bkkpn62}
   - {type: punctuation, offset: 3032, content: ), id: KR3k0012_krp_753-bkkpn63}
   - {type: punctuation, offset: 3034, content: (, id: KR3k0012_krp_753-bkkpn64}
   - {type: variant, offset: 3034, length: 19, content: 鷰識候而歸人來去有恒投而歸人自數之極也, WYG: ''}
+  - {type: voice, offset: 3034, length: 19, name: note, id: n19}
   - {type: punctuation, offset: 3037, content: /, id: KR3k0012_krp_753-bkkpn65}
   - {type: punctuation, offset: 3040, content: ), id: KR3k0012_krp_753-bkkpn66}
   - {type: 'kr:newline', offset: 3040, content: '
@@ -1217,10 +1236,12 @@ markers:
   - {type: punctuation, offset: 3053, content: ), id: KR3k0012_krp_753-bkkpn69}
   - {type: punctuation, offset: 3056, content: (, id: KR3k0012_krp_753-bkkpn70}
   - {type: variant, offset: 3056, length: 4, content: 數之極也, WYG: ''}
+  - {type: voice, offset: 3056, length: 4, name: note, id: n20}
   - {type: punctuation, offset: 3058, content: /, id: KR3k0012_krp_753-bkkpn71}
   - {type: punctuation, offset: 3060, content: ), id: KR3k0012_krp_753-bkkpn72}
   - {type: punctuation, offset: 3065, content: (, id: KR3k0012_krp_753-bkkpn73}
   - {type: variant, offset: 3065, length: 4, content: 法於甞矣, WYG: ''}
+  - {type: voice, offset: 3065, length: 8, name: note, id: n21}
   - {type: punctuation, offset: 3069, content: /, id: KR3k0012_krp_753-bkkpn74}
   - {type: variant, offset: 3070, length: 4, content: 用拓棘古, WYG: 者投壺擊皷為節帶劒十二倚十八狼壺二十劒驕七十三百六十籌得一馬三馬成魏王粲賦曰夫注心銳志自求諸身投壺是也晉傅𤣥投壺賦序曰投壺者所以矯懈而正心也晉李尤壺籌銘曰投壺籌禮揖叙先後通風月數分為王部太平御覽卷七百五十三}
   - {type: variant, offset: 3072, length: 1, content: 棘, SBCK: 􅁄}
@@ -1233,4 +1254,4 @@ markers:
 
       ', id: KR3k0012_krp_753-bkkkrnewl182}
   back: []
-hash: sha256:4b7c23066c75c1333ca25e78570ce6f7536881d797360def6ea1a286f001f7f6
+hash: sha256:bd70eb6d2f32c3f7c78682a039d6fdfb7d049c543e70d10f4f5c0346613f5dfa

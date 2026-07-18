@@ -362,6 +362,7 @@ markers:
   - {type: variant, offset: 1034, length: 3, content: 孑焉正, WYG: 孺}
   - {type: 'kr:non-cjk', offset: 1035, content: '*', id: KR3k0012_krp_261-bkkkrnonc2}
   - {type: punctuation, offset: 1035, content: (, id: KR3k0012_krp_261-bkkpn1}
+  - {type: voice, offset: 1035, length: 2, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 1036, content: '-', id: KR3k0012_krp_261-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 1037, content: '+?', id: KR3k0012_krp_261-bkkkrnonc4}
   - {type: punctuation, offset: 1037, content: ), id: KR3k0012_krp_261-bkkpn2}
@@ -1147,4 +1148,4 @@ markers:
 
       ', id: KR3k0012_krp_261-bkkkrnewl191}
   back: []
-hash: sha256:804ade73c038c7b76773dab7ae817e31868b109ca789378f5756fd07e7fe5c84
+hash: sha256:c21544a069da5ae830f662528a34da1c33f5055728a2af08c3d6d7d9a941bd6a

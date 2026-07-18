@@ -94,9 +94,11 @@ markers:
   - {type: line-break, offset: 46, content: '', id: KR3k0012_SBCK_167-1a10}
   - {type: punctuation, offset: 56, content: (, id: KR3k0012_krp_167-bkkpn1}
   - {type: variant, offset: 56, length: 38, content: 北據荆山南及衡山之陽江漢朝宗于海二水經此州而入海有似於朝厥土惟塗泥厥田惟下中, WYG: ''}
+  - {type: voice, offset: 56, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 61, content: /, id: KR3k0012_krp_167-bkkpn2}
   - {type: punctuation, offset: 66, content: ), id: KR3k0012_krp_167-bkkpn3}
   - {type: punctuation, offset: 72, content: (, id: KR3k0012_krp_167-bkkpn4}
+  - {type: voice, offset: 72, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 73, content: /, id: KR3k0012_krp_167-bkkpn5}
   - {type: punctuation, offset: 74, content: ), id: KR3k0012_krp_167-bkkpn6}
   - {type: 'kr:newline', offset: 74, content: '
@@ -115,6 +117,7 @@ markers:
   - {type: variant, offset: 106, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 109, content: (, id: KR3k0012_krp_167-bkkpn10}
   - {type: variant, offset: 109, length: 14, content: 荆之爲言強也陽盛物堅其氣急悍, WYG: ''}
+  - {type: voice, offset: 109, length: 14, name: note, id: n3}
   - {type: punctuation, offset: 116, content: /, id: KR3k0012_krp_167-bkkpn11}
   - {type: punctuation, offset: 123, content: ), id: KR3k0012_krp_167-bkkpn12}
   - {type: 'kr:newline', offset: 123, content: '
@@ -435,6 +438,7 @@ markers:
   - {type: variant, offset: 918, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 921, content: (, id: KR3k0012_krp_167-bkkpn13}
   - {type: variant, offset: 921, length: 1, content: 稀, WYG: 秭}
+  - {type: voice, offset: 921, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 923, content: /, id: KR3k0012_krp_167-bkkpn14}
   - {type: punctuation, offset: 925, content: ), id: KR3k0012_krp_167-bkkpn15}
   - {type: 'kr:newline', offset: 925, content: '
@@ -772,6 +776,7 @@ markers:
   - {type: variant, offset: 1748, length: 1, content: 爲, WYG: 為}
   - {type: variant, offset: 1751, length: 1, content: 蕃, WYG: 藩}
   - {type: punctuation, offset: 1752, content: (, id: KR3k0012_krp_167-bkkpn16}
+  - {type: voice, offset: 1752, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 1754, content: /, id: KR3k0012_krp_167-bkkpn17}
   - {type: punctuation, offset: 1756, content: ), id: KR3k0012_krp_167-bkkpn18}
   - {type: 'kr:newline', offset: 1756, content: '
@@ -918,6 +923,7 @@ markers:
   - {type: line-break, offset: 2149, content: '', id: KR3k0012_SBCK_167-6a11}
   - {type: variant, offset: 2155, length: 1, content: 喉, WYG: 㗋}
   - {type: punctuation, offset: 2159, content: (, id: KR3k0012_krp_167-bkkpn19}
+  - {type: voice, offset: 2159, length: 7, name: note, id: n6}
   - {type: punctuation, offset: 2163, content: /, id: KR3k0012_krp_167-bkkpn20}
   - {type: punctuation, offset: 2166, content: ), id: KR3k0012_krp_167-bkkpn21}
   - {type: 'kr:newline', offset: 2166, content: '
@@ -1091,6 +1097,7 @@ markers:
   - {type: line-break, offset: 2559, content: '', id: KR3k0012_SBCK_167-7a12}
   - {type: punctuation, offset: 2561, content: (, id: KR3k0012_krp_167-bkkpn22}
   - {type: variant, offset: 2561, length: 8, content: 平者即今豊都縣也, WYG: ''}
+  - {type: voice, offset: 2561, length: 8, name: note, id: n7}
   - {type: punctuation, offset: 2565, content: /, id: KR3k0012_krp_167-bkkpn23}
   - {type: punctuation, offset: 2569, content: ), id: KR3k0012_krp_167-bkkpn24}
   - {type: 'kr:newline', offset: 2569, content: '
@@ -1124,6 +1131,7 @@ markers:
   - {type: line-break, offset: 2607, content: '', id: KR3k0012_SBCK_167-7b04}
   - {type: punctuation, offset: 2616, content: (, id: KR3k0012_krp_167-bkkpn25}
   - {type: variant, offset: 2616, length: 8, content: 朐音蠢䏰如尹切㝷, WYG: 尋}
+  - {type: voice, offset: 2616, length: 7, name: note, id: n8}
   - {type: punctuation, offset: 2620, content: /, id: KR3k0012_krp_167-bkkpn26}
   - {type: punctuation, offset: 2623, content: ), id: KR3k0012_krp_167-bkkpn27}
   - {type: 'kr:newline', offset: 2623, content: '
@@ -1269,4 +1277,4 @@ markers:
 
       ', id: KR3k0012_krp_167-bkkkrnewl213}
   back: []
-hash: sha256:b30a760858b68d3e80bb2c3aa9a39c5c1f47746f44da7d0e0a9336894ec29f9f
+hash: sha256:91aca99c6269cf2701bc8b37c27a1453c188f12d471ab1db51cf42fc130371ce

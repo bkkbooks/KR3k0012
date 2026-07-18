@@ -46,6 +46,7 @@ markers:
       ', id: KR3k0012_krp_071-bkkkrnewl5}
   - {type: line-break, offset: 23, content: '', id: KR3k0012_SBCK_071-1a06}
   - {type: punctuation, offset: 31, content: (, id: KR3k0012_krp_071-bkkpn1}
+  - {type: voice, offset: 31, length: 19, name: note, id: n1}
   - {type: variant, offset: 40, length: 1, content: 知, WYG: 如}
   - {type: punctuation, offset: 41, content: /, id: KR3k0012_krp_071-bkkpn2}
   - {type: variant, offset: 44, length: 1, content: 爲, WYG: 為}
@@ -369,6 +370,7 @@ markers:
       ', id: KR3k0012_krp_071-bkkkrnewl64}
   - {type: line-break, offset: 982, content: '', id: KR3k0012_SBCK_071-3a09}
   - {type: punctuation, offset: 987, content: (, id: KR3k0012_krp_071-bkkpn4}
+  - {type: voice, offset: 987, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 991, content: /, id: KR3k0012_krp_071-bkkpn5}
   - {type: punctuation, offset: 995, content: ), id: KR3k0012_krp_071-bkkpn6}
   - {type: 'kr:newline', offset: 995, content: '
@@ -710,6 +712,7 @@ markers:
   - {type: variant, offset: 1943, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1946, content: (, id: KR3k0012_krp_071-bkkpn7}
   - {type: variant, offset: 1946, length: 10, content: 爲舎人曰人力水爲居止, WYG: ''}
+  - {type: voice, offset: 1946, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 1951, content: /, id: KR3k0012_krp_071-bkkpn8}
   - {type: punctuation, offset: 1956, content: ), id: KR3k0012_krp_071-bkkpn9}
   - {type: 'kr:newline', offset: 1956, content: '
@@ -729,6 +732,7 @@ markers:
   - {type: variant, offset: 1962, length: 1, content: 小, WYG: 水}
   - {type: punctuation, offset: 1969, content: (, id: KR3k0012_krp_071-bkkpn10}
   - {type: variant, offset: 1969, length: 3, content: 廣雅同, WYG: ''}
+  - {type: voice, offset: 1969, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 1972, content: ), id: KR3k0012_krp_071-bkkpn11}
   - {type: 'kr:newline', offset: 1972, content: '
 
@@ -935,6 +939,7 @@ markers:
       ', id: KR3k0012_krp_071-bkkkrnewl163}
   - {type: line-break, offset: 2413, content: '', id: KR3k0012_SBCK_071-6b10}
   - {type: punctuation, offset: 2416, content: (, id: KR3k0012_krp_071-bkkpn12}
+  - {type: voice, offset: 2416, length: 4, name: note, id: n5}
   - {type: variant, offset: 2417, length: 1, content: 舡, WYG: 船}
   - {type: punctuation, offset: 2418, content: /, id: KR3k0012_krp_071-bkkpn13}
   - {type: punctuation, offset: 2420, content: ), id: KR3k0012_krp_071-bkkpn14}
@@ -1045,4 +1050,4 @@ markers:
 
       ', id: KR3k0012_krp_071-bkkkrnewl183}
   back: []
-hash: sha256:877f6fab1b4f3b2fe492b352bf86b10ed2b1cb811e25a53633999221d4c671ad
+hash: sha256:ebd3559fc4f7aea47919efe6acb584f2f0fed9cbfc990b91741cd4647f1ad5a4

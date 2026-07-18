@@ -136,6 +136,7 @@ markers:
       ', id: KR3k0012_krp_486-bkkkrnewl22}
   - {type: line-break, offset: 324, content: '', id: KR3k0012_SBCK_486-1b09}
   - {type: punctuation, offset: 326, content: (, id: KR3k0012_krp_486-bkkpn1}
+  - {type: voice, offset: 326, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 329, content: /, id: KR3k0012_krp_486-bkkpn2}
   - {type: variant, offset: 329, length: 1, content: 廬, WYG: 帳}
   - {type: punctuation, offset: 331, content: ), id: KR3k0012_krp_486-bkkpn3}
@@ -432,6 +433,7 @@ markers:
       ', id: KR3k0012_krp_486-bkkkrnewl77}
   - {type: line-break, offset: 1237, content: '', id: KR3k0012_SBCK_486-3b08}
   - {type: punctuation, offset: 1239, content: (, id: KR3k0012_krp_486-bkkpn4}
+  - {type: voice, offset: 1239, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 1244, content: /, id: KR3k0012_krp_486-bkkpn5}
   - {type: punctuation, offset: 1249, content: ), id: KR3k0012_krp_486-bkkpn6}
   - {type: variant, offset: 1249, length: 1, content: 甞, WYG: 嘗}
@@ -570,6 +572,7 @@ markers:
   - {type: line-break, offset: 1626, content: '', id: KR3k0012_SBCK_486-4b05}
   - {type: variant, offset: 1636, length: 1, content: 渉, WYG: 涉}
   - {type: punctuation, offset: 1642, content: (, id: KR3k0012_krp_486-bkkpn7}
+  - {type: voice, offset: 1642, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 1648, content: /, id: KR3k0012_krp_486-bkkpn8}
   - {type: variant, offset: 1651, length: 1, content: 渉, WYG: 涉}
   - {type: punctuation, offset: 1653, content: ), id: KR3k0012_krp_486-bkkpn9}
@@ -599,6 +602,7 @@ markers:
   - {type: line-break, offset: 1715, content: '', id: KR3k0012_SBCK_486-4b10}
   - {type: variant, offset: 1719, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1721, content: (, id: KR3k0012_krp_486-bkkpn10}
+  - {type: voice, offset: 1721, length: 10, name: note, id: n4}
   - {type: punctuation, offset: 1726, content: /, id: KR3k0012_krp_486-bkkpn11}
   - {type: variant, offset: 1727, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1731, content: ), id: KR3k0012_krp_486-bkkpn12}
@@ -736,6 +740,7 @@ markers:
       ', id: KR3k0012_krp_486-bkkkrnewl131}
   - {type: line-break, offset: 2104, content: '', id: KR3k0012_SBCK_486-5b06}
   - {type: punctuation, offset: 2124, content: (, id: KR3k0012_krp_486-bkkpn13}
+  - {type: voice, offset: 2124, length: 12, name: note, id: n5}
   - {type: punctuation, offset: 2126, content: /, id: KR3k0012_krp_486-bkkpn14}
   - {type: punctuation, offset: 2128, content: ), id: KR3k0012_krp_486-bkkpn15}
   - {type: 'kr:newline', offset: 2128, content: '
@@ -757,9 +762,11 @@ markers:
       ', id: KR3k0012_krp_486-bkkkrnewl134}
   - {type: line-break, offset: 2167, content: '', id: KR3k0012_SBCK_486-5b09}
   - {type: punctuation, offset: 2172, content: (, id: KR3k0012_krp_486-bkkpn19}
+  - {type: voice, offset: 2172, length: 12, name: note, id: n6}
   - {type: punctuation, offset: 2178, content: /, id: KR3k0012_krp_486-bkkpn20}
   - {type: punctuation, offset: 2184, content: ), id: KR3k0012_krp_486-bkkpn21}
   - {type: punctuation, offset: 2191, content: (, id: KR3k0012_krp_486-bkkpn22}
+  - {type: voice, offset: 2191, length: 4, name: note, id: n7}
   - {type: punctuation, offset: 2193, content: /, id: KR3k0012_krp_486-bkkpn23}
   - {type: variant, offset: 2193, length: 1, content: 晉, SBCK: 􅀳}
   - {type: punctuation, offset: 2195, content: ), id: KR3k0012_krp_486-bkkpn24}
@@ -781,6 +788,7 @@ markers:
   - {type: variant, offset: 2242, length: 1, content: 旣, WYG: 既}
   - {type: variant, offset: 2245, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 2248, content: (, id: KR3k0012_krp_486-bkkpn25}
+  - {type: voice, offset: 2248, length: 6, name: note, id: n8}
   - {type: variant, offset: 2250, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 2251, content: /, id: KR3k0012_krp_486-bkkpn26}
   - {type: punctuation, offset: 2254, content: ), id: KR3k0012_krp_486-bkkpn27}
@@ -1366,4 +1374,4 @@ markers:
 
       ', id: KR3k0012_krp_486-bkkkrnewl247}
   back: []
-hash: sha256:e40b693fa9d53d7feb37be5f168b0a7038dc2bb500e42c0bea783e83c64226cf
+hash: sha256:690d835f250302dd2b5c8558fa3cfb17459672e225befe70c19ee73bd4dd7692

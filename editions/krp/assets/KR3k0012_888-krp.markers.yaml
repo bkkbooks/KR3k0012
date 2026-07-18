@@ -33,6 +33,7 @@ markers:
   - {type: variant, offset: 36, length: 1, content: 風, WYG: ''}
   - {type: punctuation, offset: 38, content: (, id: KR3k0012_krp_888-bkkpn1}
   - {type: variant, offset: 38, length: 24, content: 鶂以眸子相視蟲鳴以聲相因不待合而便生子故曰風化也, WYG: ''}
+  - {type: voice, offset: 38, length: 24, name: note, id: n1}
   - {type: punctuation, offset: 50, content: /, id: KR3k0012_krp_888-bkkpn2}
   - {type: punctuation, offset: 62, content: ), id: KR3k0012_krp_888-bkkpn3}
   - {type: 'kr:newline', offset: 62, content: '
@@ -48,6 +49,7 @@ markers:
   - {type: line-break, offset: 84, content: '', id: KR3k0012_SBCK_888-1a07}
   - {type: punctuation, offset: 87, content: (, id: KR3k0012_krp_888-bkkpn4}
   - {type: variant, offset: 87, length: 87, content: 歷陽屬九江郡歷陽縣中有老嫗常行仁義有兩諸生過之謂曰此國當没爲湖嫗視東城閫有血便走上山勿反顧也自此嫗數徃視閫門吏問之對如其言暮門吏殺雞以血塗門閫明日嫗徃視門見血便走上山因没爲湖, WYG: ''}
+  - {type: voice, offset: 87, length: 87, name: note, id: n2}
   - {type: punctuation, offset: 106, content: /, id: KR3k0012_krp_888-bkkpn5}
   - {type: punctuation, offset: 125, content: ), id: KR3k0012_krp_888-bkkpn6}
   - {type: 'kr:newline', offset: 125, content: '
@@ -1219,4 +1221,4 @@ markers:
 
       ', id: KR3k0012_krp_888-bkkkrnewl192}
   back: []
-hash: sha256:fda1b3ee64d360acc37c7e963f6779d5a1f1360d30fd13ba26342ec6e7c1ad85
+hash: sha256:01b46a4c7948348516af49360b19129232c3d5ef4895bd588554257e4b963992

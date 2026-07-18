@@ -131,6 +131,7 @@ markers:
   - {type: line-break, offset: 346, content: '', id: KR3k0012_SBCK_565-1b08}
   - {type: variant, offset: 348, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 350, content: (, id: KR3k0012_krp_565-bkkpn1}
+  - {type: voice, offset: 350, length: 20, name: note, id: n1}
   - {type: variant, offset: 354, length: 1, content: 用, WYG: 門}
   - {type: variant, offset: 357, length: 0, content: '', WYG: 六莖}
   - {type: variant, offset: 358, length: 3, content: 筮大卷, WYG: 巻}
@@ -561,6 +562,7 @@ markers:
   - {type: line-break, offset: 1583, content: '', id: KR3k0012_SBCK_565-4a02}
   - {type: variant, offset: 1586, length: 1, content: 冝, WYG: 宜}
   - {type: punctuation, offset: 1588, content: (, id: KR3k0012_krp_565-bkkpn4}
+  - {type: voice, offset: 1588, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 1593, content: /, id: KR3k0012_krp_565-bkkpn5}
   - {type: punctuation, offset: 1597, content: ), id: KR3k0012_krp_565-bkkpn6}
   - {type: 'kr:newline', offset: 1597, content: '
@@ -623,6 +625,7 @@ markers:
       ', id: KR3k0012_krp_565-bkkkrnewl96}
   - {type: line-break, offset: 1796, content: '', id: KR3k0012_SBCK_565-4a12}
   - {type: punctuation, offset: 1804, content: (, id: KR3k0012_krp_565-bkkpn7}
+  - {type: voice, offset: 1804, length: 13, name: note, id: n3}
   - {type: variant, offset: 1807, length: 3, content: 碌碌摩, WYG: 度靡}
   - {type: punctuation, offset: 1811, content: /, id: KR3k0012_krp_565-bkkpn8}
   - {type: variant, offset: 1814, length: 1, content: 彈, WYG: 弹}
@@ -1315,4 +1318,4 @@ markers:
 
       ', id: KR3k0012_krp_565-bkkkrnewl205}
   back: []
-hash: sha256:20400830411da9d954463b7a21baa20d89e73cdb0725a9730943ea90d932fd2c
+hash: sha256:a02226eb1808adb4d0498c896ebc51ae0d00d4fbaa379e8acb3bd569411b9381

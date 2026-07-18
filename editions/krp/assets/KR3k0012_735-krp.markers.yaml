@@ -46,6 +46,7 @@ markers:
   - {type: variant, offset: 35, length: 1, content: 高, WYG: 髙}
   - {type: punctuation, offset: 37, content: (, id: KR3k0012_krp_735-bkkpn1}
   - {type: variant, offset: 37, length: 2, content: 音隻, WYG: ''}
+  - {type: voice, offset: 37, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 38, content: /, id: KR3k0012_krp_735-bkkpn2}
   - {type: punctuation, offset: 39, content: ), id: KR3k0012_krp_735-bkkpn3}
   - {type: variant, offset: 41, length: 1, content: 南, WYG: 臣}
@@ -433,6 +434,7 @@ markers:
   - {type: variant, offset: 1158, length: 1, content: 壺, WYG: 胡}
   - {type: punctuation, offset: 1164, content: (, id: KR3k0012_krp_735-bkkpn4}
   - {type: variant, offset: 1164, length: 25, content: 在男日覡在女日巫巫能占骨法吉凶之氣故見其兆徵徵應也, WYG: ''}
+  - {type: voice, offset: 1164, length: 25, name: note, id: n2}
   - {type: punctuation, offset: 1171, content: /, id: KR3k0012_krp_735-bkkpn5}
   - {type: punctuation, offset: 1178, content: ), id: KR3k0012_krp_735-bkkpn6}
   - {type: 'kr:newline', offset: 1178, content: '
@@ -444,6 +446,7 @@ markers:
   - {type: punctuation, offset: 1189, content: ), id: KR3k0012_krp_735-bkkpn9}
   - {type: punctuation, offset: 1199, content: (, id: KR3k0012_krp_735-bkkpn10}
   - {type: variant, offset: 1199, length: 15, content: 列子鄭之隱士也壺子弟子報白者也, WYG: ''}
+  - {type: voice, offset: 1199, length: 15, name: note, id: n3}
   - {type: punctuation, offset: 1205, content: /, id: KR3k0012_krp_735-bkkpn11}
   - {type: punctuation, offset: 1211, content: ), id: KR3k0012_krp_735-bkkpn12}
   - {type: 'kr:newline', offset: 1211, content: '
@@ -455,6 +458,7 @@ markers:
   - {type: punctuation, offset: 1214, content: ), id: KR3k0012_krp_735-bkkpn15}
   - {type: punctuation, offset: 1220, content: (, id: KR3k0012_krp_735-bkkpn16}
   - {type: variant, offset: 1220, length: 25, content: 言精神天之有也形骸地之有也死也自歸其本故日持天壤矣, WYG: ''}
+  - {type: voice, offset: 1220, length: 25, name: note, id: n4}
   - {type: punctuation, offset: 1233, content: /, id: KR3k0012_krp_735-bkkpn17}
   - {type: punctuation, offset: 1245, content: ), id: KR3k0012_krp_735-bkkpn18}
   - {type: 'kr:newline', offset: 1246, content: '
@@ -467,6 +471,7 @@ markers:
   - {type: line-break, offset: 1246, content: '', id: KR3k0012_SBCK_735-3b01}
   - {type: punctuation, offset: 1253, content: (, id: KR3k0012_krp_735-bkkpn19}
   - {type: variant, offset: 1253, length: 38, content: 名爵號之名也實幣帛貨財之實不入者心不恤也機疾也謂命危殆不旋踵而至猶不怨懼者也, WYG: ''}
+  - {type: voice, offset: 1253, length: 38, name: note, id: n5}
   - {type: punctuation, offset: 1268, content: /, id: KR3k0012_krp_735-bkkpn20}
   - {type: punctuation, offset: 1283, content: ), id: KR3k0012_krp_735-bkkpn21}
   - {type: 'kr:newline', offset: 1283, content: '
@@ -478,6 +483,7 @@ markers:
   - {type: punctuation, offset: 1291, content: ), id: KR3k0012_krp_735-bkkpn24}
   - {type: punctuation, offset: 1299, content: (, id: KR3k0012_krp_735-bkkpn25}
   - {type: variant, offset: 1299, length: 3, content: 齊等也, WYG: ''}
+  - {type: voice, offset: 1299, length: 3, name: note, id: n6}
   - {type: punctuation, offset: 1301, content: /, id: KR3k0012_krp_735-bkkpn26}
   - {type: punctuation, offset: 1302, content: ), id: KR3k0012_krp_735-bkkpn27}
   - {type: 'kr:newline', offset: 1302, content: '
@@ -575,6 +581,7 @@ markers:
   - {type: line-break, offset: 1564, content: '', id: KR3k0012_SBCK_735-4a04}
   - {type: variant, offset: 1565, length: 1, content: 日, WYG: 曰}
   - {type: punctuation, offset: 1573, content: (, id: KR3k0012_krp_735-bkkpn28}
+  - {type: voice, offset: 1573, length: 11, name: note, id: n7}
   - {type: variant, offset: 1578, length: 1, content: 曾, WYG: 曽}
   - {type: punctuation, offset: 1579, content: /, id: KR3k0012_krp_735-bkkpn29}
   - {type: punctuation, offset: 1584, content: ), id: KR3k0012_krp_735-bkkpn30}
@@ -585,6 +592,7 @@ markers:
   - {type: line-break, offset: 1591, content: '', id: KR3k0012_SBCK_735-4a05}
   - {type: punctuation, offset: 1593, content: (, id: KR3k0012_krp_735-bkkpn31}
   - {type: variant, offset: 1593, length: 25, content: 邵公邵康公之後穆公虎也爲王卿士言人不堪暴虐之政命也, WYG: ''}
+  - {type: voice, offset: 1593, length: 25, name: note, id: n8}
   - {type: punctuation, offset: 1606, content: /, id: KR3k0012_krp_735-bkkpn32}
   - {type: variant, offset: 1606, length: 1, content: 卿, SBCK: 􅀸}
   - {type: punctuation, offset: 1618, content: ), id: KR3k0012_krp_735-bkkpn33}
@@ -594,9 +602,11 @@ markers:
   - {type: line-break, offset: 1625, content: '', id: KR3k0012_SBCK_735-4a06}
   - {type: punctuation, offset: 1627, content: (, id: KR3k0012_krp_735-bkkpn34}
   - {type: variant, offset: 1627, length: 19, content: 衛巫衛國之巫監察之也巫有神靈有謗必知也, WYG: ''}
+  - {type: voice, offset: 1627, length: 19, name: note, id: n9}
   - {type: punctuation, offset: 1637, content: /, id: KR3k0012_krp_735-bkkpn35}
   - {type: punctuation, offset: 1646, content: ), id: KR3k0012_krp_735-bkkpn36}
   - {type: punctuation, offset: 1651, content: (, id: KR3k0012_krp_735-bkkpn37}
+  - {type: voice, offset: 1651, length: 8, name: note, id: n10}
   - {type: punctuation, offset: 1655, content: /, id: KR3k0012_krp_735-bkkpn38}
   - {type: punctuation, offset: 1659, content: ), id: KR3k0012_krp_735-bkkpn39}
   - {type: 'kr:newline', offset: 1660, content: '
@@ -609,6 +619,7 @@ markers:
   - {type: line-break, offset: 1682, content: '', id: KR3k0012_SBCK_735-4a08}
   - {type: punctuation, offset: 1683, content: (, id: KR3k0012_krp_735-bkkpn40}
   - {type: variant, offset: 1683, length: 2, content: 弭止, WYG: ''}
+  - {type: voice, offset: 1683, length: 2, name: note, id: n11}
   - {type: punctuation, offset: 1684, content: /, id: KR3k0012_krp_735-bkkpn41}
   - {type: punctuation, offset: 1685, content: ), id: KR3k0012_krp_735-bkkpn42}
   - {type: 'kr:newline', offset: 1685, content: '
@@ -624,10 +635,12 @@ markers:
   - {type: variant, offset: 1708, length: 1, content: 懷, WYG: 懐}
   - {type: punctuation, offset: 1711, content: (, id: KR3k0012_krp_735-bkkpn43}
   - {type: variant, offset: 1711, length: 3, content: 私吕反, WYG: ''}
+  - {type: voice, offset: 1711, length: 3, name: note, id: n12}
   - {type: punctuation, offset: 1713, content: /, id: KR3k0012_krp_735-bkkpn44}
   - {type: punctuation, offset: 1714, content: ), id: KR3k0012_krp_735-bkkpn45}
   - {type: punctuation, offset: 1717, content: (, id: KR3k0012_krp_735-bkkpn46}
   - {type: variant, offset: 1717, length: 15, content: 椒者香物也所以降精神來所以享神, WYG: ''}
+  - {type: voice, offset: 1717, length: 15, name: note, id: n13}
   - {type: punctuation, offset: 1725, content: /, id: KR3k0012_krp_735-bkkpn47}
   - {type: punctuation, offset: 1732, content: ), id: KR3k0012_krp_735-bkkpn48}
   - {type: 'kr:newline', offset: 1732, content: '
@@ -1429,6 +1442,7 @@ markers:
   - {type: variant, offset: 4163, length: 1, content: 往, WYG: 徃}
   - {type: punctuation, offset: 4172, content: (, id: KR3k0012_krp_735-bkkpn49}
   - {type: variant, offset: 4172, length: 6, content: 上音求下音搜, WYG: ''}
+  - {type: voice, offset: 4172, length: 6, name: note, id: n14}
   - {type: punctuation, offset: 4175, content: /, id: KR3k0012_krp_735-bkkpn50}
   - {type: punctuation, offset: 4178, content: ), id: KR3k0012_krp_735-bkkpn51}
   - {type: variant, offset: 4179, length: 1, content: 柩, WYG: 枕}
@@ -1593,4 +1607,4 @@ markers:
 
       ', id: KR3k0012_krp_735-bkkkrnewl249}
   back: []
-hash: sha256:3f2c359d7315974667da081aaef823a04cf236108af7b1887f3511737ac692f6
+hash: sha256:c9e56487dccb1525dc198117f71b28b6147e0bbd92740c721d0c64212b953e23

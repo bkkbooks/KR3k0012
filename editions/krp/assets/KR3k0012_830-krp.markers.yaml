@@ -33,6 +33,7 @@ markers:
   - {type: indent, offset: 12, content: 　, id: KR3k0012_krp_830-bkkind7}
   - {type: indent, offset: 13, content: 　, id: KR3k0012_krp_830-bkkind8}
   - {type: punctuation, offset: 14, content: (, id: KR3k0012_krp_830-bkkpn1}
+  - {type: voice, offset: 14, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 16, content: /, id: KR3k0012_krp_830-bkkpn2}
   - {type: punctuation, offset: 17, content: ), id: KR3k0012_krp_830-bkkpn3}
   - {type: indent, offset: 18, content: 　, id: KR3k0012_krp_830-bkkind9}
@@ -64,6 +65,7 @@ markers:
   - {type: variant, offset: 74, length: 1, content: 歩, WYG: 步}
   - {type: punctuation, offset: 81, content: (, id: KR3k0012_krp_830-bkkpn4}
   - {type: variant, offset: 81, length: 73, content: 周尺之數未詳聞也案禮制周猶以十寸爲尺蓋六國時多變亂法度或言周尺八寸則歩更爲八八六十四寸以此計之古者百畝當今百五十六畒二十五歩古者百里當今百二十五里, WYG: ''}
+  - {type: voice, offset: 81, length: 73, name: note, id: n2}
   - {type: punctuation, offset: 88, content: /, id: KR3k0012_krp_830-bkkpn5}
   - {type: punctuation, offset: 95, content: ), id: KR3k0012_krp_830-bkkpn6}
   - {type: 'kr:newline', offset: 95, content: '
@@ -88,6 +90,7 @@ markers:
   - {type: page-break, offset: 154, content: '', id: KR3k0012_WYG_830-1b, image: WYG0900/WYG0900-0343d.png}
   - {type: punctuation, offset: 171, content: (, id: KR3k0012_krp_830-bkkpn13}
   - {type: variant, offset: 171, length: 5, content: 度音大各反, WYG: ''}
+  - {type: voice, offset: 171, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 174, content: /, id: KR3k0012_krp_830-bkkpn14}
   - {type: punctuation, offset: 176, content: ), id: KR3k0012_krp_830-bkkpn15}
   - {type: 'kr:newline', offset: 178, content: '
@@ -98,6 +101,7 @@ markers:
   - {type: variant, offset: 186, length: 1, content: 黍, SBCK: 􅁰}
   - {type: punctuation, offset: 189, content: (, id: KR3k0012_krp_830-bkkpn16}
   - {type: variant, offset: 189, length: 24, content: 師古曰秬即黒黍中者不大不小也言取黑黍穀子大小中者, WYG: ''}
+  - {type: voice, offset: 189, length: 29, name: note, id: n4}
   - {type: variant, offset: 195, length: 1, content: 黍, SBCK: 􅁰}
   - {type: punctuation, offset: 202, content: /, id: KR3k0012_krp_830-bkkpn17}
   - {type: variant, offset: 214, length: 4, content: 爲分寸也, WYG: ''}
@@ -196,6 +200,7 @@ markers:
   - {type: variant, offset: 424, length: 1, content: 冝, WYG: ''}
   - {type: variant, offset: 426, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 427, content: (, id: KR3k0012_krp_830-bkkpn22}
+  - {type: voice, offset: 427, length: 13, name: note, id: n5}
   - {type: variant, offset: 430, length: 1, content: 㝷, WYG: 尋}
   - {type: punctuation, offset: 432, content: /, id: KR3k0012_krp_830-bkkpn23}
   - {type: variant, offset: 436, length: 1, content: 巳, WYG: 己}
@@ -263,6 +268,7 @@ markers:
   - {type: line-break, offset: 605, content: '', id: KR3k0012_SBCK_830-2a08}
   - {type: punctuation, offset: 612, content: (, id: KR3k0012_krp_830-bkkpn28}
   - {type: variant, offset: 612, length: 5, content: 白虎通同說, WYG: 説}
+  - {type: voice, offset: 612, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 614, content: /, id: KR3k0012_krp_830-bkkpn29}
   - {type: punctuation, offset: 616, content: ), id: KR3k0012_krp_830-bkkpn30}
   - {type: 'kr:newline', offset: 616, content: '
@@ -316,6 +322,7 @@ markers:
   - {type: variant, offset: 718, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 727, content: (, id: KR3k0012_krp_830-bkkpn31}
   - {type: variant, offset: 727, length: 28, content: 消涷之精不復減也㮚古文或作歴玄謂量當與鍾鼎同齊工異者大器, WYG: ''}
+  - {type: voice, offset: 727, length: 28, name: note, id: n7}
   - {type: punctuation, offset: 730, content: /, id: KR3k0012_krp_830-bkkpn32}
   - {type: punctuation, offset: 733, content: ), id: KR3k0012_krp_830-bkkpn33}
   - {type: 'kr:newline', offset: 733, content: '
@@ -327,6 +334,7 @@ markers:
   - {type: punctuation, offset: 744, content: /, id: KR3k0012_krp_830-bkkpn35}
   - {type: punctuation, offset: 755, content: ), id: KR3k0012_krp_830-bkkpn36}
   - {type: punctuation, offset: 761, content: (, id: KR3k0012_krp_830-bkkpn37}
+  - {type: voice, offset: 761, length: 13, name: note, id: n8}
   - {type: variant, offset: 762, length: 13, content: 謂稱分之也雖異法用金必齊權, WYG: ''}
   - {type: punctuation, offset: 766, content: /, id: KR3k0012_krp_830-bkkpn38}
   - {type: punctuation, offset: 771, content: ), id: KR3k0012_krp_830-bkkpn39}
@@ -338,6 +346,7 @@ markers:
   - {type: punctuation, offset: 773, content: /, id: KR3k0012_krp_830-bkkpn41}
   - {type: punctuation, offset: 774, content: ), id: KR3k0012_krp_830-bkkpn42}
   - {type: punctuation, offset: 780, content: (, id: KR3k0012_krp_830-bkkpn43}
+  - {type: voice, offset: 780, length: 38, name: note, id: n9}
   - {type: variant, offset: 781, length: 38, content: 故書或作水杜子春云當爲水金噐有孔者水入孔中則當重也玄謂凖擊平王之又當齊大小凖, WYG: ''}
   - {type: punctuation, offset: 794, content: /, id: KR3k0012_krp_830-bkkpn44}
   - {type: punctuation, offset: 808, content: ), id: KR3k0012_krp_830-bkkpn45}
@@ -350,6 +359,7 @@ markers:
   - {type: punctuation, offset: 818, content: ), id: KR3k0012_krp_830-bkkpn48}
   - {type: punctuation, offset: 824, content: (, id: KR3k0012_krp_830-bkkpn49}
   - {type: variant, offset: 824, length: 13, content: 鑄之於法中也量讀如量人之量, WYG: ''}
+  - {type: voice, offset: 824, length: 13, name: note, id: n10}
   - {type: punctuation, offset: 831, content: /, id: KR3k0012_krp_830-bkkpn50}
   - {type: punctuation, offset: 837, content: ), id: KR3k0012_krp_830-bkkpn51}
   - {type: variant, offset: 840, length: 1, content: 爲, WYG: 為}
@@ -360,6 +370,7 @@ markers:
   - {type: variant, offset: 842, length: 1, content: 深, SBCK: 􅀷}
   - {type: punctuation, offset: 855, content: (, id: KR3k0012_krp_830-bkkpn52}
   - {type: variant, offset: 855, length: 68, content: 以其容爲之名也四升曰豆四豆曰區四區曰鬴鬴六斗四升也鬴十則鍾方尺積千寸於今粟米法少二升八十一分升之二十二其數必容鬴此言大方耳圜其外者爲之脣, WYG: ''}
+  - {type: voice, offset: 855, length: 68, name: note, id: n11}
   - {type: punctuation, offset: 863, content: /, id: KR3k0012_krp_830-bkkpn53}
   - {type: punctuation, offset: 871, content: ), id: KR3k0012_krp_830-bkkpn54}
   - {type: 'kr:newline', offset: 871, content: '
@@ -378,6 +389,7 @@ markers:
   - {type: punctuation, offset: 923, content: ), id: KR3k0012_krp_830-bkkpn60}
   - {type: punctuation, offset: 931, content: (, id: KR3k0012_krp_830-bkkpn61}
   - {type: variant, offset: 931, length: 21, content: 故書臋作脣杜子春云當爲臋謂覆之其底深一寸也, WYG: ''}
+  - {type: voice, offset: 931, length: 21, name: note, id: n12}
   - {type: punctuation, offset: 941, content: /, id: KR3k0012_krp_830-bkkpn62}
   - {type: variant, offset: 948, length: 1, content: 深, SBCK: 􅀷}
   - {type: punctuation, offset: 951, content: ), id: KR3k0012_krp_830-bkkpn63}
@@ -390,10 +402,12 @@ markers:
   - {type: variant, offset: 954, length: 1, content: 三, WYG: 二}
   - {type: punctuation, offset: 960, content: (, id: KR3k0012_krp_830-bkkpn66}
   - {type: variant, offset: 960, length: 6, content: 耳在旁可舉也, WYG: ''}
+  - {type: voice, offset: 960, length: 6, name: note, id: n13}
   - {type: punctuation, offset: 963, content: /, id: KR3k0012_krp_830-bkkpn67}
   - {type: punctuation, offset: 966, content: ), id: KR3k0012_krp_830-bkkpn68}
   - {type: punctuation, offset: 969, content: (, id: KR3k0012_krp_830-bkkpn69}
   - {type: variant, offset: 969, length: 4, content: 重三十斤, WYG: ''}
+  - {type: voice, offset: 969, length: 4, name: note, id: n14}
   - {type: punctuation, offset: 971, content: /, id: KR3k0012_krp_830-bkkpn70}
   - {type: punctuation, offset: 973, content: ), id: KR3k0012_krp_830-bkkpn71}
   - {type: 'kr:newline', offset: 978, content: '
@@ -402,10 +416,12 @@ markers:
   - {type: line-break, offset: 978, content: '', id: KR3k0012_SBCK_830-2b10}
   - {type: punctuation, offset: 980, content: (, id: KR3k0012_krp_830-bkkpn72}
   - {type: variant, offset: 980, length: 4, content: 應律之首, WYG: ''}
+  - {type: voice, offset: 980, length: 4, name: note, id: n15}
   - {type: punctuation, offset: 982, content: /, id: KR3k0012_krp_830-bkkpn73}
   - {type: punctuation, offset: 984, content: ), id: KR3k0012_krp_830-bkkpn74}
   - {type: variant, offset: 987, length: 14, content: 稅鄭司農云令百姓得以量而不租, WYG: ''}
   - {type: punctuation, offset: 988, content: (, id: KR3k0012_krp_830-bkkpn75}
+  - {type: voice, offset: 988, length: 14, name: note, id: n16}
   - {type: punctuation, offset: 995, content: /, id: KR3k0012_krp_830-bkkpn76}
   - {type: punctuation, offset: 1002, content: ), id: KR3k0012_krp_830-bkkpn77}
   - {type: page-break, offset: 1003, content: '', id: KR3k0012_WYG_830-4b, image: WYG0900/WYG0900-0345b.png}
@@ -415,6 +431,7 @@ markers:
   - {type: line-break, offset: 1009, content: '', id: KR3k0012_SBCK_830-2b11}
   - {type: punctuation, offset: 1013, content: (, id: KR3k0012_krp_830-bkkpn78}
   - {type: variant, offset: 1013, length: 42, content: 銘刻之也時是也允信也臻至也極中也言是文徳之君思求可以爲民立法者而作此量信至於道之中矣, WYG: ''}
+  - {type: voice, offset: 1013, length: 42, name: note, id: n17}
   - {type: punctuation, offset: 1031, content: /, id: KR3k0012_krp_830-bkkpn79}
   - {type: punctuation, offset: 1049, content: ), id: KR3k0012_krp_830-bkkpn80}
   - {type: 'kr:newline', offset: 1049, content: '
@@ -427,6 +444,7 @@ markers:
   - {type: variant, offset: 1057, length: 1, content: 旣, WYG: 既}
   - {type: punctuation, offset: 1063, content: (, id: KR3k0012_krp_830-bkkpn84}
   - {type: variant, offset: 1063, length: 9, content: 以觀示四方使放象之, WYG: ''}
+  - {type: voice, offset: 1063, length: 9, name: note, id: n18}
   - {type: punctuation, offset: 1068, content: /, id: KR3k0012_krp_830-bkkpn85}
   - {type: punctuation, offset: 1072, content: ), id: KR3k0012_krp_830-bkkpn86}
   - {type: 'kr:newline', offset: 1078, content: '
@@ -450,6 +468,7 @@ markers:
   - {type: line-break, offset: 1102, content: '', id: KR3k0012_SBCK_830-3a02}
   - {type: punctuation, offset: 1110, content: (, id: KR3k0012_krp_830-bkkpn87}
   - {type: variant, offset: 1110, length: 20, content: 四豆爲區區斗六升四區爲釡釡六斗四升登成也, WYG: ''}
+  - {type: voice, offset: 1110, length: 20, name: note, id: n19}
   - {type: punctuation, offset: 1120, content: /, id: KR3k0012_krp_830-bkkpn88}
   - {type: punctuation, offset: 1130, content: ), id: KR3k0012_krp_830-bkkpn89}
   - {type: 'kr:newline', offset: 1134, content: '
@@ -458,10 +477,12 @@ markers:
   - {type: line-break, offset: 1134, content: '', id: KR3k0012_SBCK_830-3a03}
   - {type: punctuation, offset: 1134, content: (, id: KR3k0012_krp_830-bkkpn90}
   - {type: variant, offset: 1134, length: 4, content: 六斛四斗, WYG: ''}
+  - {type: voice, offset: 1134, length: 4, name: note, id: n20}
   - {type: punctuation, offset: 1136, content: /, id: KR3k0012_krp_830-bkkpn91}
   - {type: punctuation, offset: 1138, content: ), id: KR3k0012_krp_830-bkkpn92}
   - {type: punctuation, offset: 1150, content: (, id: KR3k0012_krp_830-bkkpn93}
   - {type: variant, offset: 1150, length: 34, content: 登加也一謂加舊量之一也以五升爲豆五豆爲區五區爲釡則區二斗釡八斗鍾八斛, WYG: ''}
+  - {type: voice, offset: 1150, length: 34, name: note, id: n21}
   - {type: punctuation, offset: 1158, content: /, id: KR3k0012_krp_830-bkkpn94}
   - {type: punctuation, offset: 1166, content: ), id: KR3k0012_krp_830-bkkpn95}
   - {type: 'kr:newline', offset: 1166, content: '
@@ -473,6 +494,7 @@ markers:
   - {type: punctuation, offset: 1184, content: ), id: KR3k0012_krp_830-bkkpn98}
   - {type: punctuation, offset: 1194, content: (, id: KR3k0012_krp_830-bkkpn99}
   - {type: variant, offset: 1194, length: 5, content: 貸厚而収薄, WYG: ''}
+  - {type: voice, offset: 1194, length: 5, name: note, id: n22}
   - {type: punctuation, offset: 1197, content: /, id: KR3k0012_krp_830-bkkpn100}
   - {type: punctuation, offset: 1199, content: ), id: KR3k0012_krp_830-bkkpn101}
   - {type: 'kr:newline', offset: 1199, content: '
@@ -485,6 +507,7 @@ markers:
   - {type: line-break, offset: 1221, content: '', id: KR3k0012_SBCK_830-3a06}
   - {type: punctuation, offset: 1229, content: (, id: KR3k0012_krp_830-bkkpn102}
   - {type: variant, offset: 1229, length: 21, content: 師古曰因度以生量也其容謂其中所容受之多少也, WYG: ''}
+  - {type: voice, offset: 1229, length: 21, name: note, id: n23}
   - {type: punctuation, offset: 1240, content: /, id: KR3k0012_krp_830-bkkpn103}
   - {type: punctuation, offset: 1250, content: ), id: KR3k0012_krp_830-bkkpn104}
   - {type: variant, offset: 1252, length: 1, content: 穀, WYG: 糓}
@@ -494,6 +517,7 @@ markers:
   - {type: line-break, offset: 1253, content: '', id: KR3k0012_SBCK_830-3a07}
   - {type: punctuation, offset: 1270, content: (, id: KR3k0012_krp_830-bkkpn105}
   - {type: variant, offset: 1270, length: 30, content: 槩欲其直故以水平之井水清清則平也師古曰槩所以槩平斗斛之上者也, WYG: ''}
+  - {type: voice, offset: 1270, length: 30, name: note, id: n24}
   - {type: punctuation, offset: 1276, content: /, id: KR3k0012_krp_830-bkkpn106}
   - {type: punctuation, offset: 1282, content: ), id: KR3k0012_krp_830-bkkpn107}
   - {type: 'kr:newline', offset: 1282, content: '
@@ -517,6 +541,7 @@ markers:
   - {type: variant, offset: 1333, length: 0, content: '', WYG: 庣}
   - {type: punctuation, offset: 1334, content: (, id: KR3k0012_krp_830-bkkpn111}
   - {type: variant, offset: 1334, length: 12, content: 師古曰不滿之處也音吐彫反, WYG: ''}
+  - {type: voice, offset: 1334, length: 12, name: note, id: n25}
   - {type: punctuation, offset: 1336, content: /, id: KR3k0012_krp_830-bkkpn112}
   - {type: punctuation, offset: 1337, content: ), id: KR3k0012_krp_830-bkkpn113}
   - {type: 'kr:newline', offset: 1337, content: '
@@ -530,6 +555,7 @@ markers:
   - {type: variant, offset: 1352, length: 1, content: 爲, WYG: 為}
   - {type: punctuation, offset: 1354, content: (, id: KR3k0012_krp_830-bkkpn117}
   - {type: variant, offset: 1354, length: 17, content: 其上謂仰斛也其下謂覆斛之厎受一斗也, WYG: ''}
+  - {type: voice, offset: 1354, length: 17, name: note, id: n26}
   - {type: punctuation, offset: 1363, content: /, id: KR3k0012_krp_830-bkkpn118}
   - {type: punctuation, offset: 1371, content: ), id: KR3k0012_krp_830-bkkpn119}
   - {type: 'kr:newline', offset: 1372, content: '
@@ -540,6 +566,7 @@ markers:
   - {type: variant, offset: 1377, length: 2, content: 爲合, WYG: 為}
   - {type: punctuation, offset: 1388, content: (, id: KR3k0012_krp_830-bkkpn120}
   - {type: variant, offset: 1388, length: 3, content: 縻散也, WYG: ''}
+  - {type: voice, offset: 1388, length: 3, name: note, id: n27}
   - {type: punctuation, offset: 1390, content: /, id: KR3k0012_krp_830-bkkpn121}
   - {type: punctuation, offset: 1391, content: ), id: KR3k0012_krp_830-bkkpn122}
   - {type: 'kr:newline', offset: 1395, content: '
@@ -554,6 +581,7 @@ markers:
   - {type: punctuation, offset: 1434, content: (, id: KR3k0012_krp_830-bkkpn123}
   - {type: variant, offset: 1434, length: 1, content: 三, WYG: 聲中黄鍾始於黄鍾而反覆焉君制器之象也龠者黄鍾律之實也躍㣲動氣而生物也合者合龠之量也升者登合之量也斗者聚升之量也斛者角斗平多少之量也夫量者躍於龠合於合登於升聚於斗角於斛也職在太倉大司農掌之也孔叢子曰一手之盛謂之溢兩手之盛謂之匊四匊謂之豆豆四謂之區區四謂之釡釡二半謂之藪藪謂之缶缶謂之鍾鍾二有半謂之秉秉}
   - {type: page-break, offset: 1434, content: '', id: KR3k0012_WYG_830-5b, image: WYG0900/WYG0900-0345d.png}
+  - {type: voice, offset: 1434, length: 10, name: note, id: n28}
   - {type: variant, offset: 1436, length: 8, content: 斤爲鈞萬一千五百, WYG: 六斛也曹瞞𫝊曰太祖常賦廩糓不足私謂主者曰如何主者曰以小斛量之太祖曰善後軍中言太祖欺衆太祖謂主者曰當特借汝死以厭衆不然事不解乃取徇曰行小斛盜宫榖斬之軍門}
   - {type: punctuation, offset: 1439, content: /, id: KR3k0012_krp_830-bkkpn124}
   - {type: punctuation, offset: 1444, content: ), id: KR3k0012_krp_830-bkkpn125}
@@ -594,6 +622,7 @@ markers:
   - {type: variant, offset: 1498, length: 1, content: 權, SBCK: 􅁠}
   - {type: punctuation, offset: 1500, content: (, id: KR3k0012_krp_830-bkkpn126}
   - {type: variant, offset: 1500, length: 29, content: 因春分晝夜平則正之同亦平也丈尺曰度斗斛曰量稱錘曰權稱上曰衡, WYG: ''}
+  - {type: voice, offset: 1500, length: 29, name: note, id: n29}
   - {type: punctuation, offset: 1502, content: /, id: KR3k0012_krp_830-bkkpn127}
   - {type: punctuation, offset: 1504, content: ), id: KR3k0012_krp_830-bkkpn128}
   - {type: 'kr:newline', offset: 1504, content: '
@@ -635,6 +664,7 @@ markers:
   - {type: line-break, offset: 1612, content: '', id: KR3k0012_SBCK_830-3b11}
   - {type: variant, offset: 1617, length: 17, content: 厎厎平也謂以厎石厲物令平齊也厎音指, WYG: 底}
   - {type: punctuation, offset: 1618, content: (, id: KR3k0012_krp_830-bkkpn132}
+  - {type: voice, offset: 1618, length: 16, name: note, id: n30}
   - {type: punctuation, offset: 1626, content: /, id: KR3k0012_krp_830-bkkpn133}
   - {type: punctuation, offset: 1634, content: ), id: KR3k0012_krp_830-bkkpn134}
   - {type: variant, offset: 1636, length: 1, content: 凖, WYG: 準}
@@ -650,6 +680,7 @@ markers:
   - {type: line-break, offset: 1664, content: '', id: KR3k0012_SBCK_830-3b13}
   - {type: punctuation, offset: 1681, content: (, id: KR3k0012_krp_830-bkkpn135}
   - {type: variant, offset: 1681, length: 2, content: 孟康, WYG: 在車則見其倚於衡也又}
+  - {type: voice, offset: 1681, length: 10, name: note, id: n31}
   - {type: variant, offset: 1684, length: 1, content: 權, SBCK: 􅁠}
   - {type: variant, offset: 1684, length: 0, content: '', WYG: 齊之以禮此衡在前居南方之義也}
   - {type: variant, offset: 1685, length: 2, content: 衡量, WYG: 者銖兩斤鈞石也所以稱物平施知輕重也本起於黄鍾之重一龠容千二百黍重十二銖兩之為兩二十四銖為兩十六兩為斤}
@@ -672,6 +703,7 @@ markers:
   - {type: line-break, offset: 1691, content: '', id: KR3k0012_SBCK_830-5a01}
   - {type: variant, offset: 1705, length: 27, content: 也孟康曰六甲爲六旬一歳有八節六甲周行成歳以六乗八節得之, WYG: ''}
   - {type: punctuation, offset: 1706, content: (, id: KR3k0012_krp_830-bkkpn138}
+  - {type: voice, offset: 1706, length: 27, name: note, id: n32}
   - {type: punctuation, offset: 1713, content: /, id: KR3k0012_krp_830-bkkpn139}
   - {type: punctuation, offset: 1720, content: ), id: KR3k0012_krp_830-bkkpn140}
   - {type: 'kr:newline', offset: 1720, content: '
@@ -697,6 +729,7 @@ markers:
   - {type: line-break, offset: 1792, content: '', id: KR3k0012_SBCK_830-5a05}
   - {type: punctuation, offset: 1807, content: (, id: KR3k0012_krp_830-bkkpn144}
   - {type: variant, offset: 1807, length: 53, content: 孟康曰稱之數始於銖終於石石重百二十斤象十二月銖之重本取於子律黄鍾一􅕛容千二百黍爲十二銖故曰復於子黄鍾之象也, WYG: ''}
+  - {type: voice, offset: 1807, length: 53, name: note, id: n33}
   - {type: punctuation, offset: 1814, content: /, id: KR3k0012_krp_830-bkkpn145}
   - {type: punctuation, offset: 1821, content: ), id: KR3k0012_krp_830-bkkpn146}
   - {type: 'kr:newline', offset: 1821, content: '
@@ -823,6 +856,7 @@ markers:
   - {type: variant, offset: 2162, length: 1, content: 四, WYG: ''}
   - {type: punctuation, offset: 2177, content: (, id: KR3k0012_krp_830-bkkpn150}
   - {type: variant, offset: 2177, length: 11, content: 偕同也稱斤两也數多少也, WYG: ''}
+  - {type: voice, offset: 2177, length: 11, name: note, id: n34}
   - {type: punctuation, offset: 2182, content: /, id: KR3k0012_krp_830-bkkpn151}
   - {type: punctuation, offset: 2187, content: ), id: KR3k0012_krp_830-bkkpn152}
   - {type: 'kr:newline', offset: 2187, content: '
@@ -1000,6 +1034,7 @@ markers:
   - {type: line-break, offset: 2639, content: '', id: KR3k0012_SBCK_830-6b12}
   - {type: punctuation, offset: 2648, content: (, id: KR3k0012_krp_830-bkkpn155}
   - {type: variant, offset: 2648, length: 13, content: 郭璞注曰南方人呼剪刀爲劑刀, WYG: ''}
+  - {type: voice, offset: 2648, length: 13, name: note, id: n35}
   - {type: punctuation, offset: 2655, content: /, id: KR3k0012_krp_830-bkkpn156}
   - {type: punctuation, offset: 2661, content: ), id: KR3k0012_krp_830-bkkpn157}
   - {type: 'kr:newline', offset: 2661, content: '
@@ -1008,6 +1043,7 @@ markers:
   - {type: line-break, offset: 2661, content: '', id: KR3k0012_SBCK_830-6b13}
   - {type: punctuation, offset: 2669, content: (, id: KR3k0012_krp_830-bkkpn158}
   - {type: variant, offset: 2669, length: 2, content: 所剪, WYG: ''}
+  - {type: voice, offset: 2669, length: 4, name: note, id: n36}
   - {type: punctuation, offset: 2671, content: /, id: KR3k0012_krp_830-bkkpn159}
   - {type: punctuation, offset: 2673, content: ), id: KR3k0012_krp_830-bkkpn160}
   - {type: 'kr:newline', offset: 2675, content: '
@@ -1115,6 +1151,7 @@ markers:
   - {type: line-break, offset: 2927, content: '', id: KR3k0012_SBCK_830-7b02}
   - {type: punctuation, offset: 2928, content: (, id: KR3k0012_krp_830-bkkpn161}
   - {type: variant, offset: 2928, length: 4, content: 幽明録同, WYG: ''}
+  - {type: voice, offset: 2928, length: 4, name: note, id: n37}
   - {type: punctuation, offset: 2930, content: /, id: KR3k0012_krp_830-bkkpn162}
   - {type: punctuation, offset: 2932, content: ), id: KR3k0012_krp_830-bkkpn163}
   - {type: 'kr:newline', offset: 2932, content: '
@@ -1184,6 +1221,7 @@ markers:
   - {type: variant, offset: 3019, length: 1, content: 曰, WYG: ''}
   - {type: punctuation, offset: 3029, content: (, id: KR3k0012_krp_830-bkkpn164}
   - {type: variant, offset: 3029, length: 2, content: 女工, WYG: ''}
+  - {type: voice, offset: 3029, length: 2, name: note, id: n38}
   - {type: punctuation, offset: 3030, content: /, id: KR3k0012_krp_830-bkkpn165}
   - {type: punctuation, offset: 3031, content: ), id: KR3k0012_krp_830-bkkpn166}
   - {type: 'kr:newline', offset: 3031, content: '
@@ -1376,6 +1414,7 @@ markers:
   - {type: line-break, offset: 3536, content: '', id: KR3k0012_SBCK_830-9a01}
   - {type: punctuation, offset: 3543, content: (, id: KR3k0012_krp_830-bkkpn167}
   - {type: variant, offset: 3543, length: 25, content: 幕帷也縷非針无以通故宜先蕢土籠也始於一蕢以成其城也, WYG: ''}
+  - {type: voice, offset: 3543, length: 25, name: note, id: n39}
   - {type: punctuation, offset: 3556, content: /, id: KR3k0012_krp_830-bkkpn168}
   - {type: punctuation, offset: 3568, content: ), id: KR3k0012_krp_830-bkkpn169}
   - {type: 'kr:newline', offset: 3568, content: '
@@ -1385,6 +1424,7 @@ markers:
   - {type: page-break, offset: 3568, content: '', id: KR3k0012_WYG_830-14a, image: WYG0900/WYG0900-0350c.png}
   - {type: variant, offset: 3577, length: 15, content: 針取頭中垢塗針塞其孔水中則浮針, WYG: 鍼}
   - {type: punctuation, offset: 3578, content: (, id: KR3k0012_krp_830-bkkpn170}
+  - {type: voice, offset: 3578, length: 14, name: note, id: n40}
   - {type: variant, offset: 3582, length: 1, content: 塗, SBCK: 􅂗}
   - {type: punctuation, offset: 3585, content: /, id: KR3k0012_krp_830-bkkpn171}
   - {type: punctuation, offset: 3592, content: ), id: KR3k0012_krp_830-bkkpn172}
@@ -1776,4 +1816,4 @@ markers:
 
       ', id: KR3k0012_krp_830-bkkkrnewl267}
   back: []
-hash: sha256:b4003eb1e8f07f3fd58f5a47c3384d74fb043c0665b12274a1688b22906e4a54
+hash: sha256:0453d0fe6464513c81f9a298468eabd44e0fa665aeec0e65836fbb8e7f0762c8

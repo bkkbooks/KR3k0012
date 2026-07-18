@@ -120,6 +120,7 @@ markers:
   - {type: line-break, offset: 258, content: '', id: KR3k0012_SBCK_175-1b05}
   - {type: variant, offset: 258, length: 1, content: 荅, WYG: 答}
   - {type: punctuation, offset: 261, content: (, id: KR3k0012_krp_175-bkkpn1}
+  - {type: voice, offset: 261, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 265, content: /, id: KR3k0012_krp_175-bkkpn2}
   - {type: variant, offset: 267, length: 1, content: 皇, WYG: 凰}
   - {type: punctuation, offset: 269, content: ), id: KR3k0012_krp_175-bkkpn3}
@@ -833,6 +834,7 @@ markers:
   - {type: line-break, offset: 2252, content: '', id: KR3k0012_SBCK_175-5b12}
   - {type: variant, offset: 2258, length: 16, content: 然其䂓矩制度上應星宿亦所以永安也, WYG: ''}
   - {type: punctuation, offset: 2262, content: (, id: KR3k0012_krp_175-bkkpn4}
+  - {type: voice, offset: 2262, length: 22, name: note, id: n2}
   - {type: variant, offset: 2267, length: 1, content: 宿, SBCK: 􅀫}
   - {type: punctuation, offset: 2273, content: /, id: KR3k0012_krp_175-bkkpn5}
   - {type: punctuation, offset: 2284, content: ), id: KR3k0012_krp_175-bkkpn6}
@@ -859,6 +861,7 @@ markers:
   - {type: page-break, offset: 2341, content: '', id: KR3k0012_WYG_175-9b, image: WYG0894/WYG0894-0578d.png}
   - {type: punctuation, offset: 2342, content: (, id: KR3k0012_krp_175-bkkpn7}
   - {type: variant, offset: 2342, length: 1, content: 右, WYG: 在}
+  - {type: voice, offset: 2342, length: 7, name: note, id: n3}
   - {type: variant, offset: 2345, length: 1, content: 在, WYG: 有}
   - {type: punctuation, offset: 2346, content: /, id: KR3k0012_krp_175-bkkpn8}
   - {type: variant, offset: 2348, length: 1, content: 園, WYG: 圃}
@@ -1103,6 +1106,7 @@ markers:
       ', id: KR3k0012_krp_175-bkkkrnewl182}
   - {type: line-break, offset: 2950, content: '', id: KR3k0012_SBCK_175-7b01}
   - {type: punctuation, offset: 2950, content: (, id: KR3k0012_krp_175-bkkpn10}
+  - {type: voice, offset: 2950, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 2952, content: /, id: KR3k0012_krp_175-bkkpn11}
   - {type: punctuation, offset: 2954, content: ), id: KR3k0012_krp_175-bkkpn12}
   - {type: variant, offset: 2965, length: 0, content: '', WYG: 餘}
@@ -1150,4 +1154,4 @@ markers:
 
       ', id: KR3k0012_krp_175-bkkkrnewl190}
   back: []
-hash: sha256:1ee3a339de0cde42c4cf4b432c64eff46f748c1baa9183fc1730b120c94c1e6d
+hash: sha256:78c8965caa74b1e9441aa15486c6f25224a647a6e22792397648d2227fab032a

@@ -878,6 +878,7 @@ markers:
   - {type: variant, offset: 2826, length: 1, content: 陽, WYG: 阪}
   - {type: punctuation, offset: 2830, content: (, id: KR3k0012_krp_155-bkkpn1}
   - {type: variant, offset: 2830, length: 3, content: 太保後, WYG: 又曰}
+  - {type: voice, offset: 2830, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 2832, content: /, id: KR3k0012_krp_155-bkkpn2}
   - {type: punctuation, offset: 2833, content: ), id: KR3k0012_krp_155-bkkpn3}
   - {type: 'kr:newline', offset: 2833, content: '
@@ -888,6 +889,7 @@ markers:
   - {type: variant, offset: 2839, length: 5, content: 國弘農陜􅉑, WYG: ''}
   - {type: punctuation, offset: 2846, content: (, id: KR3k0012_krp_155-bkkpn4}
   - {type: variant, offset: 2846, length: 3, content: 王季後, WYG: 又曰}
+  - {type: voice, offset: 2846, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2848, content: /, id: KR3k0012_krp_155-bkkpn5}
   - {type: punctuation, offset: 2849, content: ), id: KR3k0012_krp_155-bkkpn6}
   - {type: 'kr:newline', offset: 2849, content: '
@@ -1031,4 +1033,4 @@ markers:
 
       ', id: KR3k0012_krp_155-bkkkrnewl176}
   back: []
-hash: sha256:6794b1c978e3796df222d144309f2ea3aae6bad2ffa88a29d43604f5bb201a1e
+hash: sha256:8f38e8b3b7af03fe74d0473320e3447ca681c0cd225aca904b14d30fe58458a1

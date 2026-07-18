@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 6, content: '', id: KR3k0012_SBCK_107-1a03}
   - {type: indent, offset: 6, content: 　　　, id: KR3k0012_krp_107-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR3k0012_krp_107-bkkpn1}
+  - {type: voice, offset: 10, length: 11, name: note, id: n1}
   - {type: 'kr:non-cjk', offset: 12, content: <, id: KR3k0012_krp_107-bkkkrnonc1}
   - {type: variant, offset: 12, length: 1, content: 折, WYG: ''}
   - {type: 'kr:non-cjk', offset: 13, content: t="33", id: KR3k0012_krp_107-bkkkrnonc2}
@@ -1136,6 +1137,7 @@ markers:
   - {type: variant, offset: 3349, length: 1, content: 半, WYG: 先}
   - {type: variant, offset: 3359, length: 5, content: 時年三十七, WYG: ''}
   - {type: punctuation, offset: 3364, content: (, id: KR3k0012_krp_107-bkkpn5}
+  - {type: voice, offset: 3364, length: 4, name: note, id: n2}
   - {type: variant, offset: 3365, length: 1, content: 丗, WYG: 世}
   - {type: variant, offset: 3367, length: 1, content: 附, WYG: 唐}
   - {type: page-break, offset: 3367, content: '', id: KR3k0012_WYG_107-11b, image: WYG0894/WYG0894-0024b.png}
@@ -1318,6 +1320,7 @@ markers:
   - {type: variant, offset: 3883, length: 1, content: 討, WYG: 擊}
   - {type: variant, offset: 3890, length: 2, content: 不音, WYG: ''}
   - {type: punctuation, offset: 3891, content: (, id: KR3k0012_krp_107-bkkpn7}
+  - {type: voice, offset: 3891, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3892, content: /, id: KR3k0012_krp_107-bkkpn8}
   - {type: punctuation, offset: 3893, content: ), id: KR3k0012_krp_107-bkkpn9}
   - {type: variant, offset: 3896, length: 1, content: 疫, WYG: 疾}
@@ -1620,6 +1623,7 @@ markers:
   - {type: variant, offset: 4726, length: 1, content: 歲, WYG: 年}
   - {type: variant, offset: 4728, length: 1, content: 㓕, WYG: 滅}
   - {type: punctuation, offset: 4729, content: (, id: KR3k0012_krp_107-bkkpn10}
+  - {type: voice, offset: 4729, length: 4, name: note, id: n4}
   - {type: variant, offset: 4731, length: 1, content: 德, WYG: 徳}
   - {type: page-break, offset: 4731, content: '', id: KR3k0012_WYG_107-15b, image: WYG0894/WYG0894-0026b.png}
   - {type: variant, offset: 4732, length: 1, content: 附, WYG: 唐}
@@ -2273,4 +2277,4 @@ markers:
 
       ', id: KR3k0012_krp_107-bkkkrnewl322}
   back: []
-hash: sha256:c518b4556ee0710242bbd3e6dccaea831a1ab3b0836424242bcb0b7f00b60eba
+hash: sha256:d08637884911c9b9738c02bc8a916dfd7eae5cc9150f19ae28659f31a7b79058

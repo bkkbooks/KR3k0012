@@ -99,6 +99,7 @@ markers:
       ', id: KR3k0012_krp_671-bkkkrnewl15}
   - {type: line-break, offset: 250, content: '', id: KR3k0012_SBCK_671-1b02}
   - {type: punctuation, offset: 252, content: (, id: KR3k0012_krp_671-bkkpn1}
+  - {type: voice, offset: 252, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 254, content: /, id: KR3k0012_krp_671-bkkpn2}
   - {type: punctuation, offset: 256, content: ), id: KR3k0012_krp_671-bkkpn3}
   - {type: variant, offset: 261, length: 1, content: 玉, WYG: 玊}
@@ -467,11 +468,13 @@ markers:
   - {type: variant, offset: 1416, length: 1, content: 腴, SBCK: 􅃾}
   - {type: punctuation, offset: 1417, content: (, id: KR3k0012_krp_671-bkkpn4}
   - {type: variant, offset: 1417, length: 1, content: 宻, WYG: 蜜}
+  - {type: voice, offset: 1417, length: 18, name: note, id: n2}
   - {type: variant, offset: 1423, length: 1, content: 以, WYG: ''}
   - {type: punctuation, offset: 1426, content: /, id: KR3k0012_krp_671-bkkpn5}
   - {type: variant, offset: 1430, length: 2, content: 爲卉, WYG: 為}
   - {type: punctuation, offset: 1435, content: ), id: KR3k0012_krp_671-bkkpn6}
   - {type: punctuation, offset: 1439, content: (, id: KR3k0012_krp_671-bkkpn7}
+  - {type: voice, offset: 1439, length: 34, name: note, id: n3}
   - {type: punctuation, offset: 1441, content: /, id: KR3k0012_krp_671-bkkpn8}
   - {type: variant, offset: 1441, length: 1, content: 伏, WYG: 茯}
   - {type: punctuation, offset: 1443, content: ), id: KR3k0012_krp_671-bkkpn9}
@@ -900,6 +903,7 @@ markers:
   - {type: variant, offset: 2582, length: 1, content: 眞, WYG: 真}
   - {type: variant, offset: 2588, length: 1, content: 晨, WYG: 辰}
   - {type: punctuation, offset: 2596, content: (, id: KR3k0012_krp_671-bkkpn13}
+  - {type: voice, offset: 2596, length: 32, name: note, id: n4}
   - {type: punctuation, offset: 2602, content: /, id: KR3k0012_krp_671-bkkpn14}
   - {type: punctuation, offset: 2608, content: ), id: KR3k0012_krp_671-bkkpn15}
   - {type: 'kr:newline', offset: 2608, content: '
@@ -1266,4 +1270,4 @@ markers:
 
       ', id: KR3k0012_krp_671-bkkkrnewl194}
   back: []
-hash: sha256:94932fd4b20f17101ed671a797e58ac6250ccd47f9486f95462ed3cedbe02300
+hash: sha256:a15ce35d3448da68705337cce6c8732a17c9681767d94426ceddbb13972e5c58

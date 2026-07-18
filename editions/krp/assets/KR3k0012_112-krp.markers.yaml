@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 6, content: '', id: KR3k0012_SBCK_112-1a03}
   - {type: indent, offset: 6, content: 　　　, id: KR3k0012_krp_112-bkkind2}
   - {type: punctuation, offset: 12, content: (, id: KR3k0012_krp_112-bkkpn1}
+  - {type: voice, offset: 12, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 16, content: ), id: KR3k0012_krp_112-bkkpn2}
   - {type: variant, offset: 19, length: 0, content: '', WYG: 武}
   - {type: 'kr:newline', offset: 21, content: '
@@ -1331,6 +1332,7 @@ markers:
   - {type: variant, offset: 4202, length: 1, content: 反, WYG: 坂}
   - {type: variant, offset: 4209, length: 1, content: 寧, WYG: 寕使朝義}
   - {type: punctuation, offset: 4211, content: (, id: KR3k0012_krp_112-bkkpn3}
+  - {type: voice, offset: 4211, length: 16, name: note, id: n2}
   - {type: variant, offset: 4216, length: 1, content: 日, WYG: 月}
   - {type: variant, offset: 4218, length: 8, content: 畢以貯軍粮朝義城, WYG: ''}
   - {type: punctuation, offset: 4219, content: /, id: KR3k0012_krp_112-bkkpn4}
@@ -1884,4 +1886,4 @@ markers:
 
       ', id: KR3k0012_krp_112-bkkkrnewl297}
   back: []
-hash: sha256:68cae76e5c6e2147194caff813f2a04ca27a25a250c662c0d6896364c989a911
+hash: sha256:bf26a9bebe10ae82ccfd28c1603d528e23eaecaf0cad2a67b14e515dd48d06bd
