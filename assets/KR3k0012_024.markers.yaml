@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3k0012/bkk/v1/markers/24
 seq: 24
 markers:
-  front:
+  body:
   - {type: variant, offset: 0, length: 0, content: '', SBCK: 太平御覽卷第二十四}
   - {type: page-break, offset: 0, content: '', id: KR3k0012_SBCK_024-1a}
   - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書太平御覧卷二十四宋李昉等撰}
@@ -2511,6 +2511,5 @@ markers:
   - {type: punctuation, offset: 3584, content: 。, id: KR3k0012_CHANT_024-bkkpn1080}
   - {type: punctuation, offset: 3584, content: 」, id: KR3k0012_CHANT_024-bkkpn1081}
   - {type: xml-element, offset: 3584, content: '', id: KR3k0012_CHANT_024-bkkxmlele164}
-  body: []
   back: []
-hash: sha256:524044847904a980a10981e335efba7b078f8d742b4aecdd0cd52d5b0f49125f
+hash: sha256:363ab424dc80f1129a74249312f7a0e3b8c1e300b7097103f3231fddfd0c7a09

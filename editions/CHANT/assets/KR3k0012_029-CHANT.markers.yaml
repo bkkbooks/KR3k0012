@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3k0012/CHANT/v1/markers/29
 seq: 29
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 5, content: '', id: KR3k0012_CHANT_029-bkkxmlele1, name: p, role: open}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3k0012_CHANT_029-1a.1}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3k0012_CHANT_029-1a.2}
@@ -2128,6 +2128,5 @@ markers:
   - {type: punctuation, offset: 3649, content: 』, id: KR3k0012_CHANT_029-bkkpn1141}
   - {type: punctuation, offset: 3649, content: 」, id: KR3k0012_CHANT_029-bkkpn1142}
   - {type: xml-element, offset: 3649, content: '', id: KR3k0012_CHANT_029-bkkxmlele166, name: p, role: close}
-  body: []
   back: []
-hash: sha256:a6f7457bb5d5b32214c8eb77f0c57b4a95693e531f991a0d8adfab69cf7becb9
+hash: sha256:f3caa330ba1fd23346fde6f438885cafc9c889291d0b36008f525989b68acdd2
